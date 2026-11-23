@@ -1,0 +1,1 @@
+# converter números armazenados como texto.
