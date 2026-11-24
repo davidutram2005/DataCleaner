@@ -1,0 +1,1501 @@
+﻿ID_Venda;CPF;Nome;Cidade;Email;Data_Venda;Produto;Quantidade;Valor_Total
+V00001;620.116.410-30;Beatriz Mendes;Petrópolis;beatrizmendes0001@example.com;27-06-2025;Cadeira;2;2140.46
+V00002;793.379.156-51;João Araújo;Campinas;jooarajo0002@example.org;2025-12-01;Notebook;1;5604.68
+V00003;884.442.056-22;Natália Ribeiro;Rio de Janeiro;natliaribeiro0003@example.org;30/10/26;SSD;7;4907.66
+V00004;778.260.241-62;Rafael Almeida;Belo Horizonte;rafaelalmeida0004@example.com;31/02/2026;Memória RAM;5;3025.92
+V00005;562.864.390-49;Camila Gomes;Volta Redonda;camilagomes0005@example.com;14/12/25;Teclado;5;827.75
+V00006;673.373.365-01;Natália Almeida;Juiz de Fora;natliaalmeida0006@example.net;2025-03-14;Mouse;2;99.48
+V00007;579.285.699-07;Isabela Dias;Contagem;isabeladias0007 @example.net;24/01/2025;Webcam;6;2810.55
+V00008;153.589.896-85;Vitória Souza;Leopoldina;vitriasouza0008@example.org;23/02/2026;Impressora;2;3497.16
+V00009;143.699.811-59;Larissa Oliveira;Viçosa;larissaoliveira0009@example.org;;Mouse;5;822.42
+V00010;922.942.782-92;Natália Gomes;Além Paraíba;natliagomes0010@example.org;16/10/25;Notebook;5;28362.6
+V00011;356.996.430-29;Mariana Nascimento;Rio de Janeiro;mariananascimento0011@example.org;08/17/2025;Roteador;8;2134.5
+V00012;122.616.138-31;Isabela Almeida;Niterói;isabelaalmeida0012@example.org;02/04/2025;Roteador;3;1861.28
+V00013;782.758.400-41;Gabriela Martins;Rio de Janeiro;gabrielamartins0013@example.com;24-04-2025;Roteador;;603.87
+V00014;643.660.619-03;Lucas Almeida;Campinas;email..duplicado@example.com;15/02/2025;Roteador;7;3531.77
+V00015;298.589.574-09;Carla Fernandes;Barbacena;carlafernandes0015@example.com;02/04/2026;Teclado;7;2348,91
+V00016;440.016.961-86;André Rocha;Contagem;andrrocha0016@example.net;26-03-2025;;1;89.6
+V00017;459.742.516-02;Bruno Oliveira;Belo Horizonte;brunooliveira0017@example.com;;Mouse;5;874.92
+V00018;859.214.928-26;Henrique Mendes;Santos Dumont;henriquemendes0018@example.org;17/03/2025;Smartphone;2;9459.33
+V00019;719.003.076-01;João Fernandes;Miraí;joofernandes0019@example.com;17-02-2025;Notebook;5;25245.59
+V00020;584.358.192-65;Ana Carvalho;Viçosa;anacarvalho0020@example.com;05/08/2026;Notebook;7;44127.48
+V00021;694.003.130-81;  Daniel Fernandes  ;Rio de Janeiro;danielfernandes0021@example.org;31/02/2026;Teclado;4;1323.73
+V00022;931.719.433-88;Paula Mendes;Rio de Janeiro;paulamendes0022@example.org;18-06-2025;Webcam;4;1412.85
+V00023;293.556.800-16;  Natália Araújo  ;Volta Redonda;natliaarajo0023@example.com;17-09-2025;Memória RAM;5;1404.83
+V00024;259.239.322-62;Eduarda Oliveira;Cataguases;eduardaoliveira0024 @example.net;2026-11-04;Headset;3;999.55
+V00025;813.997.016-66;Henrique Gomes;Barbacena;henriquegomes0025@example.com;31-10-2025;Notebook;7,00;22123.09
+V00026;839.680.087-16;Larissa Pereira;Niterói;larissapereira0026@example.net;2026-10-07;SSD;5;4227.15
+V00027;956.397.004-76;Paula Nascimento;Campinas;paulanascimento0027@example.org;2026/02/23;Roteador;1;405.34
+V00028;303.084.802-70;Thiago Santos;Petrópolis;thiagosantos0028@example.com;2025/12/15;Smartphone;3;3067.99
+V00029;637.114.116-31;Beatriz Barbosa;Leopoldina;beatrizbarbosa0029@example.net;2025-01-31;Cadeira;7,00;3853.02
+V00030;205.176.320-81;Larissa Gomes;Contagem;larissagomes0030@example.org;09/15/2025;Memória RAM;2;621.36
+V00031;585.841.071-51;Henrique Lima;São Paulo;henriquelima0031@example.org;01/03/2026;Headset;2;979.97
+V00032;309.250.205-17;Lucas Fernandes;Santos Dumont;lucasfernandes0032@example.org;10-02-2025;Headset;3;366.8
+V00033;892.523.530-71;Otávio Rocha;Além Paraíba;otviorocha0033@example.net;08/07/25;Monitor;5;8956.54
+V00034;403.822.467-81;Eduarda Santos;Miraí;eduardasantos0034@example.com;19/04/2025;Impressora;1;461.59
+V00035;886.470.334-94;Henrique Oliveira;Contagem;henriqueoliveira0035 @example.com;11-07-2025;Cadeira;7;3798.51
+V00036;326.914.743-06;Lucas Costa;Miraí;lucascosta0036@example.org;17/09/26;Headset;6;3432.5
+V00037;;Bruno Gomes;Além Paraíba;brunogomes0037@example.com;18/02/25;Headset;5;960.62
+V00038;181.157.472-63;Sabrina Santos;Juiz de Fora;sabrinasantos0038@example.com;18/04/2026;SSD;8;5751.5
+V00039;592.688.684-83;André Nascimento;Viçosa;andrnascimento0039@example.net;2025-03-11;Headset;8;4862.34
+V00040;876.273.043-60;Ana Rodrigues;Juiz de Fora;nome sobrenome@example.com;07/05/2026;Impressora;;4046.57
+V00041;373.063.474-71;Felipe Oliveira; Juiz de Fora ;felipeoliveira0041@example.com;15-06-2025;Roteador;1;176.81
+V00042;355.037.680-44;Eduarda Araújo; Contagem ;eduardaarajo0042@example.net;21-01-2026;Roteador;1;269.99
+V00043;752.788.390-16;Mariana Pereira;Petrópolis;marianapereira0043@example.net;2025/06/18;Webcam;2;955.93
+V00044;632.797.637-98;Paula Mendes;Santos Dumont;paulamendes0044@example.net;14/08/2026;Cadeira;8;9352.52
+V00045;864.059.390-66;Lucas Santos;Betim;lucassantos0045@example.org;13/03/26;Mouse;5;1376.6
+V00046;689.011.190-73;Henrique Costa;Rio de Janeiro;henriquecosta0046@example.org;08-10-2026;SSD;8;R$ 5.646,79
+V00047;254.285.524-26;  Carla Carvalho  ;Betim;carlacarvalho0047@example.org;10/02/25;Monitor;5;4175.19
+V00048;424.842.510-69;Beatriz Dias;Belo Horizonte;beatrizdias0048@example.com;05/01/2026;Roteador;8;1350.03
+V00049;135.854.285-69;Mariana Carvalho; Campinas ;marianacarvalho0049@example.org;21/08/26;Smartphone;1;3078.63
+V00050;287.120.845-07;Vitória Souza; Betim ;vitriasouza0050@example.org;08/02/25;SSD;8;1498.86
+V00051;683.833.668-51;Carla Costa;Betim;carlacosta0051@example.com;04/16/2025;Monitor;1;1502.09
+V00052;207.918.448-21;Rafael Fernandes; Barbacena ;;31-08-2026;Smartphone;1;R$ 4.360,77
+V00053;249.217.739-48;Larissa Mendes;Niterói;larissamendes0053@example.net;24/05/2025;Roteador;1;608.24
+V00054;371.539.070-00;Isabela Souza;Matias Barbosa;isabelasouza0054@example.com;23-08-2025;Mouse;2;261.73
+V00055;078.201.868-88;Gabriela Gomes;Petrópolis;gabrielagomes0055@example.com;2026-05-12;SSD;7;2950.3
+V00056;498.453.825-26;Felipe Pereira;Belo Horizonte;felipepereira0056@example.com;03/03/2026;Roteador;7;2634.81
+V00057;925.324.470-45;João Santos;Contagem;joosantos0057@example.net;10/10/2026;Webcam;5;1237.2
+V00058;;Rafael Barbosa;Juiz de Fora;rafaelbarbosa0058@example.org;2025-09-07;Notebook;6;38276.17
+V00059;391.539.738-53;Natália Carvalho;Cataguases;natliacarvalho0059@example.com;20-01-2026;Mouse;8;672.06
+V00060;838.387.773-02;Vitória Ribeiro;Juiz de Fora;vitriaribeiro0060@example.net;2026/03/03;Webcam;1;405.46
+V00061;459.543.041-82;Gabriela Souza;Matias Barbosa;gabrielasouza0061@example.org;25-03-2025;Cadeira;2;1690.72
+V00062;472.973.313-42;Otávio Ribeiro;Rio de Janeiro;otvioribeiro0062@example.org;2025-06-05;Memória RAM;5;827.29
+V00063;985.145.483-45;  Marcos Rocha  ;Betim;marcosrocha0063@example.org;07/12/25;Impressora;4;6787.19
+V00064;123.456.789-00;Mariana Dias;Além Paraíba;marianadias0064@example.net;07/12/2025;Teclado;4;856.44
+V00065;275.626.561-60;Daniel Gomes;São Paulo;danielgomes0065@example.com;;Smartphone;6,00;18437.12
+V00066;642.399.928-78;Isabela Dias;Matias Barbosa;isabeladias0066@example.org;2026-02-12;;6;2497.11
+V00067;594.899.265-91;  Beatriz Santos  ;Juiz de Fora;beatrizsantos0067@example.com;07/10/2025;Memória RAM;;3907,55
+V00068;056.515.471-01;Isabela Ribeiro;Leopoldina;isabelaribeiro0068@example.org;2025/06/18;Teclado;7;534.97
+V00069;660.953.453-50;André Oliveira;Muriaé;androliveira0069@example.com;28/11/2025;Monitor;4,00;6365.74
+V00070;082.396.835-93;  Pedro Oliveira  ;Niterói;pedrooliveira0070@example.com;06-06-2026;Smartphone;2;6859.44
+V00071;866.542.315-04;Larissa Ribeiro;Rio de Janeiro;@example.com;05/10/2025;Notebook;5;16865,56
+V00072;092.335.600-24;Thiago Gomes;Belo Horizonte;thiagogomes0072@example.com;07/11/2026;;5;1647.99
+V00073;200.277.796-97;;Juiz de Fora;larissasilva0073@example.org;2026-03-08;Webcam;7;933.8
+V00074;618.483.892-06;Marcos Silva;Volta Redonda;marcossilva0074@example.com;09/02/2026;Roteador;6;R$ 2.654,72
+V00075;409.754.243-52;Sabrina Lima;Campinas;sabrinalima0075@example.com;2026/08/27;SSD;3;2508.86
+V00076;834.227.780-13;Sabrina Santos;Contagem;sabrinasantos0076@example.com;19-08-2026;Notebook;1;3753.16
+V00077;770.197.855-07;Henrique Rocha;Miraí;henriquerocha0077@example.com;17-10-2026;Mouse;5;1021.12
+V00078;762.676.608-35;Thiago Costa;Viçosa;thiagocosta0078@example.org;2025-02-27;Impressora;8;6152.57
+V00079;765.781.744-52;Pedro Barbosa; São Paulo ;pedrobarbosa0079@example.org;08-01-2026;Headset;6;2052.02
+V00080;162.965.130-39;Daniel Dias;Contagem;danieldias0080@example.org;27-01-2026;Mouse;4;310.62
+V00081;703.276.105-40;Isabela Rocha;Contagem;isabelarocha0081@example.net;11/06/2025;Teclado;1;245.96
+V00082;691.772.579-02;André Souza;Niterói;andrsouza0082@example.net;2025-10-30;Notebook;7;26785.76
+V00083;635.479.010-82;André Almeida;São Paulo;andralmeida0083@example.com;2025/07/23;Notebook;1;3962.74
+V00084;382.070.270-97;Camila Oliveira;Muriaé;camilaoliveira0084@example.net;16/10/25;Cadeira;7;10625.17
+V00085;079.895.926-66;André Ribeiro;São Paulo;andrribeiro0085@example.com;06/04/25;SSD;7;2036.39
+V00086;512.866.135-08;Sabrina Rocha;Petrópolis;sabrinarocha0086@example.net;2025/10/03;Cadeira;5;3507.22
+V00087;784.534.255-67;Daniel Souza;Muriaé;danielsouza0087@example.org;2025-11-07;;5;18276,36
+V00088;901.043.777-99;André Araújo;Volta Redonda;andrarajo0088@example.net;01/07/2026;Impressora;1;1314.89
+V00089;693.830.205-72;;Cataguases;camilarocha0089@example.com;2025/08/10;SSD;5;3392.38
+V00090;820.994.409-65;Felipe Araújo;Muriaé;felipearajo0090@example.com;25/03/2026;Memória RAM;1;468.24
+V00091;;Paula Silva;Betim;paulasilva0091@example.net;2025-01-29;Smartphone;8;14842.49
+V00092;366.785.485-41;Vitória Carvalho;Muriaé;vitriacarvalho0092@example.net;2025-02-27;Webcam;1;R$ 292,55
+V00093;935.897.286-64;  Thiago Rodrigues  ;Além Paraíba;thiagorodrigues0093@example.org;05/06/2025;Mouse;6;867.86
+V00094;325.301.435-53;Pedro Dias;Juiz de Fora;pedrodias0094@example.net;11/09/2026;Impressora;4;R$ 4.274,98
+V00095;738.904.700-34;Bruno Fernandes;Campinas;brunofernandes0095@example.net;08/03/2025;Cadeira;2;2040.58
+V00096;020.585.524-59;Natália Ribeiro;Santos Dumont;natliaribeiro0096@example.net;12/21/2025;Memória RAM;3;R$ 1.326,31
+V00097;825.216.748-94;André Souza;Viçosa;andrsouza0097@example.net;18-10-2025;Mouse;4;737.94
+V00098;962.899.011-00;Thiago Silva;Contagem;thiagosilva0098@example.com;03/02/2025;Mouse;3;524.05
+V00099;389.680.019-11;Gabriela Santos;Belo Horizonte;gabrielasantos0099@example.com;29-04-2025;Webcam;4;1988.19
+V00100;854.136.568-91;Bruno Dias;Cataguases;brunodias0100 @example.net;10/03/25;Teclado;7;1372.97
+V00101;482.323.922-91;Larissa Oliveira;Barbacena;larissaoliveira0101@example.com;17/12/2025;Notebook;6;19451,91
+V00102;244.001.380-39;  Camila Costa  ; Volta Redonda ;camilacosta0102@example.net;26/05/2025;Memória RAM;5;2754.58
+V00103;607.399.408-73;Beatriz Gomes;Belo Horizonte;beatrizgomes0103@example.net;2026/02/25;Teclado;2;422.02
+V00104;901.198.723-32;Paula Almeida;Leopoldina;paulaalmeida0104@example.org;16-08-2026;Headset;3;1560.06
+V00105;417.289.075-01;Camila Costa;Muriaé;camilacosta0105@example.net;2026/09/07;Notebook;1;4977,94
+V00106;335.535.049-44;Isabela Mendes;;isabelamendes0106@example.org;13/07/2025;Headset;4;1296.49
+V00107;098.893.712-36;Isabela Rocha;Cataguases;isabelarocha0107@example.net;27-04-2026;Smartphone;7;8434.29
+V00108;600.857.210-60;Rafael Araújo;Santos Dumont;rafaelarajo0108@example.org;09/19/2026;Webcam;2;526.58
+V00109;210.913.683-93;Paula Gomes;;paulagomes0109@example.org;2026-09-18;Cadeira;8;9543.23
+V00110;166.785.841-64;André Ribeiro;Belo Horizonte;andrribeiro0110@example.org;2026/07/20;Headset;3;R$ 1.003,60
+V00111;353.942.815-14;Larissa Silva; Petrópolis ;larissasilva0111@example.org;2026-05-23;Cadeira;4;3113.9
+V00112;366.456.394-82;Beatriz Fernandes;Petrópolis;beatrizfernandes0112@example.com;16/09/2026;Monitor;8;9269.54
+V00113;832.441.733-82;Rafael Silva; Santos Dumont ;rafaelsilva0113@example.net;2026/01/12;Memória RAM;4;1511.75
+V00114;453.744.305-73;Marcos Martins;Viçosa;marcosmartins0114@example.org;2026/06/04;Smartphone;2;7383.3
+V00115;905.722.086-51;Lucas Santos;Niterói;lucassantos0115@example.com;05/05/26;Roteador;5;3499.54
+V00116;336.244.457-16;Gabriela Martins;Matias Barbosa;gabrielamartins0116@example.net;2026/05/26;Roteador;3;673.66
+V00117;796.207.758-14;Isabela Almeida;Contagem;isabelaalmeida0117@example.net;2026/11/13;Webcam;4;1765.85
+V00118;;Henrique Costa;Miraí;henriquecosta0118@example.net;31-01-2026;Teclado;2;889.74
+V00119;544.965.123-61;André Silva;Rio de Janeiro;andrsilva0119@example.com;2025/11/28;Monitor;2;2051.29
+V00120;405.471.916-35;André Carvalho;Cataguases;andrcarvalho0120@example.net;09/04/2025;Teclado;4;362.96
+V00121;112.782.924-63;Henrique Gomes;São Paulo;henriquegomes0121@example.com;2026-05-29;Mouse;5;1095.17
+V00122;818.918.199-85;Beatriz Martins;Miraí;beatrizmartins0122@example.com;06/17/2026;Roteador;6;3956.2
+V00123;636.259.279-43;Felipe Barbosa;;felipebarbosa0123@example.com;05/06/2026;Mouse;7;291,08
+V00124;277.325.088-59;Vitória Silva;São Paulo;vitriasilva0124@example.org;05/12/2025;Notebook;7;30627.41
+V00125;532.093.158-18;Isabela Carvalho;Campinas;isabelacarvalho0125@example.org;2026/04/29;Mouse;8;1106.32
+V00126;344.348.818-85;Gabriela Martins;Petrópolis;gabrielamartins0126@example.org;03/09/2026;Memória RAM;7;2209.44
+V00127;785.516.307-77;André Dias;Volta Redonda;andrdias0127@example.org;2026-07-10;Notebook;6;20397.4
+V00128;;Eduarda Almeida;Cataguases;eduardaalmeida0128@example.org;01-09-2025;Monitor;5;R$ 6.609,85
+V00129;297.611.103-04;Isabela Pereira;Além Paraíba;isabelapereira0129@example.net;2026-02-21;Memória RAM;6;2293.65
+V00130;;Sabrina Mendes;Muriaé;sabrinamendes0130@example.org;10/02/2026;Mouse;3;509.01
+V00131;511.201.492-08;Bruno Costa;Volta Redonda;brunocosta0131@example.net;25/03/2025;Notebook;1;4891.45
+V00132;195.738.260-04;Otávio Araújo;Além Paraíba;otvioarajo0132@example.org;07/04/2025;Headset;2;894.02
+V00133;458.434.983-53;Thiago Oliveira;São Paulo;thiagooliveira0133@example.com;2026-05-10;Smartphone;3;10495.37
+V00134;831.875.361-59;Gabriela Rocha;Volta Redonda;gabrielarocha0134@example.net;18-03-2025;Teclado;6;824.61
+V00135;;Henrique Costa;São Paulo;henriquecosta0135@example.com;31-12-2025;Memória RAM;7;2974.89
+V00136;055.385.375-96;;Barbacena;larissadias0136@example.org;2025-10-16;Roteador;4;2564.27
+V00137;505.084.100-38;Thiago Pereira;Contagem;thiagopereira0137@example.net;26/03/26;Notebook;1;5026.8
+V00138;477.253.571-31;  Ana Oliveira  ;Campinas;anaoliveira0138@example.net;2025-07-13;Mouse;8;R$ 586,13
+V00139;348.483.388-25;Paula Carvalho;Miraí;paulacarvalho0139@example.com;20/02/26;Teclado;3;979.58
+V00140;419.863.282-02;André Martins;Niterói;andrmartins0140@example.org;2025-04-16;Mouse;1;117.21
+V00141;911.024.937-09;Marcos Gomes;Santos Dumont;marcosgomes0141@example.com;23/11/2025;Memória RAM;2;363.27
+V00142;331.870.467-98;Carla Rodrigues;Viçosa;carlarodrigues0142@example.org;2025-06-09;SSD;5;1071.09
+V00143;815.608.046-71;Thiago Costa;Viçosa;thiagocosta0143@example.net;19/02/2026;Monitor;1;589.46
+V00144;748.282.412-06;Marcos Rodrigues;Viçosa;marcosrodrigues0144@example.net;28/05/2026;Teclado;3;282.33
+V00145;814.043.645-37;Gabriela Oliveira;São Paulo;gabrielaoliveira0145@example.net;10/11/25;Smartphone;5;19159.44
+V00146;716.623.912-35;  Sabrina Martins  ;Barbacena;sabrinamartins0146@example.net;19-09-2026;Smartphone;6;20447.65
+V00147;637.272.911-34;Beatriz Silva;Contagem;beatrizsilva0147@example.com;2025/08/03;SSD;2;998.94
+V00148;427.739.092-76;Otávio Costa;Cataguases;otviocosta0148@example.org;06/20/2025;Memória RAM;4;3100.4
+V00149;437.625.165-89;Sabrina Fernandes;Juiz de Fora;sabrinafernandes0149@example.com;30/10/2026;Memória RAM;7;1603.72
+V00150;;Isabela Pereira;Rio de Janeiro;isabelapereira0150@example.com;2026-09-20;Teclado;6;1443.57
+V00151;364.661.445-51;  Camila Carvalho  ;Leopoldina;camilacarvalho0151@example.com;07/04/2026;SSD;8,00;3222.15
+V00152;177.091.621-01;Ana Araújo;Cataguases;anaarajo0152@example.org;17/08/26;Smartphone;4;13394.87
+V00153;646.128.006-57;Bruno Carvalho;Rio de Janeiro;brunocarvalho0153@example.com;13/04/2026;Webcam;5;2166.34
+V00154;348.558.239-54;Marcos Pereira;Juiz de Fora;marcospereira0154 @example.net;10/09/2026;Notebook;7;25880.85
+V00155;941.987.484-21;Camila Dias;Leopoldina;camiladias0155@example.org;2025-12-02;SSD;8;5715.44
+V00156;077.603.839-76;Eduarda Nascimento;Rio de Janeiro;eduardanascimento0156@example.net;01/10/2026;Impressora;1;549.68
+V00157;386.338.295-18;Henrique Dias;Rio de Janeiro;henriquedias0157@example.com;16/06/2026;Roteador;4;2092,13
+V00158;476.236.353-70;Daniel Silva;Campinas;danielsilva0158@example.org;2026-04-11;Impressora;1;1563.48
+V00159;498.090.040-29;Otávio Barbosa;Matias Barbosa;otviobarbosa0159 @example.org;01/21/2025;Memória RAM;7;4124.66
+V00160;943.184.663-20;Isabela Nascimento;Belo Horizonte;isabelanascimento0160 @example.net;03/14/2026;Mouse;7;1587.13
+V00161;186.142.206-78;Otávio Barbosa;Niterói;otviobarbosa0161@example.org;16/05/2026;Cadeira;2;2356.47
+V00162;848.084.149-46;Pedro Lima;Barbacena;pedrolima0162@example.com;15/06/2025;Memória RAM;2;309.03
+V00163;874.669.183-96;Mariana Ribeiro;São Paulo;marianaribeiro0163@example.com;03/03/26;Headset;4;689.03
+V00164;062.320.204-22;André Almeida;Matias Barbosa;andralmeida0164@example.org;03/15/2026;Memória RAM;6;1495.65
+V00165;923.621.629-32;Daniel Mendes;;danielmendes0165@example.com;07/31/2026;Monitor;4;3320.93
+V00166;;Rafael Mendes;Cataguases;rafaelmendes0166@example.com;13/07/2025;Memória RAM;2;861.43
+V00167;473.972.344-11;Gabriela Ribeiro;Muriaé;gabrielaribeiro0167@example.com;2025-05-16;Cadeira;4;2665,97
+V00168;586.073.107-81;Eduarda Martins;Ubá;eduardamartins0168@example.com;19/11/2025;Webcam;7;1887.93
+V00169;492.992.028-01;Bruno Mendes;Santos Dumont;brunomendes0169@example.net;2026/02/28;Notebook;4;22764.51
+V00170;097.484.217-68;Rafael Costa;Viçosa;rafaelcosta0170@example.org;2025/03/25;SSD;5;1722.92
+V00171;580.480.499-54;Mariana Mendes;Miraí;marianamendes0171@example.com;;Monitor;4,00;2364,13
+V00172;915.938.222-87;Camila Araújo; Juiz de Fora ;camilaarajo0172@example.com;13/01/26;Monitor;5;3040.88
+V00173;862.892.482-52;Ana Silva;Belo Horizonte;anasilva0173@example.net;18/10/2025;Cadeira;3;3998.53
+V00174;150.897.097-19;Lucas Pereira;Cataguases;lucaspereira0174@example.org;2025/07/29;Cadeira;6;5936.55
+V00175;335.524.926-24;  Rafael Oliveira  ;São Paulo;rafaeloliveira0175@example.org;09-08-2025;Mouse;1,00;179.91
+V00176;542.997.109-09;Vitória Rodrigues;Volta Redonda;vitriarodrigues0176@example.org;09/10/26;SSD;7;5631.21
+V00177;624.127.658-13;Larissa Costa;Contagem;larissacosta0177@example.com;18/12/2025;Notebook;1;3501.88
+V00178;927.103.255-10;Vitória Carvalho;Ubá;;2025-06-18;Teclado;7;2464.16
+V00179;422.745.846-31;Beatriz Costa;São Paulo;beatrizcosta0179@example.com;12/29/2025;Monitor;6;9651.04
+V00180;069.996.099-19;Larissa Costa;Barbacena;larissacosta0180 @example.org;07/14/2026;Webcam;3;883.02
+V00181;040.941.634-77;Camila Almeida;Santos Dumont;camilaalmeida0181@example.net;2025-09-23;Monitor;6;5450.53
+V00182;675.484.162-11;Otávio Gomes;Matias Barbosa;otviogomes0182@example.org;2025-02-05;Notebook;4;20651.46
+V00183;959.582.483-68;Pedro Fernandes;Santos Dumont;pedrofernandes0183@example.net;11/08/26;Roteador;8;4847.31
+V00184;459.109.558-46;Camila Mendes;Santos Dumont;camilamendes0184@example.net;2025/10/20;Webcam;5;2070.47
+V00185;144.807.259-04;Henrique Ribeiro;Rio de Janeiro;henriqueribeiro0185@example.org;02-08-2026;Headset;8;3616.72
+V00186;388.457.322-59;Natália Santos;Campinas;natliasantos0186@example.org;2025/02/24;Notebook;1;5853.63
+V00187;205.423.489-35;Rafael Costa;Betim;rafaelcosta0187@example.com;24/02/25;Impressora;6;6102.78
+V00188;;Felipe Souza;Contagem;felipesouza0188@example.net;13/02/25;Monitor;3;4677.06
+V00189;544.760.495-84;Beatriz Barbosa;Viçosa;beatrizbarbosa0189@example.net;28/03/2026;Teclado;8;3062,62
+V00190;940.700.313-25;Gabriela Pereira;São Paulo;gabrielapereira0190@example.net;20/12/25;Webcam;1;525.88
+V00191;728.276.872-25;Henrique Almeida;Betim;henriquealmeida0191 @example.org;2025-04-25;Memória RAM;1;560.55
+V00192;843.882.529-06;João Rocha;Muriaé;joorocha0192@example.net;2026-04-02;Monitor;2;1933.0
+V00193;476.135.336-80;Felipe Silva;Miraí;felipesilva0193@example.net;09/03/2026;Webcam;4;1173.61
+V00194;262.622.518-56;Eduarda Dias;Contagem;eduardadias0194@example.com;06/30/2025;Memória RAM;7;1008.39
+V00195;445.101.275-97;Larissa Araújo;Leopoldina;larissaarajo0195@example.com;2025/02/21;Memória RAM;7;
+V00196;;Sabrina Lima;Niterói;sabrinalima0196@example.com;06/03/2026;Smartphone;8;38527.56
+V00197;686.887.178-35;Thiago Gomes;Juiz de Fora;thiagogomes0197@example.net;;Memória RAM;4;1454.39
+V00198;188.112.193-38;Otávio Dias;Matias Barbosa;otviodias0198@example.net;17/11/26;Mouse;1;234.54
+V00199;633.725.249-78;Bruno Santos;Cataguases;brunosantos0199@example.com;02-11-2025;Monitor;3,00;4210.37
+V00200;654.167.603-80;Lucas Rocha;Cataguases;lucasrocha0200@example.net;04/01/2026;Smartphone;1;3918.75
+V00201;985.825.617-51;Mariana Lima;Miraí;marianalima0201@example.org;01/09/2026;Impressora;6;7131.14
+V00202;134.507.658-42;Otávio Carvalho;Leopoldina;email_sem_arroba.com;18-12-2025;Monitor;8;5433.67
+V00203;875.755.872-85;  Pedro Ribeiro  ;São Paulo;pedroribeiro0203@example.org;20/08/2025;Headset;7;677.02
+V00204;059.126.697-01;Gabriela Almeida;Barbacena;gabrielaalmeida0204@example.net;20/12/25;Memória RAM;7;1226.87
+V00205;975.157.648-22;André Mendes;Campinas;andrmendes0205@example.org;23/03/26;Impressora;7;10488.78
+V00206;114.006.748-68;Bruno Martins;Além Paraíba;brunomartins0206@example.com;12-04-2025;Webcam;4;914.4
+V00207;455.207.299-49;Larissa Pereira;Volta Redonda;larissapereira0207@example.net;07-07-2026;Headset;3;
+V00208;743.455.834-21;André Souza;Ubá;andrsouza0208@example.org;23/08/2025;Mouse;1;218.7
+V00209;378.960.444-56;Ana Nascimento;São Paulo;ananascimento0209@example.org;22/06/25;Teclado;1;126.69
+V00210;568.241.388-10;Pedro Rodrigues;Belo Horizonte;pedrorodrigues0210@example.net;02/01/2026;Impressora;8;4410.04
+V00211;001.194.938-46;Natália Rodrigues;Miraí;natliarodrigues0211@example.com;;Smartphone;3;13291,85
+V00212;280.909.532-99;  Marcos Costa  ;Petrópolis;marcoscosta0212@example.com;19/11/25;Roteador;1;654.23
+V00213;825.568.883-86;Bruno Almeida;Miraí;brunoalmeida0213@example.com;2025-11-12;Monitor;3;4033.46
+V00214;008.633.472-75;Pedro Carvalho;Cataguases;pedrocarvalho0214@example.org;08/28/2025;Webcam;6;2889.62
+V00215;582.882.643-37;Henrique Nascimento;Muriaé;henriquenascimento0215@example.com;03/14/2026;Smartphone;1;1641.53
+V00216;201.090.436-27;Vitória Pereira;Barbacena;vitriapereira0216@example.com;2025/11/09;Smartphone;8;16630.44
+V00217;329.772.112-00;Carla Oliveira;Barbacena;carlaoliveira0217@example.net;09/06/25;Mouse;2;335.58
+V00218;906.749.628-60;Felipe Martins;Belo Horizonte;felipemartins0218 @example.com;15/05/2026;Roteador;7;1990.02
+V00219;890.321.412-96;Thiago Barbosa; Santos Dumont ;thiagobarbosa0219@example.net;13/08/25;Teclado;4;1091.45
+V00220;071.338.272-48;Natália Nascimento;Muriaé;natlianascimento0220@example.org;01/12/25;Teclado;4;1693.97
+V00221;300.218.264-81;Paula Ribeiro;Santos Dumont;paularibeiro0221@example.com;04/04/2025;Cadeira;8;5035.33
+V00222;957.379.676-71;Carla Araújo;Miraí;carlaarajo0222@example.org;03/06/2026;Cadeira;4;R$ 2.053,89
+V00223;778.125.753-74;Bruno Santos;Barbacena;brunosantos0223 @example.org;2025-04-23;Memória RAM;6;1611.93
+V00224;952.614.879-79;Lucas Dias; Viçosa ;lucasdias0224@example.org;03/10/26;Notebook;3;12576.44
+V00225;011.184.346-42;Marcos Mendes;Matias Barbosa;marcosmendes0225@example.net;03-05-2026;Mouse;1;113.81
+V00226;934.000.058-79;Eduarda Nascimento;Betim;eduardanascimento0226@example.net;06/11/2026;Smartphone;3;5655.04
+V00227;475.753.786-78;Otávio Almeida;São Paulo;otvioalmeida0227@example.com;10/08/26;Roteador;2;701.54
+V00228;123.456.789-00;Henrique Ribeiro;Viçosa;henriqueribeiro0228@example.net;13/05/2026;SSD;6;4281.45
+V00229;429.024.604-40;Natália Rodrigues;Matias Barbosa;natliarodrigues0229@example.net;11-04-2025;Webcam;7;1996.36
+V00230;958.271.908-71;Isabela Rodrigues;Ubá;isabelarodrigues0230@example.org;11/09/2026;Mouse;6;287.67
+V00231;816.557.522-87;Ana Rocha;Cataguases;anarocha0231@example.com;09/13/2026;Mouse;7;1137.83
+V00232;809.100.013-84;Beatriz Rodrigues;Rio de Janeiro;beatrizrodrigues0232@example.net;07/08/2025;Roteador;1;669.26
+V00233;504.202.938-93;Camila Pereira;Miraí;camilapereira0233@example.com;24/11/2025;Cadeira;1;487.01
+V00234;557.688.311-01;Marcos Mendes; Juiz de Fora ;marcosmendes0234@example.org;2026/02/24;Headset;5;3190.45
+V00235;896.530.450-41;Daniel Costa;Muriaé;danielcosta0235@example.com;19/04/2025;Monitor;7;9203.95
+V00236;184.132.345-40;Lucas Carvalho;Leopoldina;lucascarvalho0236@example.net;09/16/2025;Roteador;6;1835.39
+V00237;128.013.988-97;Pedro Santos;Rio de Janeiro;pedrosantos0237@example.org;02/06/2025;Webcam;8;1537.93
+V00238;655.099.065-38;Carla Almeida;Miraí;carlaalmeida0238@example.org;13/09/25;SSD;1;372.06
+V00239;;Carla Barbosa;Rio de Janeiro;carlabarbosa0239@example.com;03/23/2026;Teclado;5;1329.42
+V00240;701.682.593-04;Lucas Pereira;Leopoldina;lucaspereira0240@example.com;;Monitor;8;11944.88
+V00241;065.247.117-01;Bruno Martins;Ubá;brunomartins0241@example.org;07/22/2025;Teclado;2;848.97
+V00242;575.711.147-06;Larissa Fernandes;Miraí;larissafernandes0242@example.org;11/02/26;Webcam;1;185.77
+V00243;813.427.841-80;Gabriela Nascimento;Leopoldina;gabrielanascimento0243@example.com;2026-07-19;Cadeira;2;1476.18
+V00244;277.552.652-78;Rafael Santos;São Paulo;rafaelsantos0244@example.org;2026-09-29;Impressora;2;1789.95
+V00245;341.930.058-11;  Rafael Santos  ;Contagem;rafaelsantos0245 @example.com;03/11/2025;Headset;7;1634.65
+V00246;592.553.601-09;Marcos Carvalho;Barbacena;@example.com;20/07/2026;Smartphone;6;13648.24
+V00247;874.868.448-19;André Carvalho;Muriaé;andrcarvalho0247@example.com;13-02-2025;Memória RAM;4;2058.79
+V00248;332.259.154-92;Isabela Barbosa;Volta Redonda;isabelabarbosa0248@example.org;09-05-2025;SSD;5;2078.76
+V00249;842.236.714-90;Lucas Mendes;Rio de Janeiro;lucasmendes0249@example.org;09/22/2025;Monitor;3;2301.35
+V00250;996.482.631-17;João Rocha;Ubá;joorocha0250@example.com;14/05/2025;Memória RAM;7;1116.36
+V00251;206.722.296-18;Natália Oliveira;Petrópolis;natliaoliveira0251@example.org;11/17/2025;Mouse;4;656.32
+V00252;539.802.027-72;Isabela Silva;Matias Barbosa;isabelasilva0252@example.net;10-04-2026;Impressora;6;2916.74
+V00253;614.799.730-00;Isabela Araújo;Contagem;isabelaarajo0253@example.net;2025-05-01;Headset;4;2335.25
+V00254;930.259.261-81;Vitória Souza;Juiz de Fora;vitriasouza0254@example.net;16/09/2026;SSD;4;2074.72
+V00255;125.077.544-28;;São Paulo;brunonascimento0255@example.net;18/06/25;Cadeira;2;1962.77
+V00256;595.076.526-56;Gabriela Rocha;Betim;gabrielarocha0256@example.net;05/22/2025;Roteador;1;359.39
+V00257;683.450.385-40;Camila Santos;Barbacena;camilasantos0257@example.net;12/12/2025;Teclado;6;2439.65
+V00258;114.951.173-76;Felipe Oliveira;Volta Redonda;felipeoliveira0258@example.org;2026-04-06;Teclado;3;R$ 678,81
+V00259;445.895.271-47;Sabrina Pereira;Belo Horizonte;sabrinapereira0259@example.net;11/01/26;Headset;4;510.42
+V00260;556.473.171-98;Natália Ribeiro;Cataguases;natliaribeiro0260@example.net;06-07-2025;Teclado;3;1030.83
+V00261;855.600.982-49;Camila Carvalho;Volta Redonda;camilacarvalho0261@example.org;08-07-2025;Monitor;4;3686.37
+V00262;786.097.674-94;Larissa Mendes;Cataguases;larissamendes0262@example.org;24/10/2025;Smartphone;3;2768.34
+V00263;578.849.410-91;Natália Souza;Volta Redonda;natliasouza0263@example.com;2025/12/01;Smartphone;5;18396.26
+V00264;191.835.799-41;Otávio Martins;Além Paraíba;otviomartins0264@example.org;09/03/25;Monitor;6;8086.54
+V00265;189.764.438-89;Daniel Martins;Belo Horizonte;danielmartins0265@example.org;2025-12-21;Notebook;7;33278.18
+V00266;015.384.810-31;Marcos Lima;Volta Redonda;marcoslima0266@example.net;2026-09-29;Headset;7;4315.6
+V00267;848.254.904-93;Eduarda Mendes;São Paulo;eduardamendes0267@example.com;2025-12-18;SSD;1,00;410.53
+V00268;147.320.744-49;Natália Carvalho;Muriaé;natliacarvalho0268@example.com;2025-03-08;Smartphone;1;5111.8
+V00269;217.114.436-04;Felipe Almeida;Leopoldina;felipealmeida0269@example.net;04/06/2025;Monitor;7;4107.96
+V00270;678.652.033-23;Camila Dias;Campinas;camiladias0270@example.net;2026-02-21;Cadeira;7;7642.56
+V00271;299.740.232-80;Rafael Oliveira;Betim;rafaeloliveira0271@example.com;2025-01-15;Monitor;4;5689.81
+V00272;600.188.336-09;Ana Araújo;São Paulo;anaarajo0272@example.com;16/11/2025;Teclado;6;R$ 2.454,05
+V00273;030.844.403-53;Mariana Fernandes;Além Paraíba;marianafernandes0273@example.com;2025/02/28;Webcam;7;1953.75
+V00274;892.524.622-88;;Contagem;vitriacosta0274@example.com;06/06/26;Monitor;8;11834.9
+V00275;298.682.621-01;Thiago Nascimento;Niterói;thiagonascimento0275 @example.net;2025-10-30;Cadeira;1;874.64
+V00276;021.503.552-65;Isabela Rocha;Niterói;isabelarocha0276@example.com;2026/11/08;Cadeira;6;7306.55
+V00277;943.775.027-01;Daniel Silva;Cataguases;danielsilva0277@example.net;2025/11/11;Impressora;2;1012.42
+V00278;973.128.773-63;Gabriela Martins;Leopoldina;gabrielamartins0278@example.net;26/09/2026;Smartphone;6;8872.27
+V00279;941.103.255-96;Eduarda Rocha;Volta Redonda;eduardarocha0279@example.org;17-05-2026;Cadeira;3;3500.19
+V00280;691.451.710-00;Sabrina Barbosa;Ubá;sabrinabarbosa0280@example.com;15/07/2025;Cadeira;3;4654.29
+V00281;732.424.300-27;Pedro Rocha;Campinas;pedrorocha0281@example.net;16-02-2026;Mouse;8;1385.47
+V00282;330.660.836-09;Ana Rodrigues;Leopoldina;anarodrigues0282@example.com;2026/03/25;Headset;4;1010.91
+V00283;133.136.359-47;Camila Rocha;Contagem;camilarocha0283@example.org;07-02-2026;SSD;8;2418.82
+V00284;793.206.221-76;Natália Mendes;Niterói;natliamendes0284@example.net;08/03/26;Cadeira;5;5936.06
+V00285;648.041.828-03;Paula Santos;Cataguases;paulasantos0285@example.com;05/22/2025;SSD;3;744,37
+V00286;560.658.744-01;  Vitória Barbosa  ;Petrópolis;vitriabarbosa0286@example.net;04/14/2026;Roteador;2;814.7
+V00287;867.952.900-19;Carla Silva;Além Paraíba;carlasilva0287@example.org;2025/11/24;Headset;7,00;2882.78
+V00288;946.233.878-70;Eduarda Nascimento;Barbacena;eduardanascimento0288@example.com;01/09/2025;Monitor;3;3084.94
+V00289;553.125.307-95;Mariana Mendes;Miraí;marianamendes0289@example.net;06-03-2026;SSD;2;451.23
+V00290;410.212.218-49;Ana Carvalho;Matias Barbosa;;05/30/2026;Notebook;7;27386.65
+V00291;090.152.158-21;Camila Mendes;Rio de Janeiro;;2026/06/30;Memória RAM;3;1122.6
+V00292;502.709.443-47;  Marcos Carvalho  ;Além Paraíba;marcoscarvalho0292@example.net;2025-02-23;Notebook;5;21677.6
+V00293;055.030.647-13;Carla Barbosa;Juiz de Fora;carlabarbosa0293@example.net;;Headset;1;135.92
+V00294;362.685.371-31;Bruno Rodrigues;Cataguases;brunorodrigues0294@example.com;03/09/26;SSD;1;792.86
+V00295;849.370.780-55;Thiago Fernandes;Cataguases;thiagofernandes0295@example.net;02/26/2025;Teclado;5;427.44
+V00296;548.791.632-29;Mariana Santos;Campinas;marianasantos0296@example.net;07/15/2025;Webcam;6;1815.97
+V00297;330.919.637-22;Marcos Silva; Leopoldina ;marcossilva0297@example.com;13/12/2025;Smartphone;2;6619.33
+V00298;988.843.212-56;Sabrina Oliveira;Além Paraíba;sabrinaoliveira0298@example.org;01/01/2026;Notebook;7;44890.63
+V00299;238.763.010-69;Rafael Araújo;Petrópolis;rafaelarajo0299@example.net;18-01-2025;Smartphone;2;3310.87
+V00300;665.822.526-59;Henrique Araújo;Ubá;henriquearajo0300@example.com;2025/07/30;Memória RAM;5;3558.06
+V00301;852.496.233-02;Felipe Martins;Campinas;felipemartins0301 @example.org;01-08-2025;Monitor;3;3879.74
+V00302;131.904.504-99;Henrique Lima;Cataguases;henriquelima0302@example.com;16-08-2025;Headset;1;154.53
+V00303;;Thiago Rodrigues;Rio de Janeiro;thiagorodrigues0303@example.net;2025/08/04;Teclado;5;1043.15
+V00304;240.493.902-57;Carla Oliveira;Matias Barbosa;carlaoliveira0304@example.net;2025-09-16;Smartphone;6;19295.3
+V00305;858.350.270-61;Eduarda Fernandes;Rio de Janeiro;eduardafernandes0305@example.org;10/05/2026;Memória RAM;7,00;1092.71
+V00306;689.277.077-03;Rafael Almeida;Barbacena;rafaelalmeida0306@example.net;03-01-2026;Cadeira;7;R$ 5.685,00
+V00307;403.969.332-98;Sabrina Mendes;Viçosa;sabrinamendes0307@example.org;17/06/26;Impressora;8;5088.47
+V00308;160.196.515-00;Gabriela Araújo;Leopoldina;gabrielaarajo0308@example.org;15/04/2026;Teclado;3;1349.96
+V00309;184.712.104-70;Ana Dias;Viçosa;anadias0309 @example.net;09/07/25;SSD;8;4447.13
+V00310;157.620.326-30;Lucas Costa;Petrópolis;lucascosta0310@example.net;04/18/2026;Teclado;3;1204.81
+V00311;910.706.819-04;Carla Barbosa;Matias Barbosa;carlabarbosa0311@example.net;29-03-2025;Mouse;3;530.65
+V00312;249.026.763-98;Ana Costa;Muriaé;anacosta0312@example.com;07/14/2026;Headset;2;620.46
+V00313;280.065.049-47;Camila Santos;Rio de Janeiro;camilasantos0313@example.com;2026/05/06;Cadeira;7;11004,88
+V00314;232.616.041-08;Bruno Martins;Petrópolis;brunomartins0314@example.net;2025/05/18;Cadeira;3;1789.61
+V00315;845.461.019-71;  Ana Martins  ;Leopoldina;anamartins0315@example.com;2026/08/19;Headset;1;527.03
+V00316;220.968.946-55;;Muriaé;email..duplicado@example.com;09/01/2026;Headset;6;1375.91
+V00317;003.772.650-13;  Pedro Rocha  ;Cataguases;pedrorocha0317@example.net;2025/11/22;Memória RAM;7;5400.75
+V00318;110.074.382-08;Marcos Rodrigues;Além Paraíba;marcosrodrigues0318@example.net;2025-06-14;Memória RAM;5;1960.26
+V00319;334.477.345-32;Rafael Mendes;Niterói;rafaelmendes0319@example.com;2025/08/20;Mouse;3;668.82
+V00320;949.001.576-87;Ana Pereira;Belo Horizonte;;2025/12/21;;8;
+V00321;444.561.029-19;Larissa Carvalho;Campinas;larissacarvalho0321@example.org;31/01/2025;Cadeira;3;2278.57
+V00322;028.237.685-22;Otávio Ribeiro;Petrópolis;otvioribeiro0322@example.org;2026-04-29;Smartphone;1;R$ 4.159,60
+V00323;444.098.150-09;Pedro Ribeiro;Niterói;pedroribeiro0323@example.com;09/13/2026;Notebook;6;34768.79
+V00324;850.138.796-72;Natália Ribeiro;Matias Barbosa;natliaribeiro0324@example.com;2025-04-24;SSD;6;5181.91
+V00325;284.273.811-08;Gabriela Silva;Viçosa;gabrielasilva0325@example.org;04/13/2025;Teclado;7;2386.42
+V00326;790.224.860-61;Thiago Lima;Cataguases;thiagolima0326@example.net;2026-10-14;Notebook;3;9426.19
+V00327;725.058.303-48;Camila Costa;Belo Horizonte;camilacosta0327@example.net;31/03/25;Monitor;5;
+V00328;934.433.096-41;Gabriela Araújo;Cataguases;gabrielaarajo0328@example.org;01-01-2025;Smartphone;1;2748.65
+V00329;891.452.933-93;Otávio Nascimento;Barbacena;otvionascimento0329@example.org;2026/05/05;Impressora;2;1153,28
+V00330;178.837.802-48;Eduarda Fernandes;Campinas;eduardafernandes0330@example.org;29-01-2026;Roteador;3;1567.27
+V00331;347.689.867-91;Eduarda Rodrigues;Cataguases;eduardarodrigues0331@example.com;2026-03-09;Cadeira;5;6086.42
+V00332;505.791.966-08;Mariana Fernandes;Rio de Janeiro;marianafernandes0332@example.com;22/08/2025;Impressora;7;6666.31
+V00333;591.340.135-21;Thiago Mendes;Juiz de Fora;thiagomendes0333@example.com;05-04-2025;Teclado;2;334.62
+V00334;210.406.781-23;Vitória Nascimento; Barbacena ;vitrianascimento0334@example.com;04/11/25;Impressora;6;10612.74
+V00335;462.375.439-11;Ana Barbosa;São Paulo;anabarbosa0335@example.com;08/22/2025;Memória RAM;1;625.55
+V00336;987.630.560-39;Sabrina Dias;Rio de Janeiro;sabrinadias0336@example.net;24/02/2025;Monitor;3;3989.21
+V00337;127.857.920-69;Thiago Costa;Muriaé;thiagocosta0337@example.com;17/10/2025;Cadeira;4;2062.24
+V00338;154.049.664-33;Bruno Mendes;Niterói;brunomendes0338@example.net;20/08/25;Cadeira;7;7524.03
+V00339;073.879.926-23;Bruno Dias;Leopoldina;brunodias0339@example.net;01/01/2025;SSD;2;1010.29
+V00340;641.185.622-28;  Lucas Ribeiro  ;Volta Redonda;lucasribeiro0340@example.com;13-06-2026;Smartphone;5;6051.06
+V00341;957.585.179-00;Larissa Dias;Muriaé;larissadias0341@example.com;14-04-2026;Memória RAM;5;2081.35
+V00342;818.338.733-01;Mariana Nascimento;Betim;;24/01/25;Cadeira;4;2121.72
+V00343;075.382.023-41;Eduarda Gomes;Cataguases;eduardagomes0343@example.org;2026/09/02;Cadeira;7;5732.51
+V00344;016.769.161-90;Felipe Oliveira;Barbacena;felipeoliveira0344@example.org;02/07/2025;Mouse;5;R$ 802,14
+V00345;095.270.063-85;Mariana Carvalho;Cataguases;marianacarvalho0345@example.net;07-10-2026;Teclado;1;381.81
+V00346;;Paula Pereira;Niterói;paulapereira0346@example.org;20/04/2025;Mouse;8;1653.31
+V00347;101.828.962-35;Natália Nascimento;Viçosa;natlianascimento0347@example.org;12-09-2025;Headset;2;1221.16
+V00348;886.477.510-28;Sabrina Rocha;Miraí;sabrinarocha0348@example.com;28-08-2025;Webcam;1;301.3
+V00349;588.420.829-46;Natália Rodrigues;Além Paraíba;natliarodrigues0349@example.com;19/04/2026;SSD;4;2472.06
+V00350;123.456.789-00;Marcos Souza;Niterói;marcossouza0350@example.org;2026/05/17;Smartphone;4;R$ 4.145,84
+V00351;728.813.419-94;Sabrina Oliveira;Santos Dumont;sabrinaoliveira0351@example.com;26/03/2025;Headset;7;2883,33
+V00352;190.852.598-36;Pedro Carvalho;Matias Barbosa;pedrocarvalho0352@example.com;2026-03-23;Cadeira;4;2540.09
+V00353;359.684.724-90;  Otávio Carvalho  ;Campinas;otviocarvalho0353@example.org;12/12/2025;Teclado;5;1383.11
+V00354;373.547.868-97;Beatriz Barbosa;Contagem;beatrizbarbosa0354@example.com;02/05/2025;Notebook;6;35165.86
+V00355;428.019.817-97;Eduarda Mendes;Matias Barbosa;eduardamendes0355@example.org;2026-04-01;SSD;8;4502.01
+V00356;027.120.674-88;Natália Fernandes;Leopoldina;natliafernandes0356 @example.net;08/03/2026;Memória RAM;4;2440.37
+V00357;594.425.980-91;Paula Mendes;;paulamendes0357@example.com;;Mouse;6;554,79
+V00358;022.794.969-26;  Lucas Carvalho  ;Juiz de Fora;lucascarvalho0358@example.org;2026-02-11;Memória RAM;1;491.37
+V00359;736.190.894-27;Otávio Rodrigues;Petrópolis;otviorodrigues0359@example.com;2026-07-07;Smartphone;1;1520.53
+V00360;251.294.175-27;Henrique Rocha;Juiz de Fora;henriquerocha0360@example.org;07-05-2025;Cadeira;2;2852.88
+V00361;851.764.495-61;Pedro Ribeiro;Ubá;pedroribeiro0361@example.org;2025/06/08;Memória RAM;1;537.98
+V00362;267.139.072-62;Natália Pereira;Cataguases;natliapereira0362@example.org;07/12/2025;Notebook;8;27301.27
+V00363;395.680.775-89;Henrique Oliveira;;henriqueoliveira0363@example.org;23-06-2026;Headset;2,00;507.99
+V00364;469.647.202-79;Sabrina Fernandes;Ubá;sabrinafernandes0364@example.org;05/02/2026;Webcam;7;R$ 2.851,12
+V00365;979.015.580-84;Sabrina Oliveira;Muriaé;sabrinaoliveira0365@example.org;2025/10/16;Memória RAM;8;1040.55
+V00366;017.675.144-00;Isabela Souza;Volta Redonda;isabelasouza0366@example.net;10/06/2025;SSD;3;1752.31
+V00367;847.932.652-28;  Marcos Santos  ;Petrópolis;marcossantos0367 @example.com;24/05/25;Monitor;3;5173.8
+V00368;038.923.485-03;Lucas Gomes;Niterói;lucasgomes0368@example.com;2026/04/10;Smartphone;4;R$ 15.008,72
+V00369;905.124.546-72;Camila Rodrigues;São Paulo;camilarodrigues0369@example.com;02-12-2025;Cadeira;7;4958.93
+V00370;512.672.174-73;João Nascimento;Volta Redonda;joonascimento0370@example.org;06/10/2025;Roteador;1;290.13
+V00371;;Eduarda Santos; Santos Dumont ;nome sobrenome@example.com;07/14/2026;Roteador;6;4041,16
+V00372;281.048.104-06;Thiago Araújo;Ubá;;06/15/2025;Roteador;1;227.27
+V00373;816.866.637-23;Sabrina Fernandes;Petrópolis;sabrinafernandes0373@example.org;2025/11/05;Memória RAM;1;651,74
+V00374;732.231.942-75;Mariana Souza;Santos Dumont;marianasouza0374@example.org;;Webcam;3;1252.37
+V00375;354.236.890-32;Eduarda Dias;Niterói;eduardadias0375@example.org;24/03/2025;Mouse;8;1122.8
+V00376;216.388.613-16;Pedro Ribeiro;Matias Barbosa;pedroribeiro0376@example.org;;Memória RAM;1;147.59
+V00377;CPF INVÁLIDO;Marcos Almeida;Barbacena;marcosalmeida0377@example.org;2025-08-29;Mouse;1;165.05
+V00378;412.930.088-19;Beatriz Souza;Contagem;beatrizsouza0378@example.org;2025/08/16;Memória RAM;4;1347.45
+V00379;887.209.418-63;  Paula Oliveira  ;Belo Horizonte;paulaoliveira0379@example.com;08/23/2025;Notebook;5;17984.47
+V00380;;Vitória Carvalho;Rio de Janeiro;vitriacarvalho0380@example.net;03/06/2025;Notebook;3;15478.69
+V00381;745.470.498-08;Rafael Oliveira;São Paulo;rafaeloliveira0381@example.net;10/11/2025;Notebook;2;7977.77
+V00382;229.112.770-59;Sabrina Ribeiro;Barbacena;sabrinaribeiro0382@example.org;09-11-2026;;8;R$ 31.449,05
+V00383;021.136.153-48;Eduarda Rodrigues;Belo Horizonte;eduardarodrigues0383@example.org;;Smartphone;7;15757,12
+V00384;605.581.682-22;Vitória Souza;Muriaé;vitriasouza0384@example.com;2025/05/08;Notebook;2;9622.91
+V00385;986.617.050-03;  André Rocha  ;Viçosa;andrrocha0385@example.net;2025/05/26;Notebook;2;6864.12
+V00386;919.825.849-48;Sabrina Nascimento;Contagem;sabrinanascimento0386@example.org;08/02/2025;Headset;2;855.48
+V00387;230.798.523-98;Sabrina Gomes;Contagem;sabrinagomes0387@example.org;29/10/2025;Smartphone;4,00;12703,28
+V00388;242.669.500-56;Beatriz Fernandes;Juiz de Fora;beatrizfernandes0388@example.net;2025/12/11;Roteador;1;564.85
+V00389;018.545.187-05;Pedro Mendes;Belo Horizonte;pedromendes0389@example.net;01/02/2026;Teclado;7;838,74
+V00390;781.385.644-91;Beatriz Rodrigues;Belo Horizonte;beatrizrodrigues0390@example.org;03/24/2025;SSD;2;R$ 569,10
+V00391;073.007.233-91;João Pereira;Leopoldina;joopereira0391@example.net;2025/01/03;Teclado;8;2754.52
+V00392;449.653.917-90;Lucas Dias;Campinas;lucasdias0392 @example.org;02/18/2025;Webcam;3;948.55
+V00393;930.103.531-63;Rafael Rodrigues;Ubá;rafaelrodrigues0393@example.org;18-05-2025;Monitor;1;1186.17
+V00394;053.394.207-11;Paula Rocha;Betim;paularocha0394@example.com;09/06/2026;Teclado;7;498.24
+V00395;365.536.055-06;Beatriz Gomes;Contagem;beatrizgomes0395@example.com;2025-08-15;;5;5262.31
+V00396;118.482.638-22;Rafael Rodrigues; Juiz de Fora ;rafaelrodrigues0396@example.com;31/05/26;Monitor;1;1016.8
+V00397;167.596.202-25;Paula Barbosa;Niterói;paulabarbosa0397@example.com;2025/02/22;Cadeira;1;926.02
+V00398;883.722.400-10;Daniel Nascimento;São Paulo;danielnascimento0398@example.org;;Headset;2;
+V00399;784.661.506-85;Isabela Carvalho;Niterói;isabelacarvalho0399@example.com;2025-06-19;Notebook;6;21306.91
+V00400;145.272.903-48;  Rafael Souza  ;Barbacena;rafaelsouza0400@example.net;12/12/25;Smartphone;1;R$ 3.964,43
+V00401;CPF INVÁLIDO;  Pedro Rocha  ;Cataguases;pedrorocha0401@example.com;2026-13-05;Memória RAM;1;466.81
+V00402;242.404.853-30;Paula Oliveira;Miraí;paulaoliveira0402@example.org;03/30/2025;Impressora;1;871.03
+V00403;838.794.734-21;Natália Fernandes;Juiz de Fora;natliafernandes0403@example.net;2025/11/15;Memória RAM;4;818.12
+V00404;400.286.526-66;Rafael Lima;Viçosa;rafaellima0404@example.net;03/22/2026;Impressora;4;R$ 4.021,46
+V00405;543.030.307-09;Daniel Rodrigues;Ubá;danielrodrigues0405@example.com;17/03/2026;Cadeira;2;
+V00406;610.773.523-29;Carla Costa;Contagem;carlacosta0406@example.com;22/09/25;Notebook;7;34698.52
+V00407;232.074.590-49;Gabriela Carvalho;Betim;gabrielacarvalho0407@example.net;04-08-2026;Smartphone;2;5852.75
+V00408;325.969.376-98;João Carvalho;Petrópolis;joocarvalho0408@example.net;2026/07/11;Teclado;6;1863.77
+V00409;454.690.058-96;Ana Almeida;Contagem;anaalmeida0409@example.com;2025-05-10;Impressora;6;6721,58
+V00410;214.015.736-23;  Carla Rocha  ;Niterói;carlarocha0410@example.net;2026-10-19;Impressora;6;7248.0
+V00411;460.389.112-10;Eduarda Gomes;Contagem;eduardagomes0411@example.net;26/09/2025;Notebook;8;41841.36
+V00412;302.985.991-64;Pedro Araújo;Além Paraíba;pedroarajo0412@example.net;2026/02/26;Impressora;1;1215.94
+V00413;657.316.322-28;Camila Nascimento;Leopoldina;camilanascimento0413@example.net;21/08/2025;SSD;8;6983.38
+V00414;257.203.795-51;André Rocha;Rio de Janeiro;andrrocha0414@example.com;09-08-2026;Webcam;5;2126.14
+V00415;002.264.729-58;Thiago Fernandes;Miraí;thiagofernandes0415 @example.org;2025/07/20;Memória RAM;1;322.54
+V00416;516.171.412-33;Rafael Pereira;Belo Horizonte;rafaelpereira0416@example.net;18/03/25;Webcam;3;R$ 1.114,01
+V00417;729.763.256-27;Mariana Pereira;Matias Barbosa;marianapereira0417@example.com;29/07/25;Notebook;7;42109.04
+V00418;837.955.486-84;Marcos Mendes;Matias Barbosa;marcosmendes0418@example.net;13/01/2025;Notebook;8;41295.85
+V00419;462.187.522-17;  Marcos Barbosa  ;Juiz de Fora;marcosbarbosa0419 @example.net;17-10-2025;Monitor;6;
+V00420;554.764.824-83;Isabela Nascimento;Barbacena;isabelanascimento0420@example.com;04/28/2026;Roteador;2;397.03
+V00421;813.615.636-06;Bruno Pereira;Matias Barbosa;brunopereira0421@example.com;17/04/2025;Memória RAM;3;1091.1
+V00422;726.014.246-49;Mariana Rodrigues;Niterói;marianarodrigues0422@example.org;20/07/25;SSD;6;4135.62
+V00423;835.351.433-82;Ana Carvalho;Cataguases;anacarvalho0423@example.net;;Cadeira;2;1798.44
+V00424;929.144.862-10;Paula Costa;Viçosa;paulacosta0424@example.com;06/02/2026;Mouse;3;278.22
+V00425;553.514.385-51;André Pereira;Leopoldina;andrpereira0425@example.org;16/09/25;SSD;7;4362.48
+V00426;663.537.133-81;Thiago Oliveira;Viçosa;thiagooliveira0426@example.com;2025-04-10;Notebook;6;29012.22
+V00427;872.165.275-94;Felipe Nascimento;Belo Horizonte;felipenascimento0427@example.net;;Teclado;3;598.95
+V00428;223.374.971-52;Beatriz Nascimento;;beatriznascimento0428@example.org;12/04/2026;Headset;8;2462.44
+V00429;091.894.492-91;Natália Oliveira;Ubá;natliaoliveira0429@example.net;18-11-2025;Headset;3;1756.26
+V00430;038.552.261-49;Thiago Martins;Miraí;thiagomartins0430@example.org;01/06/2025;SSD;1;819.08
+V00431;294.257.255-87;Pedro Fernandes;Betim;pedrofernandes0431@example.net;2026/01/26;Smartphone;3;10834.6
+V00432;871.179.029-66;Mariana Oliveira;São Paulo;marianaoliveira0432@example.org;16/06/25;Memória RAM;;2933.48
+V00433;103.133.068-27;Paula Almeida;Muriaé;;21/11/26;Impressora;4;3495.26
+V00434;878.071.230-45;Bruno Rodrigues;Belo Horizonte;brunorodrigues0434@example.net;2026-09-29;Memória RAM;7;2789.73
+V00435;971.649.542-09;Vitória Santos;Santos Dumont;vitriasantos0435@example.com;06/08/2026;Webcam;2;241.17
+V00436;215.478.754-11;Sabrina Silva;Miraí;sabrinasilva0436@example.org;2025-11-25;Webcam;7;R$ 1.768,56
+V00437;825.744.515-04;Larissa Almeida;Barbacena;larissaalmeida0437 @example.org;2025-01-16;Mouse;3;400.22
+V00438;073.404.009-16;Beatriz Ribeiro;Leopoldina;beatrizribeiro0438@example.org;24/10/25;Roteador;4;2595.54
+V00439;;Henrique Ribeiro;Rio de Janeiro;henriqueribeiro0439@example.net;2025-11-29;Impressora;2;2139.44
+V00440;935.728.912-73;Larissa Lima;;larissalima0440@example.net;15/05/26;SSD;3;2125.07
+V00441;189.994.600-46;Sabrina Dias;Santos Dumont;sabrinadias0441@example.org;2026/01/26;Headset;6;3057.95
+V00442;689.913.507-81;André Rodrigues;Santos Dumont;andrrodrigues0442@example.net;2026/02/13;Notebook;2;10636.6
+V00443;901.052.449-38;Lucas Carvalho; Belo Horizonte ;lucascarvalho0443@example.org;2025-07-15;Notebook;5,00;31840.92
+V00444;973.623.720-61;Natália Costa;Miraí;natliacosta0444@example.net;16/06/2025;Impressora;4;5314.95
+V00445;235.520.802-61;  Felipe Barbosa  ;Matias Barbosa;felipebarbosa0445@example.com;2026/06/05;Impressora;7;9438.93
+V00446;991.448.731-91;Rafael Carvalho;Campinas;rafaelcarvalho0446@example.com;22-11-2025;Smartphone;3;R$ 4.306,85
+V00447;244.240.610-10;Ana Mendes;Niterói;anamendes0447@example.com;18-01-2026;Teclado;3;510.29
+V00448;085.646.471-69;André Costa;;andrcosta0448@example.com;07/03/2026;Headset;4;2426.8
+V00449;824.116.673-71;Natália Rodrigues;Além Paraíba;natliarodrigues0449@example.com;14/03/25;Impressora;8,00;7529.34
+V00450;083.850.037-47;Marcos Gomes;Viçosa;marcosgomes0450@example.com;30/06/26;Notebook;2;R$ 8.811,10
+V00451;123.456.789-00;Carla Costa;Betim;carlacosta0451@example.net;2025/12/21;Teclado;1;257.67
+V00452;795.159.850-06;Henrique Silva;Miraí;henriquesilva0452@example.org;2025/08/05;Webcam;4;1403.97
+V00453;077.521.730-11;Paula Mendes;Rio de Janeiro;paulamendes0453@example.com;2026/04/30;Teclado;5;999.81
+V00454;805.522.741-10;Henrique Santos;Muriaé;henriquesantos0454@example.net;2025/03/29;Notebook;7;37765.49
+V00455;631.193.210-53;Henrique Souza;Cataguases;henriquesouza0455@example.com;24-10-2026;Roteador;4;1813.1
+V00456;305.395.703-55;  Gabriela Araújo  ;Campinas;gabrielaarajo0456@example.com;15/11/26;Impressora;8;14100.43
+V00457;130.895.244-91;Mariana Oliveira;Betim;marianaoliveira0457@example.com;11-11-2026;Mouse;1;259.2
+V00458;558.121.628-25;Mariana Rocha;Cataguases;marianarocha0458@example.org;2025-04-03;Roteador;4;557.06
+V00459;150.469.083-45;Carla Rocha; Belo Horizonte ;carlarocha0459@example.org;18/09/26;Headset;2;960.41
+V00460;675.415.283-41;Beatriz Rocha;Santos Dumont;beatrizrocha0460@example.org;;Roteador;8;3182.11
+V00461;828.181.735-67;Otávio Almeida;Cataguases;otvioalmeida0461@example.org;05/13/2025;Notebook;7;25147.13
+V00462;002.106.449-08;João Rocha;Ubá;joorocha0462@example.net;;Roteador;6;3120.26
+V00463;860.988.853-39;André Silva;Juiz de Fora;andrsilva0463@example.net;07-06-2026;SSD;7;3668,43
+V00464;621.332.706-13;Ana Rocha;Juiz de Fora;anarocha0464@example.com;06-05-2025;Mouse;4;970.91
+V00465;042.880.339-35;Rafael Dias;Rio de Janeiro;rafaeldias0465@example.org;2026/01/04;Memória RAM;2;307.48
+V00466;783.316.216-71;Isabela Fernandes;Campinas;isabelafernandes0466@example.org;11/14/2026;Webcam;4;1671.81
+V00467;308.766.375-10;Rafael Gomes;Muriaé;rafaelgomes0467@example.net;16-05-2026;Headset;7;1575.72
+V00468;779.685.215-06;Pedro Rocha;Miraí;pedrorocha0468@example.net;08/28/2025;Webcam;1;R$ 444,14
+V00469;037.860.875-48;Mariana Ribeiro;Além Paraíba;marianaribeiro0469@example.net;2025/10/24;Notebook;3;14803.99
+V00470;217.497.364-21;  Sabrina Souza  ;Juiz de Fora;sabrinasouza0470@example.org;2025/04/13;Mouse;7;1624.49
+V00471;002.136.478-86;;Barbacena;eduardasilva0471@example.org;29-11-2025;Webcam;5;2164,89
+V00472;301.788.321-39;Bruno Oliveira;Contagem;brunooliveira0472@example.org;2025/04/28;Webcam;1;R$ 350,23
+V00473;455.812.025-76;André Oliveira;Ubá;;2026/08/19;Notebook;1;3067.71
+V00474;493.524.693-65;Isabela Dias;Volta Redonda;isabeladias0474@example.com;2026-04-20;Webcam;1;450.78
+V00475;999.449.649-22;André Barbosa;Viçosa;andrbarbosa0475@example.com;;Monitor;7;6719.54
+V00476;636.054.407-55;Thiago Carvalho;Além Paraíba;thiagocarvalho0476@example.com;2025-09-21;Webcam;4;1950.86
+V00477;241.229.681-28;Felipe Fernandes;;felipefernandes0477@example.com;03/02/2026;Headset;4;2153.82
+V00478;385.767.621-38;João Rodrigues;Betim;joorodrigues0478 @example.com;15/12/25;;1;2981.21
+V00479;415.348.861-51;;Miraí;feliperibeiro0479@example.com;28-07-2026;Roteador;3;802.61
+V00480;235.229.490-81;  Mariana Carvalho  ; Leopoldina ;marianacarvalho0480@example.net;11/08/2025;Headset;3;1184.85
+V00481;063.153.047-97;Ana Barbosa; Leopoldina ;anabarbosa0481@example.com;data não informada;Monitor;5;3727,67
+V00482;578.023.703-46;João Pereira;Volta Redonda;joopereira0482@example.com;11/04/25;Cadeira;8;5419.9
+V00483;555.075.487-82;Beatriz Lima;Leopoldina;beatrizlima0483@example.net;2026-07-15;Teclado;4;850.8
+V00484;009.099.291-15;Thiago Carvalho;Rio de Janeiro;thiagocarvalho0484@example.org;20-07-2025;Webcam;8;977.09
+V00485;982.833.466-61;Gabriela Lima;Niterói;gabrielalima0485@example.org;08/08/2026;Notebook;5;19349.62
+V00486;183.519.359-57;  Ana Dias  ;Contagem;anadias0486@example.org;07/01/25;Cadeira;4;2944.36
+V00487;403.596.825-03;Marcos Rocha;Cataguases;marcosrocha0487@example.net;06-04-2026;Notebook;6;22060,20
+V00488;260.532.956-99;Eduarda Almeida;Barbacena;eduardaalmeida0488@example.org;25/11/2025;Memória RAM;1;199.04
+V00489;497.506.585-16;Camila Souza;Miraí;camilasouza0489@example.net;;Webcam;3;557.07
+V00490;245.488.420-81;Bruno Nascimento;Betim;brunonascimento0490@example.org;12/05/2025;Smartphone;3;6061.4
+V00491;484.804.295-01;Mariana Ribeiro;Matias Barbosa;marianaribeiro0491@example.org;2025/06/14;Mouse;;241.03
+V00492;;Pedro Martins;Cataguases;pedromartins0492@example.net;08-11-2026;Impressora;2;2498.24
+V00493;173.966.027-78;Bruno Souza;Juiz de Fora;brunosouza0493@example.net;27/04/25;Impressora;6;6964,54
+V00494;635.697.831-71;Eduarda Dias;Matias Barbosa;eduardadias0494@example.com;2025/11/25;Cadeira;8;
+V00495;807.515.149-60;Sabrina Nascimento;;;22-07-2025;SSD;3;974.71
+V00496;106.333.586-82;Otávio Rodrigues;Petrópolis;otviorodrigues0496 @example.org;2025-03-23;Headset;8;4368.73
+V00497;345.583.943-66;  Daniel Barbosa  ;Miraí;danielbarbosa0497@example.com;2026/10/23;Teclado;5;501.85
+V00498;416.593.258-21;Camila Rodrigues;São Paulo;camilarodrigues0498 @example.net;22/02/2025;SSD;7;3868.91
+V00499;377.326.416-05;Otávio Carvalho;Ubá;otviocarvalho0499@example.net;2026-10-19;Impressora;4;3969.35
+V00500;453.038.988-07;Eduarda Ribeiro;Além Paraíba;eduardaribeiro0500@example.org;2025/10/08;Notebook;1;5432.18
+V00501;188.762.936-05;Ana Almeida;Belo Horizonte;anaalmeida0501 @example.com;26-01-2026;Notebook;5;21162.21
+V00502;274.770.040-21;Carla Carvalho;Betim;carlacarvalho0502@example.org;2026-07-15;SSD;2;1040.34
+V00503;240.394.338-08;Rafael Fernandes;Niterói;nome sobrenome@example.com;;Memória RAM;4;2835.7
+V00504;327.694.717-09;Henrique Lima;Santos Dumont;henriquelima0504@example.com;12/09/2025;Impressora;1;1365.94
+V00505;462.104.310-21;André Rocha;Além Paraíba;andrrocha0505@example.net;18-06-2026;Impressora;3;1904.6
+V00506;125.315.451-16;Bruno Lima;São Paulo;brunolima0506@example.net;22/10/25;Notebook;8;44470.82
+V00507;007.397.853-12;Henrique Santos;Juiz de Fora;henriquesantos0507@example.net;2025/05/31;Teclado;2;480.71
+V00508;228.494.019-61;Gabriela Rodrigues;Santos Dumont;gabrielarodrigues0508@example.net;2026/02/06;Cadeira;8;8196.28
+V00509;723.619.463-87;Thiago Lima;Niterói;thiagolima0509@example.com;10/10/2025;Monitor;6;8690.06
+V00510;071.701.988-87;Eduarda Pereira;Campinas;eduardapereira0510@example.org;2025/01/25;Roteador;5;2332.56
+V00511;532.173.369-42;Daniel Costa;Viçosa;danielcosta0511@example.net;03/01/2026;Smartphone;6;24735.12
+V00512;881.375.420-52;Henrique Nascimento;Viçosa;;10/03/25;Headset;5;1813.99
+V00513;744.099.870-71;Sabrina Almeida;Volta Redonda;sabrinaalmeida0513@example.net;2025-10-17;Smartphone;4;3625.65
+V00514;906.033.395-07;Camila Rodrigues;Rio de Janeiro;camilarodrigues0514@example.net;08-07-2026;Smartphone;2;7737.91
+V00515;050.776.221-50;Sabrina Gomes;Volta Redonda;sabrinagomes0515@example.net;12/09/2026;Notebook;1;3011.19
+V00516;265.628.131-83;Gabriela Rocha; São Paulo ;gabrielarocha0516@example.com;16/07/25;Roteador;3;R$ 1.488,23
+V00517;;Pedro Gomes;Viçosa;pedrogomes0517@example.com;;Memória RAM;5;1176.15
+V00518;132.048.137-04;Sabrina Rocha;Matias Barbosa;sabrinarocha0518@example.net;09/02/26;Notebook;8;24839.14
+V00519;483.407.004-22;Mariana Oliveira;Rio de Janeiro;marianaoliveira0519@example.net;24/02/25;Notebook;7;31740.91
+V00520;981.959.235-60;Vitória Araújo;Além Paraíba;vitriaarajo0520@example.net;2026/02/20;Roteador;1;240.32
+V00521;094.449.404-80;  João Ribeiro  ;Leopoldina;jooribeiro0521@example.com;2025-09-15;Mouse;7;698.27
+V00522;650.272.079-06;Isabela Araújo;Ubá;isabelaarajo0522@example.org;08-01-2025;Cadeira;7;5284.44
+V00523;123.057.826-92;Otávio Pereira;Petrópolis;otviopereira0523@example.com;2026/11/19;Monitor;4;4377.61
+V00524;947.134.909-55;Sabrina Rodrigues;Além Paraíba;sabrinarodrigues0524@example.net;06/08/2025;Impressora;1;689.61
+V00525;462.674.192-41;André Ribeiro;Petrópolis;andrribeiro0525@example.net;07/22/2026;Webcam;5;1500.68
+V00526;180.921.339-81;Henrique Souza;Betim;henriquesouza0526@example.net;25-07-2026;Roteador;8;5096.51
+V00527;248.716.898-68;;Juiz de Fora;natliabarbosa0527@example.org;31-12-2025;;3;3003.6
+V00528;356.839.669-66;Lucas Pereira;Barbacena;lucaspereira0528@example.net;2025-08-03;Headset;5;1809.61
+V00529;513.916.407-81;Vitória Rodrigues;Barbacena;vitriarodrigues0529@example.com;;Smartphone;5;13226,79
+V00530;743.737.034-43;Felipe Dias;Petrópolis;felipedias0530@example.net;17/10/2026;Headset;3;801.34
+V00531;038.734.556-69;Felipe Costa;Rio de Janeiro;;2026-02-03;Webcam;1;429.22
+V00532;595.750.549-80;Carla Lima;Niterói;carlalima0532@example.com;05/03/2026;Impressora;5;R$ 5.396,99
+V00533;820.940.279-03;Otávio Nascimento;Volta Redonda;otvionascimento0533@example.com;01/28/2026;SSD;2;800.3
+V00534;679.965.954-71;Mariana Mendes;São Paulo;marianamendes0534@example.org;21/10/25;Cadeira;6;7206.55
+V00535;947.659.594-91;Henrique Souza; Viçosa ;henriquesouza0535@example.com;;Smartphone;1;2966.34
+V00536;217.771.210-61;Henrique Rodrigues;Juiz de Fora;henriquerodrigues0536@example.net;09/09/26;Impressora;1;994.23
+V00537;354.132.016-81;Beatriz Nascimento;Contagem;beatriznascimento0537@example.com;04-12-2025;Webcam;8;2460,12
+V00538;074.475.336-89;Daniel Almeida;Cataguases;danielalmeida0538@example.net;03/09/26;Webcam;5;2214.62
+V00539;694.696.185-49;Gabriela Fernandes;Além Paraíba;gabrielafernandes0539@example.org;12/10/26;Memória RAM;3;1668.66
+V00540;617.542.660-62;  Rafael Ribeiro  ;Leopoldina;rafaelribeiro0540@example.com;09-03-2025;Impressora;7;7821.72
+V00541;482.157.359-84;Lucas Ribeiro;Miraí;lucasribeiro0541@example.org;09/09/25;Webcam;8;1855.4
+V00542;478.640.317-23;Camila Costa;São Paulo;camilacosta0542@example.net;10/17/2025;Roteador;4;1515.56
+V00543;546.308.425-44;Lucas Lima;Niterói;lucaslima0543@example.net;2025/01/04;Notebook;4;25367.68
+V00544;086.961.282-40;Pedro Ribeiro;Muriaé;pedroribeiro0544@example.net;2026/07/08;Monitor;5;
+V00545;927.737.936-77;Eduarda Ribeiro;Cataguases;eduardaribeiro0545@example.net;2025/07/30;SSD;5;2103.8
+V00546;417.939.168-62;  Larissa Nascimento  ;Belo Horizonte;larissanascimento0546@example.org;2025/09/09;Roteador;5;833.66
+V00547;494.187.858-21;Lucas Costa; Petrópolis ;lucascosta0547@example.com;05/17/2025;Smartphone;6;11825,19
+V00548;526.139.298-56;Natália Souza;Cataguases;natliasouza0548@example.net;2025/10/21;Cadeira;2;2927.75
+V00549;871.356.119-78;Pedro Fernandes;Campinas;pedrofernandes0549@example.net;2026-04-19;Notebook;7;39660.3
+V00550;774.773.056-09;Carla Santos;Juiz de Fora;carlasantos0550@example.org;2026-02-04;SSD;7;5323.16
+V00551;123.456.789-00;Isabela Dias;Viçosa;isabeladias0551@example.net;10/23/2025;Webcam;7;3777,53
+V00552;252.914.334-01;Vitória Ribeiro;Matias Barbosa;vitriaribeiro0552@example.org;2026/06/07;Impressora;5;4586.01
+V00553;738.120.561-01;Natália Santos;Barbacena;natliasantos0553 @example.com;25-09-2026;Mouse;4;980,71
+V00554;421.429.098-42;Mariana Rodrigues;Rio de Janeiro;marianarodrigues0554@example.org;21-03-2025;Roteador;1;562.66
+V00555;920.632.229-09;Larissa Martins;Barbacena;larissamartins0555@example.com;2026-03-28;SSD;6;4348.03
+V00556;;Rafael Ribeiro;Viçosa;rafaelribeiro0556@example.com;13/10/2025;Notebook;5;21788.98
+V00557;772.395.849-85;Eduarda Dias;Petrópolis;eduardadias0557@example.com;04/02/2026;Impressora;2;1455.28
+V00558;183.763.487-45;Bruno Santos;Barbacena;brunosantos0558@example.net;2025-01-09;Webcam;6;1020.29
+V00559;889.707.137-61;Henrique Souza;Matias Barbosa;;02/01/2025;Webcam;2;840.37
+V00560;329.430.649-05;Vitória Lima;Niterói;vitrialima0560@example.org;01/09/2026;Impressora;8;4309.02
+V00561;674.973.353-09;  Carla Pereira  ;Petrópolis;carlapereira0561@example.org;2025-02-14;Memória RAM;5;
+V00562;266.198.472-01;Rafael Almeida;Santos Dumont;rafaelalmeida0562 @example.org;;Memória RAM;6;2412.95
+V00563;670.784.418-01;Beatriz Martins;São Paulo;beatrizmartins0563@example.net;2025-01-23;SSD;1;572.61
+V00564;846.537.591-71;Bruno Almeida;Volta Redonda;brunoalmeida0564@example.org;15/01/26;Notebook;1;R$ 5.329,01
+V00565;436.380.116-67;Gabriela Ribeiro;São Paulo;gabrielaribeiro0565@example.org;07/16/2025;Roteador;2;251.6
+V00566;452.325.550-40;Isabela Barbosa; Juiz de Fora ;isabelabarbosa0566@example.net;25/06/26;Memória RAM;1;606.32
+V00567;207.615.702-69;Mariana Ribeiro;Contagem;marianaribeiro0567 @example.org;06/01/2026;Memória RAM;6;1337.17
+V00568;713.191.573-44;Paula Almeida;Cataguases;paulaalmeida0568@example.net;12-01-2025;SSD;4;997.52
+V00569;895.515.054-77;Beatriz Oliveira;Juiz de Fora;beatrizoliveira0569@example.net;2026/05/16;Mouse;4,00;721.5
+V00570;051.847.139-06;Daniel Gomes;Contagem;danielgomes0570@example.org;25/07/25;Headset;5;1617.79
+V00571;529.307.306-00;Ana Almeida;Niterói;anaalmeida0571@example.net;04-03-2025;Cadeira;7;3586.85
+V00572;361.103.664-13;Natália Gomes;Ubá;natliagomes0572@example.org;06/29/2025;Teclado;2;716.15
+V00573;693.212.148-45;Thiago Costa;Muriaé;thiagocosta0573@example.net;2026-11-02;Webcam;5;2456.65
+V00574;026.793.114-01;Mariana Lima;Niterói;marianalima0574@example.com;06-07-2025;Roteador;3;1997.17
+V00575;606.542.390-46;Lucas Dias;Leopoldina;lucasdias0575@example.org;2026-10-12;Mouse;6;793.53
+V00576;957.162.552-31;Otávio Rocha;Leopoldina;;06-07-2026;Smartphone;8;33732.18
+V00577;379.298.153-08;Pedro Santos;Ubá;pedrosantos0577@example.org;12/25/2025;Mouse;2;75.11
+V00578;512.874.532-53;João Dias;Petrópolis;joodias0578@example.com;2026-10-18;Smartphone;3;12582.13
+V00579;154.251.027-99;Marcos Oliveira;Betim;marcosoliveira0579@example.org;2026/06/27;Mouse;2;447.01
+V00580;581.410.544-58;Felipe Lima;Niterói;felipelima0580@example.com;18/07/2026;Roteador;8;3260.43
+V00581;128.660.065-01;Marcos Barbosa;Campinas;marcosbarbosa0581@example.org;;Smartphone;7;21501.82
+V00582;932.519.706-59;Pedro Ribeiro;Belo Horizonte;pedroribeiro0582@example.com;2026-04-01;Roteador;3;560.15
+V00583;498.244.370-03;Daniel Souza;Contagem;danielsouza0583@example.com;2026-02-09;Smartphone;1;4741.29
+V00584;367.970.489-59;Carla Santos;Niterói;carlasantos0584@example.org;2025-10-20;Teclado;3;1126.61
+V00585;773.029.314-54;Daniel Araújo;Barbacena;danielarajo0585@example.net;08/28/2026;Headset;3;1311.62
+V00586;769.273.676-68;Pedro Silva;Volta Redonda;pedrosilva0586@example.com;2025-02-02;Roteador;5;1961.17
+V00587;426.003.147-34;Eduarda Pereira;Viçosa;eduardapereira0587@example.org;09-07-2026;Headset;1;266.67
+V00588;135.063.216-34;Rafael Oliveira;Muriaé;rafaeloliveira0588@example.com;21/11/26;Impressora;4;R$ 5.939,72
+V00589;828.596.254-71;Sabrina Mendes;Belo Horizonte;sabrinamendes0589@example.com;30/10/25;Impressora;5;8802.28
+V00590;214.891.734-05;Sabrina Lima;Contagem;sabrinalima0590@example.org;23/05/2025;Smartphone;3;9195.59
+V00591;625.037.027-76;Mariana Costa;Viçosa;marianacosta0591@example.net;24/07/25;Impressora;2;3517.11
+V00592;349.525.305-08;Henrique Silva;Miraí;henriquesilva0592@example.net;24/01/25;Roteador;2;542.18
+V00593;569.902.087-09;João Gomes;Rio de Janeiro;joogomes0593 @example.com;29-01-2026;Impressora;6;3693.0
+V00594;792.638.283-35;Otávio Silva;Viçosa;otviosilva0594@example.org;05-06-2025;Monitor;6;9618.36
+V00595;225.534.505-68;Mariana Ribeiro;Barbacena;marianaribeiro0595@example.com;2026-07-04;Smartphone;1;2538.17
+V00596;152.074.840-02;Felipe Nascimento;Rio de Janeiro;felipenascimento0596@example.com;23/11/2025;Teclado;7;1572.33
+V00597;644.281.375-41;Bruno Carvalho;;brunocarvalho0597@example.net;02/07/2025;Teclado;2;738.8
+V00598;163.366.161-01;Bruno Dias;Leopoldina;brunodias0598@example.org;05-02-2025;Impressora;3;4706.13
+V00599;190.466.859-35;  Beatriz Rocha  ;Contagem;beatrizrocha0599@example.net;26/06/25;Webcam;7;3147.72
+V00600;876.085.508-81;Isabela Oliveira; Matias Barbosa ;email_sem_arroba.com;02/08/2025;Cadeira;5;2374.4
+V00601;116.796.423-33;Eduarda Oliveira;Belo Horizonte;eduardaoliveira0601@example.net;31/02/2026;Headset;1,00;96.69
+V00602;801.459.677-36;  Felipe Nascimento  ;Betim;felipenascimento0602@example.com;01/21/2026;Mouse;1;231.84
+V00603;305.804.922-66;Paula Nascimento;Betim;paulanascimento0603@example.org;18/04/25;Memória RAM;8;5121.16
+V00604;;Larissa Costa;Volta Redonda;larissacosta0604@example.net;2026/10/16;Cadeira;3;R$ 4.121,76
+V00605;648.865.956-19;Vitória Araújo;Além Paraíba;vitriaarajo0605@example.org;2025-07-21;Roteador;4,00;2755.2
+V00606;702.376.409-71;Lucas Costa;Matias Barbosa;lucascosta0606 @example.org;2025-08-18;Headset;7;1506.76
+V00607;239.868.826-78;Paula Rodrigues;Volta Redonda;paularodrigues0607@example.net;29-10-2026;Mouse;2;528.44
+V00608;819.628.140-42;  Pedro Mendes  ; Matias Barbosa ;pedromendes0608@example.com;2026-11-11;Cadeira;6;3522.84
+V00609;284.490.458-01;  Bruno Dias  ;Betim;brunodias0609@example.com;04/28/2026;Smartphone;5,00;8483.83
+V00610;065.159.251-83;Gabriela Almeida;Viçosa;gabrielaalmeida0610@example.com;01/07/26;Monitor;4;5947.16
+V00611;626.382.053-55;Larissa Fernandes; Barbacena ;larissafernandes0611@example.org;2026/09/17;Teclado;8;870.82
+V00612;326.748.309-31;Beatriz Lima;Viçosa;beatrizlima0612@example.org;01/07/2026;Webcam;3;1220.06
+V00613;340.159.860-09;Thiago Santos;Miraí;thiagosantos0613@example.net;20-01-2025;SSD;8;6165.76
+V00614;990.946.756-93;Beatriz Gomes;Cataguases;beatrizgomes0614@example.org;2026-05-04;Mouse;1;R$ 111,30
+V00615;946.422.844-01;Isabela Almeida;Betim;isabelaalmeida0615@example.net;26/12/25;Cadeira;6;3724.87
+V00616;765.024.034-77;Carla Rocha;Juiz de Fora;carlarocha0616@example.com;17/09/25;Memória RAM;1;583.74
+V00617;928.761.181-58;Otávio Oliveira;Viçosa;otviooliveira0617@example.org;02/12/2026;Webcam;5;2117.1
+V00618;695.402.168-78;Mariana Pereira;Ubá;marianapereira0618@example.net;27-08-2026;Impressora;8;R$ 10.086,29
+V00619;818.983.051-11;João Souza;Rio de Janeiro;joosouza0619@example.com;2025-02-24;Memória RAM;2;293.73
+V00620;675.411.753-24;Rafael Lima;Betim;rafaellima0620@example.net;09-03-2026;Mouse;1;45.86
+V00621;221.627.045-88;Sabrina Costa;;sabrinacosta0621@example.org;07/14/2025;Cadeira;3;3345.69
+V00622;103.031.682-19;Carla Ribeiro;Rio de Janeiro;carlaribeiro0622@example.com;09/05/2025;SSD;6;2654.56
+V00623;381.066.063-93;Sabrina Almeida;Muriaé;email_sem_arroba.com;2026-09-21;Notebook;5;27020.53
+V00624;315.368.306-91;Carla Carvalho;Betim;carlacarvalho0624@example.com;2025/03/11;Roteador;7;1357.75
+V00625;648.630.923-78;Marcos Almeida; Miraí ;marcosalmeida0625@example.com;08/16/2026;Notebook;6,00;30089.36
+V00626;868.195.430-01;Sabrina Santos;Além Paraíba;cliente@;20/11/26;Smartphone;4;6631.01
+V00627;411.056.106-09;Larissa Lima;Leopoldina;larissalima0627@example.com;15-02-2025;Monitor;7;6106,30
+V00628;279.902.943-47;  André Dias  ;Ubá;andrdias0628@example.org;18-04-2025;Webcam;7;2811.41
+V00629;368.639.662-99;Otávio Fernandes;Leopoldina;otviofernandes0629@example.net;28/07/25;Notebook;4;12130.47
+V00630;993.638.368-01;Beatriz Souza;Volta Redonda;beatrizsouza0630@example.net;2025-11-02;Roteador;5;699.83
+V00631;401.853.739-51;Bruno Pereira;Belo Horizonte;brunopereira0631@example.org;19-10-2025;Impressora;6;6486.46
+V00632;637.165.962-65;Rafael Rodrigues; Rio de Janeiro ;rafaelrodrigues0632@example.com;01/25/2025;Webcam;5;942.0
+V00633;068.790.898-11;Vitória Pereira;Cataguases;;10/29/2025;Mouse;4;455.23
+V00634;287.232.685-58;  Thiago Silva  ;Campinas;thiagosilva0634@example.com;2025-12-17;Impressora;2;2436.01
+V00635;203.655.136-02;  Felipe Silva  ;Volta Redonda;felipesilva0635@example.net;2026-11-13;Headset;4,00;979.08
+V00636;245.627.270-64;André Mendes;Rio de Janeiro;andrmendes0636@example.net;16-09-2025;Webcam;2;973.64
+V00637;978.187.281-05;Gabriela Silva;Rio de Janeiro;gabrielasilva0637@example.net;2026/06/03;Roteador;5;1383.58
+V00638;696.266.701-94;Isabela Gomes;Betim;isabelagomes0638@example.org;08/09/2026;SSD;7;4188.39
+V00639;953.050.791-70;Beatriz Costa;Viçosa;beatrizcosta0639@example.com;2025/09/10;Monitor;1;800.46
+V00640;590.874.684-32;Marcos Almeida;Juiz de Fora;marcosalmeida0640 @example.net;2026-02-15;Teclado;1;263.66
+V00641;040.759.541-46;Beatriz Pereira;Volta Redonda;beatrizpereira0641@example.net;11/16/2026;Webcam;1;340.26
+V00642;517.731.438-33;Henrique Costa;;henriquecosta0642@example.org;23-02-2026;Notebook;7;28859.62
+V00643;485.428.253-31;Pedro Costa;Matias Barbosa;pedrocosta0643@example.org;29/04/26;Memória RAM;8;2583.79
+V00644;478.170.786-62;André Gomes;Campinas;andrgomes0644@example.com;14/10/2026;Teclado;7;
+V00645;713.817.396-29;Eduarda Souza;Leopoldina;eduardasouza0645@example.com;08/26/2026;Smartphone;5;20915.55
+V00646;686.425.974-97;Thiago Souza;Rio de Janeiro;thiagosouza0646@example.com;2026-04-02;Headset;2;1160.02
+V00647;302.283.328-86;Thiago Rodrigues;Além Paraíba;thiagorodrigues0647@example.net;2025-01-18;Smartphone;1;3878.97
+V00648;164.872.296-29;Paula Costa;Contagem;paulacosta0648@example.com;31/02/2026;Smartphone;4;17823.76
+V00649;842.932.489-52;  Isabela Oliveira  ;Ubá;isabelaoliveira0649@example.com;17-05-2026;Monitor;1;1641.81
+V00650;409.639.964-70;Eduarda Silva; São Paulo ;eduardasilva0650@example.org;11/14/2026;SSD;5;2060.9
+V00651;162.817.406-46;Vitória Barbosa;Cataguases;vitriabarbosa0651@example.org;2025/04/11;SSD;7;4769.03
+V00652;619.590.017-61;Felipe Carvalho;Petrópolis;felipecarvalho0652@example.net;29/04/2025;Smartphone;5;20057.01
+V00653;631.106.406-52;Eduarda Mendes;Campinas;eduardamendes0653@example.com;10/11/2025;SSD;2;1555.14
+V00654;638.392.064-22;Paula Costa;Leopoldina;paulacosta0654 @example.net;01/11/26;Smartphone;1;3627.21
+V00655;413.779.014-09;Gabriela Pereira;Matias Barbosa;gabrielapereira0655@example.net;04/09/25;Teclado;7;969.25
+V00656;676.225.770-40;Pedro Martins;Santos Dumont;pedromartins0656@example.com;2026/09/20;Mouse;1;100.11
+V00657;776.719.646-12;Ana Mendes;Betim;anamendes0657@example.com;17/01/26;Headset;6;2634.57
+V00658;241.376.580-81;  André Lima  ;Petrópolis;andrlima0658@example.com;13/05/26;Mouse;6;R$ 1.174,71
+V00659;452.850.630-01;João Lima;Ubá;joolima0659@example.org;2025-08-14;Cadeira;1;847.2
+V00660;128.644.732-17;  Marcos Carvalho  ;Cataguases;marcoscarvalho0660@example.net;2026-03-18;SSD;5;3857.49
+V00661;179.466.362-20;Henrique Carvalho;Contagem;henriquecarvalho0661@example.net;17-10-2026;;8;1459.96
+V00662;517.414.114-33;André Souza;Leopoldina;andrsouza0662@example.net;2026/10/21;Smartphone;8;17168.54
+V00663;100.885.959-10;Larissa Barbosa;Juiz de Fora;larissabarbosa0663@example.net;2025-12-19;Notebook;7;35726.24
+V00664;149.382.600-01;  Paula Costa  ;Belo Horizonte;paulacosta0664@example.org;2025-05-15;Monitor;6;5147.73
+V00665;942.494.805-01;Beatriz Santos;Muriaé;beatrizsantos0665@example.org;2025-07-10;Headset;5;2298.28
+V00666;441.390.817-17;Gabriela Barbosa;Betim;gabrielabarbosa0666@example.com;29/04/2026;Cadeira;3;4480.33
+V00667;996.358.782-82;  Henrique Pereira  ;Barbacena;henriquepereira0667@example.com;2026/07/08;Roteador;5;3068.95
+V00668;358.466.665-16;Beatriz Almeida;São Paulo;beatrizalmeida0668@example.net;04/22/2025;Headset;2;975.88
+V00669;043.082.221-93;Otávio Martins;Betim;otviomartins0669@example.com;18/01/2025;Cadeira;7;8695.25
+V00670;247.021.204-93;;Muriaé;sabrinarocha0670@example.net;02/11/2025;Impressora;8;10600.95
+V00671;530.477.704-26;Henrique Oliveira;Betim;henriqueoliveira0671@example.com;17/06/25;Cadeira;8;4421.63
+V00672;421.942.022-35;Felipe Silva;Belo Horizonte;felipesilva0672@example.org;01/16/2026;SSD;1;631.98
+V00673;555.508.279-73;  Larissa Martins  ;;larissamartins0673@example.net;2026-03-26;Smartphone;1;4548.78
+V00674;853.056.029-99;Larissa Rocha;Campinas;larissarocha0674 @example.net;2026/02/06;Webcam;5;R$ 982,59
+V00675;411.262.239-22;André Gomes;Niterói;andrgomes0675@example.net;19-03-2025;Memória RAM;7;2666.28
+V00676;935.196.339-07;André Almeida;Niterói;andralmeida0676@example.com;07/09/2025;Cadeira;3;4741.76
+V00677;637.192.470-24;Marcos Santos;Betim;marcossantos0677@example.com;07/06/26;Cadeira;8;8144.22
+V00678;115.461.259-74;  Bruno Martins  ;Além Paraíba;brunomartins0678 @example.org;15/09/2025;Webcam;4;1810.28
+V00679;346.294.313-82;Larissa Pereira;Leopoldina;larissapereira0679@example.org;23-09-2025;Monitor;3;3848.34
+V00680;410.643.467-91;Paula Araújo;Juiz de Fora;paulaarajo0680@example.net;09/06/2026;Notebook;1;4027.48
+V00681;946.648.000-62;Bruno Mendes;São Paulo;brunomendes0681@example.org;;Memória RAM;4;1306.1
+V00682;333.617.653-08;Lucas Dias;Volta Redonda;lucasdias0682@example.net;10/28/2025;Impressora;7;6850.35
+V00683;710.405.758-71;Thiago Santos;Juiz de Fora;;2026/08/14;Memória RAM;1;702.51
+V00684;719.940.421-26;Beatriz Almeida;Viçosa;beatrizalmeida0684 @example.net;03/11/2025;Smartphone;5;8379.98
+V00685;710.824.869-74;Daniel Martins;Juiz de Fora;;25-08-2026;Roteador;7;4125.53
+V00686;768.786.732-76;Larissa Araújo;Cataguases;larissaarajo0686@example.org;2025-01-12;Headset;6;3621.26
+V00687;784.899.053-21;  André Nascimento  ;Campinas;andrnascimento0687@example.org;27/09/26;Webcam;4;481.38
+V00688;589.377.810-35;Pedro Rodrigues; Muriaé ;pedrorodrigues0688@example.org;03/01/2026;Monitor;4;4264.18
+V00689;223.180.715-79;Rafael Araújo;Viçosa;rafaelarajo0689@example.net;2026/11/03;Roteador;8;5480.59
+V00690;530.053.479-08;Sabrina Silva;Miraí;sabrinasilva0690@example.org;17/09/2025;Impressora;5;8183.39
+V00691;592.414.788-62;Felipe Costa;Juiz de Fora;felipecosta0691@example.com;09/17/2025;Mouse;8;973.87
+V00692;697.550.627-27;Felipe Lima;Niterói;felipelima0692@example.net;10/07/2025;Webcam;2;1002.08
+V00693;608.632.138-81;Thiago Barbosa;Viçosa;thiagobarbosa0693@example.org;09/01/26;Teclado;8;2215.47
+V00694;866.323.754-57;Gabriela Rocha;São Paulo;gabrielarocha0694@example.org;2025/11/28;Webcam;2;1061.86
+V00695;121.225.607-71;Larissa Lima;São Paulo;larissalima0695@example.net;15/01/2025;Monitor;4;4834.05
+V00696;537.295.162-14;João Costa;;joocosta0696@example.org;08/09/26;Impressora;6;R$ 4.861,06
+V00697;972.815.018-04;Natália Oliveira;Leopoldina;natliaoliveira0697@example.org;05/06/2026;Teclado;6;2622.64
+V00698;096.381.941-04;Henrique Rocha;Niterói;henriquerocha0698@example.net;08-06-2026;Smartphone;6;
+V00699;342.843.150-22;Camila Rodrigues;Contagem;camilarodrigues0699@example.com;2026/07/30;SSD;7,00;1519,69
+V00700;985.285.486-01;Otávio Silva;Ubá;otviosilva0700@example.com;19/08/2026;Memória RAM;7;1499.76
+V00701;722.435.005-24;Marcos Rodrigues;Miraí;marcosrodrigues0701@example.org;2026/05/04;Monitor;5;3843.82
+V00702;683.080.222-95;Lucas Almeida;Leopoldina;lucasalmeida0702@example.org;31/08/25;Memória RAM;4;2885.5
+V00703;464.851.595-18;Vitória Nascimento;Santos Dumont;vitrianascimento0703@example.net;31/12/2025;Headset;2;772.01
+V00704;409.760.547-02;Sabrina Fernandes;Belo Horizonte;sabrinafernandes0704@example.com;;Monitor;7;5254.04
+V00705;821.180.110-84;Gabriela Carvalho;Petrópolis;gabrielacarvalho0705@example.org;2025/11/29;Cadeira;1,00;1366.92
+V00706;753.241.549-04;Vitória Barbosa;Rio de Janeiro;vitriabarbosa0706@example.net;2026-02-13;Mouse;1;171.56
+V00707;071.792.723-71;Camila Barbosa;Muriaé;camilabarbosa0707@example.com;08/08/25;Monitor;7,00;10603.85
+V00708;571.543.299-56;Carla Pereira;Muriaé;carlapereira0708@example.com;25/04/26;Smartphone;;4257.34
+V00709;899.112.100-40;Sabrina Rocha;Além Paraíba;sabrinarocha0709@example.net;30/03/25;Mouse;6;1630.98
+V00710;261.954.398-36;Lucas Almeida;Campinas;lucasalmeida0710@example.org;2025-09-15;Smartphone;7;24571.56
+V00711;134.932.929-03;;Petrópolis;marcosfernandes0711 @example.net;28/01/2025;Memória RAM;2;467.33
+V00712;631.532.451-78;Eduarda Carvalho; Volta Redonda ;eduardacarvalho0712@example.org;30-10-2026;Smartphone;5;8358.61
+V00713;493.950.094-21;Beatriz Gomes;Ubá;beatrizgomes0713@example.com;22-06-2025;Monitor;6;9406.99
+V00714;520.666.895-81;Paula Almeida;Viçosa;paulaalmeida0714@example.org;10/15/2026;Headset;8;4222.2
+V00715;050.529.542-30;Camila Gomes; Belo Horizonte ;camilagomes0715@example.net;2025-03-16;Impressora;8;4855.17
+V00716;825.653.183-50;Beatriz Barbosa;Além Paraíba;beatrizbarbosa0716@example.org;23/03/26;Teclado;2;365.7
+V00717;269.019.392-22;Eduarda Dias;Niterói;eduardadias0717@example.org;12/11/26;Teclado;5;1408.82
+V00718;572.140.898-75;Beatriz Araújo;Campinas;beatrizarajo0718 @example.net;2026/06/02;Roteador;8;2409.7
+V00719;779.380.502-03;Mariana Rodrigues; Juiz de Fora ;marianarodrigues0719@example.org;11/09/25;SSD;2;1269.97
+V00720;398.587.626-67;Rafael Costa;Juiz de Fora;rafaelcosta0720@example.net;2025-12-09;Webcam;8;4042.52
+V00721;004.136.670-07;  João Araújo  ;Muriaé;jooarajo0721@example.net;08-08-2026;Headset;3;658.33
+V00722;272.650.924-07;Beatriz Rodrigues;Betim;beatrizrodrigues0722@example.com;12/06/25;Impressora;2;3508.65
+V00723;196.088.872-25;Otávio Costa; Matias Barbosa ;otviocosta0723@example.org;01/06/25;Mouse;7;767.69
+V00724;082.108.793-25;Eduarda Silva;Barbacena;eduardasilva0724@example.com;04/16/2025;Cadeira;8;6433.79
+V00725;443.596.995-58;Mariana Santos;Matias Barbosa;marianasantos0725@example.net;data não informada;Notebook;3;17011.53
+V00726;356.868.498-55;  Sabrina Souza  ;Além Paraíba;sabrinasouza0726@example.net;;Memória RAM;4;1117.53
+V00727;383.109.536-16;Eduarda Gomes;Matias Barbosa;eduardagomes0727 @example.com;03/06/2025;SSD;4;1217.54
+V00728;662.114.466-09;Eduarda Fernandes;Juiz de Fora;eduardafernandes0728@example.net;04/25/2025;Teclado;3;579.09
+V00729;249.298.680-26;Carla Rocha;Belo Horizonte;carlarocha0729@example.org;;Smartphone;6;22857.56
+V00730;300.516.070-01;Lucas Barbosa;Volta Redonda;lucasbarbosa0730@example.org;08/06/25;Monitor;4;R$ 2.551,37
+V00731;058.979.966-53;Natália Dias;Juiz de Fora;natliadias0731@example.org;2025-05-05;Cadeira;7;8240.13
+V00732;940.604.320-33;Mariana Carvalho;Além Paraíba;marianacarvalho0732@example.org;02/03/2025;Notebook;1;3305.4
+V00733;123.456.789-00;Larissa Almeida;Belo Horizonte;larissaalmeida0733@example.net;05/28/2025;Monitor;7;10170.68
+V00734;092.311.959-06;Mariana Pereira;Ubá;marianapereira0734@example.net;01/25/2025;Mouse;3;331.53
+V00735;023.507.089-01;João Martins;São Paulo;joomartins0735@example.org;09/04/2026;Notebook;4;13528,33
+V00736;420.758.200-24;Gabriela Lima; Além Paraíba ;gabrielalima0736@example.com;04/22/2025;Notebook;5;28891.45
+V00737;375.133.817-99;Bruno Mendes;Rio de Janeiro;brunomendes0737@example.net;05/04/2025;Memória RAM;3;1410.91
+V00738;274.028.720-85;Natália Silva;Campinas;natliasilva0738@example.com;12-09-2025;Headset;3;1720.1
+V00739;224.102.960-26;Camila Araújo;Petrópolis;camilaarajo0739 @example.net;12/03/2026;Webcam;8;1279.52
+V00740;086.729.465-54;Paula Souza;Viçosa;paulasouza0740@example.net;22/05/2025;Mouse;4;899.24
+V00741;543.480.286-14;Eduarda Oliveira;Cataguases;eduardaoliveira0741@example.com;19/03/26;Smartphone;2;6463,39
+V00742;711.419.018-21;Bruno Lima;Petrópolis;brunolima0742 @example.org;2025-12-17;Monitor;3;5351.42
+V00743;436.879.055-36;Mariana Araújo;Juiz de Fora;marianaarajo0743@example.org;09/11/2025;Webcam;8;4322.17
+V00744;203.289.282-09;André Barbosa;Betim;andrbarbosa0744@example.org;2025-05-22;SSD;2;642.64
+V00745;720.822.215-05;Mariana Dias;Campinas;marianadias0745@example.net;2025/02/06;Webcam;2;365,71
+V00746;142.643.357-37;Marcos Almeida;Santos Dumont;marcosalmeida0746@example.net;26-08-2025;Webcam;3;902.24
+V00747;865.870.386-04;Bruno Carvalho;São Paulo;brunocarvalho0747@example.net;03/12/2025;Teclado;3;927,38
+V00748;142.277.069-99;  Carla Souza  ;São Paulo;carlasouza0748@example.com;2025/04/08;Monitor;1;1069.22
+V00749;;Mariana Barbosa;Betim;marianabarbosa0749@example.org;30/09/26;Impressora;5;6945.57
+V00750;632.352.249-72;Sabrina Silva;Betim;sabrinasilva0750@example.org;2025-04-02;Notebook;3;18253.13
+V00751;941.855.643-00;Henrique Carvalho;Santos Dumont;henriquecarvalho0751@example.org;03/11/2026;Cadeira;5;2505.57
+V00752;503.768.501-09;Natália Oliveira;Campinas;natliaoliveira0752 @example.com;10/09/2025;Impressora;6;5517.49
+V00753;301.874.294-06;Vitória Ribeiro;Leopoldina;vitriaribeiro0753@example.org;07/09/2026;Cadeira;4;
+V00754;194.589.351-65;Mariana Lima;Leopoldina;email_sem_arroba.com;02/02/2025;Memória RAM;7;3050.9
+V00755;335.910.440-41;Pedro Nascimento;Além Paraíba;pedronascimento0755@example.net;2025-07-24;Headset;3;1262.51
+V00756;713.738.058-12;Eduarda Nascimento;Niterói;eduardanascimento0756@example.com;03/30/2025;Impressora;8;13134.71
+V00757;628.641.782-66;Marcos Dias;Além Paraíba;marcosdias0757@example.org;2025-04-01;Monitor;2;2212.86
+V00758;941.327.537-87;Felipe Araújo;Belo Horizonte;felipearajo0758@example.org;09/14/2026;Roteador;6;R$ 1.529,54
+V00759;381.176.136-63;  Rafael Pereira  ;Muriaé;rafaelpereira0759@example.org;2026/01/06;Smartphone;3,00;5485.69
+V00760;032.231.683-98;Ana Lima;Santos Dumont;analima0760@example.net;28/10/25;Roteador;3;762.15
+V00761;407.397.966-32;Larissa Lima;Ubá;larissalima0761@example.com;2025/07/20;Teclado;8;3274.36
+V00762;502.181.863-56;Camila Rodrigues;Viçosa;camilarodrigues0762@example.net;10/04/25;Notebook;8;31557.68
+V00763;112.123.695-22;Marcos Silva;Campinas;marcossilva0763@example.com;02/11/25;Roteador;1;492.75
+V00764;902.250.012-85;Isabela Pereira;Muriaé;isabelapereira0764@example.com;2026/02/22;SSD;1;633.62
+V00765;973.068.822-29;Mariana Lima;Belo Horizonte;marianalima0765@example.com;06/09/2025;Webcam;;1499.77
+V00766;362.181.355-10;Bruno Almeida;Contagem;brunoalmeida0766@example.net;01/05/25;Headset;4;1371.98
+V00767;409.246.129-17;Ana Carvalho;Niterói;anacarvalho0767@example.org;10/26/2025;Mouse;5;233,17
+V00768;621.147.868-21;Otávio Rocha;Juiz de Fora;otviorocha0768@example.com;2025-05-25;Mouse;1;59.75
+V00769;057.449.191-05;Marcos Nascimento;Contagem;marcosnascimento0769@example.net;20/11/26;Impressora;;5119.51
+V00770;190.759.893-60;João Martins;Niterói;joomartins0770@example.net;06-05-2026;Roteador;8;2269.03
+V00771;809.084.174-04;  Ana Araújo  ;Matias Barbosa;anaarajo0771@example.org;2026-03-22;Memória RAM;7;4381.09
+V00772;544.777.369-50;Beatriz Mendes;Volta Redonda;beatrizmendes0772@example.com;2026-07-19;Roteador;8;3954.19
+V00773;769.028.884-78;Pedro Pereira; Volta Redonda ;pedropereira0773@example.net;2025-01-05;Teclado;3;1321.92
+V00774;160.955.400-04;Marcos Mendes;Muriaé;marcosmendes0774@example.net;06/03/26;Roteador;6;2683.01
+V00775;267.768.053-01;Vitória Rodrigues;Niterói;vitriarodrigues0775@example.com;09-09-2026;Memória RAM;8,00;3313,07
+V00776;058.495.239-29;Felipe Pereira;Além Paraíba;@example.com;2025/02/17;Teclado;1;387.25
+V00777;108.310.907-32;Marcos Ribeiro;Campinas;marcosribeiro0777@example.org;2025-10-10;Impressora;5;3319.31
+V00778;793.751.426-48;Otávio Lima;Juiz de Fora;otviolima0778@example.com;19/09/26;Mouse;7;R$ 1.073,39
+V00779;394.838.066-08;Larissa Nascimento; Além Paraíba ;larissanascimento0779@example.org;2026/08/09;Monitor;7;12275.11
+V00780;258.999.333-14;Lucas Souza;Leopoldina;lucassouza0780@example.com;10/01/26;Mouse;2;
+V00781;659.286.825-23;Isabela Nascimento;Volta Redonda;isabelanascimento0781@example.org;14/02/2026;Smartphone;3;
+V00782;832.411.130-10;Bruno Rodrigues;Niterói;brunorodrigues0782 @example.com;22/05/26;Impressora;2;3049.95
+V00783;418.315.612-21;Thiago Gomes;Juiz de Fora;thiagogomes0783@example.org;09/05/2025;Impressora;4;1874,91
+V00784;634.158.974-36;Eduarda Araújo;Petrópolis;eduardaarajo0784@example.net;18/06/26;Notebook;4;20772.36
+V00785;203.967.817-49;Mariana Ribeiro;;marianaribeiro0785@example.org;03-12-2025;Teclado;5;2097.07
+V00786;653.334.470-64;Lucas Santos;Rio de Janeiro;lucassantos0786@example.net;16/11/2026;Memória RAM;2;1270.6
+V00787;872.450.434-35;Mariana Costa;Além Paraíba;marianacosta0787@example.com;2025-05-21;Teclado;8;2575.33
+V00788;310.619.081-79;Mariana Pereira;Rio de Janeiro;marianapereira0788@example.com;07/03/2025;Memória RAM;1;317.34
+V00789;168.603.634-53;Camila Oliveira;Ubá;camilaoliveira0789@example.com;13-02-2026;Webcam;4;608.81
+V00790;221.727.011-74;Vitória Fernandes; Miraí ;vitriafernandes0790@example.com;2026-03-24;Mouse;6;312.87
+V00791;106.824.635-91;Felipe Dias;Muriaé;felipedias0791@example.org;2025-10-18;Teclado;6;2335.02
+V00792;785.759.251-06;André Ribeiro;Campinas;andrribeiro0792@example.org;2025/05/08;SSD;3;2496.18
+V00793;451.719.448-58;Lucas Nascimento;São Paulo;lucasnascimento0793@example.org;29/07/2025;Smartphone;2;6273.08
+V00794;687.667.113-56;Bruno Lima;Cataguases;brunolima0794@example.com;2026/06/15;SSD;1;R$ 553,65
+V00795;678.795.523-50;  Felipe Silva  ;Petrópolis;felipesilva0795@example.net;25/03/2026;Headset;4;601.14
+V00796;572.876.097-04;Mariana Santos;Contagem;marianasantos0796@example.net;23/02/26;Notebook;8;R$ 23.872,74
+V00797;775.614.434-13;Otávio Araújo;Contagem;otvioarajo0797@example.com;2026/01/30;Roteador;7;3287,10
+V00798;141.477.743-43;Natália Lima;Ubá;natlialima0798@example.net;2025-01-27;Mouse;3;
+V00799;491.728.872-07;Paula Barbosa;Viçosa;paulabarbosa0799@example.com;2025-10-15;Roteador;8;3472.48
+V00800;391.147.882-85;Thiago Almeida;Volta Redonda;thiagoalmeida0800@example.org;11-03-2025;Monitor;8;R$ 7.224,85
+V00801;742.184.038-90;Eduarda Gomes;Barbacena;eduardagomes0801@example.com;12/05/2025;Mouse;6;332.66
+V00802;749.687.774-35;Eduarda Nascimento;Rio de Janeiro;eduardanascimento0802@example.org;15/02/2025;Webcam;8;3253.65
+V00803;719.380.896-60;Otávio Barbosa;Contagem;otviobarbosa0803@example.com;14-09-2025;Memória RAM;3;1838.63
+V00804;958.016.865-26;Marcos Souza;Petrópolis;marcossouza0804@example.net;2026-05-18;Mouse;2;428.86
+V00805;254.245.441-86;;São Paulo;;07/13/2025;Notebook;5;18849.32
+V00806;;;Petrópolis;danielmartins0806 @example.org;2026/06/01;Webcam;3;955.42
+V00807;236.967.525-00;Henrique Mendes;Leopoldina;henriquemendes0807 @example.net;2025/03/27;Webcam;6;2099.61
+V00808;527.210.841-87;Lucas Oliveira;Leopoldina;lucasoliveira0808@example.net;11/06/2026;Teclado;4;1642.91
+V00809;030.013.166-68;Paula Silva;Santos Dumont;paulasilva0809@example.org;2026/04/02;Webcam;4;1777.52
+V00810;927.082.032-75;Eduarda Rocha;Santos Dumont;eduardarocha0810@example.net;31/10/25;Cadeira;3;4241.63
+V00811;577.299.613-43;Otávio Gomes;Muriaé;email_sem_arroba.com;20-05-2026;Memória RAM;3;1779.56
+V00812;101.690.891-19;Beatriz Carvalho;Petrópolis;beatrizcarvalho0812@example.com;13-01-2025;Monitor;4;6451.36
+V00813;997.723.542-26;Beatriz Gomes;Rio de Janeiro;beatrizgomes0813@example.com;2026-10-20;;7;1636.17
+V00814;250.190.178-93;  Paula Rocha  ;Cataguases;paularocha0814@example.com;2026-09-17;Memória RAM;3;1713.96
+V00815;305.528.161-68;  Lucas Carvalho  ;Campinas;lucascarvalho0815@example.net;2025/07/05;Cadeira;5;7310.28
+V00816;816.234.842-52;Camila Oliveira;Santos Dumont;camilaoliveira0816 @example.org;2026/08/25;Notebook;8;22590.33
+V00817;690.034.603-03;Larissa Almeida;Campinas;larissaalmeida0817@example.net;2026-01-09;Smartphone;5;21214.5
+V00818;060.778.813-51;Vitória Gomes;Matias Barbosa;vitriagomes0818@example.net;07-01-2026;Mouse;2;300.63
+V00819;136.929.822-68;Beatriz Araújo;Muriaé;beatrizarajo0819@example.com;2025-03-14;Cadeira;5,00;7965.84
+V00820;543.497.097-71;Thiago Ribeiro;Cataguases;thiagoribeiro0820@example.net;2026/02/22;Monitor;2;
+V00821;416.484.113-30;Sabrina Martins;Volta Redonda;sabrinamartins0821@example.net;29/06/26;SSD;6;3297,95
+V00822;616.944.757-52;Camila Santos;Volta Redonda;camilasantos0822@example.com;2026/07/27;Impressora;6;8048.89
+V00823;915.649.508-09;André Santos;Cataguases;andrsantos0823@example.net;2026-11-20;SSD;5;2206.17
+V00824;083.849.833-73;Marcos Rocha;Belo Horizonte;marcosrocha0824@example.org;07/02/2026;Smartphone;4;R$ 17.353,23
+V00825;741.177.510-01;Natália Souza;Leopoldina;natliasouza0825@example.net;04/21/2025;Smartphone;4,00;14593,32
+V00826;357.408.272-06;Ana Nascimento;São Paulo;ananascimento0826@example.net;06/17/2025;Webcam;5;2698.87
+V00827;985.537.417-71;Sabrina Mendes;Leopoldina;sabrinamendes0827@example.org;2026-10-10;Cadeira;4;2594.63
+V00828;168.340.076-37;Larissa Costa;Contagem;larissacosta0828@example.com;02-11-2025;Smartphone;6;8964.55
+V00829;170.843.624-37;Felipe Santos;Betim;felipesantos0829 @example.net;27/03/2026;SSD;4;
+V00830;679.115.271-06;Daniel Souza;Cataguases;danielsouza0830@example.com;03-02-2026;Roteador;6;2060.96
+V00831;819.059.705-11;; Ubá ;@example.com;17/11/2026;Impressora;1;1334.44
+V00832;019.004.901-46;Gabriela Mendes;Miraí;gabrielamendes0832@example.com;19-09-2025;Headset;7;R$ 1.398,25
+V00833;917.827.931-36;Pedro Rodrigues;;pedrorodrigues0833@example.net;2026-09-05;Webcam;1;456.8
+V00834;619.903.255-14;Carla Fernandes;Miraí;carlafernandes0834@example.org;11-08-2026;Notebook;1;R$ 3.749,04
+V00835;341.718.069-42;Paula Silva;Contagem;paulasilva0835@example.net;2025/09/23;Smartphone;3;5847.38
+V00836;697.924.946-01;Larissa Rocha;Betim;larissarocha0836@example.org;22/07/26;SSD;4;3507.44
+V00837;985.332.836-45;Gabriela Gomes;Volta Redonda;gabrielagomes0837@example.org;;Cadeira;5;6683.58
+V00838;222.098.331-50;André Mendes; Belo Horizonte ;andrmendes0838@example.net;2026/03/21;Monitor;8;13207.84
+V00839;497.028.061-44;Beatriz Dias;Santos Dumont;beatrizdias0839@example.org;17/08/2025;Notebook;1;5252.47
+V00840;296.983.009-46;Henrique Nascimento;Juiz de Fora;henriquenascimento0840@example.org;06/06/26;Notebook;4;19931.63
+V00841;063.820.019-97;Otávio Araújo;Matias Barbosa;otvioarajo0841@example.org;2026-09-08;Mouse;4;197.13
+V00842;092.197.002-13;Gabriela Mendes;Campinas;gabrielamendes0842@example.org;03/21/2026;Mouse;7;275.59
+V00843;013.091.696-09;André Barbosa;Juiz de Fora;andrbarbosa0843@example.com;08-09-2026;Cadeira;2;1934.63
+V00844;683.314.753-14;Beatriz Gomes;Contagem;beatrizgomes0844@example.net;2026/11/07;Memória RAM;3;763.97
+V00845;882.958.366-93;Isabela Souza;Petrópolis;isabelasouza0845@example.net;2026/09/14;Impressora;6;
+V00846;281.429.278-11;Isabela Silva;Contagem;isabelasilva0846@example.net;15-09-2025;Memória RAM;5;R$ 2.795,59
+V00847;602.471.206-51;Thiago Costa;São Paulo;;24-08-2026;Notebook;2;6913.92
+V00848;481.891.293-00;Daniel Santos;;danielsantos0848@example.net;05-06-2026;SSD;6;R$ 1.657,10
+V00849;372.244.599-00;;Betim;pedroribeiro0849@example.com;2026/01/18;Mouse;6;1288.62
+V00850;818.608.781-81;Rafael Gomes;Santos Dumont;rafaelgomes0850@example.net;04-06-2026;Impressora;8;4146.44
+V00851;820.891.437-12;Beatriz Santos;Niterói;beatrizsantos0851@example.net;2026-05-12;Webcam;5;1538.36
+V00852;110.094.185-14;Felipe Mendes;Ubá;felipemendes0852@example.org;28/05/2025;Memória RAM;6;4437.86
+V00853;513.902.639-25;Beatriz Nascimento;Ubá;beatriznascimento0853@example.com;2026-02-15;Impressora;2;3516,12
+V00854;564.646.357-28;Camila Carvalho; Betim ;camilacarvalho0854@example.com;09/16/2025;Webcam;1;515.82
+V00855;891.933.088-34;Isabela Dias;Muriaé;isabeladias0855@example.org;24/08/2026;SSD;1;562,17
+V00856;094.285.786-07;Isabela Silva;Niterói;isabelasilva0856@example.com;17/06/2025;Monitor;8;8863.78
+V00857;589.835.458-11;Carla Rocha;Campinas;carlarocha0857@example.net;2025/10/13;Headset;3;570.42
+V00858;300.404.175-82;Pedro Rodrigues;Campinas;pedrorodrigues0858@example.org;2025-05-01;SSD;5;1002.75
+V00859;461.302.166-97;Isabela Rodrigues;Belo Horizonte;isabelarodrigues0859@example.org;2025-12-19;Memória RAM;1;352.88
+V00860;161.990.802-63;Pedro Nascimento;Juiz de Fora;pedronascimento0860@example.com;10-02-2026;SSD;1;586.19
+V00861;352.475.800-29;Gabriela Oliveira;Juiz de Fora;gabrielaoliveira0861 @example.com;03/18/2025;;4;949.61
+V00862;592.389.685-01;Eduarda Fernandes;São Paulo;eduardafernandes0862@example.com;2026/09/07;Monitor;3;3860.78
+V00863;684.991.509-60;Felipe Ribeiro;Betim;feliperibeiro0863@example.com;10/09/25;Smartphone;2;10293.95
+V00864;177.153.748-58;Lucas Costa;Belo Horizonte;lucascosta0864@example.com;2025/10/08;Notebook;4;17124.54
+V00865;881.498.660-61;Pedro Mendes;Além Paraíba;pedromendes0865@example.net;18-04-2025;Mouse;4;867.32
+V00866;886.105.693-82;Otávio Gomes;Santos Dumont;otviogomes0866@example.org;2025/10/14;Impressora;1;1433.67
+V00867;183.550.384-53;Beatriz Dias;Santos Dumont;beatrizdias0867@example.net;01/04/2025;Cadeira;8;12765.06
+V00868;002.140.051-28;Pedro Gomes; Rio de Janeiro ;pedrogomes0868@example.net;;Notebook;3;9979.59
+V00869;834.399.813-81;Sabrina Oliveira;Muriaé;sabrinaoliveira0869@example.com;08/18/2025;Roteador;6;
+V00870;652.136.466-98;Henrique Souza;Rio de Janeiro;henriquesouza0870@example.org;10/24/2026;Roteador;;1068.68
+V00871;322.059.815-37;Mariana Oliveira;Viçosa;marianaoliveira0871@example.com;2026-03-01;Roteador;2;295,96
+V00872;895.218.853-52;;Niterói;thiagoarajo0872@example.com;2025/04/07;Headset;6;2466.36
+V00873;597.571.453-28;Larissa Costa;Leopoldina;larissacosta0873@example.com;03/09/26;Roteador;2,00;675.44
+V00874;727.646.981-61;Vitória Silva;Petrópolis;vitriasilva0874@example.net;30/08/2026;Monitor;6;4671.01
+V00875;498.450.768-32;João Rodrigues;Niterói;joorodrigues0875 @example.com;2026/06/25;Impressora;6;9785.3
+V00876;585.724.838-89;;Betim;andralmeida0876@example.net;01/06/2025;Notebook;6;30587.43
+V00877;944.850.815-84;Daniel Pereira;Contagem;danielpereira0877@example.net;05/12/2025;Monitor;6;10057.05
+V00878;983.068.464-44;André Pereira;Leopoldina;andrpereira0878@example.org;11/06/2026;Monitor;2;1379.46
+V00879;653.583.663-01;Beatriz Mendes;Campinas;beatrizmendes0879@example.org;07/15/2026;Notebook;2;11777.48
+V00880;973.274.957-12;Thiago Martins;Juiz de Fora;thiagomartins0880@example.com;05-02-2025;Monitor;7;6082.14
+V00881;002.430.864-16;Bruno Barbosa;Volta Redonda;brunobarbosa0881@example.com;2025-10-11;Cadeira;4;5433.07
+V00882;758.120.941-53;Thiago Nascimento;Niterói;thiagonascimento0882@example.com;2026/06/25;Teclado;1;132.48
+V00883;115.454.409-57;Bruno Souza;Viçosa;brunosouza0883@example.org;31/07/2026;Smartphone;;8699.64
+V00884;183.772.181-52;Marcos Silva;Contagem;marcossilva0884@example.com;2026/09/27;Roteador;3;1397.67
+V00885;892.247.323-14;Felipe Barbosa;Viçosa;felipebarbosa0885@example.com;2026-09-05;Monitor;7;9994.76
+V00886;;Rafael Fernandes;Petrópolis;rafaelfernandes0886@example.org;28-04-2026;Teclado;4;1511.94
+V00887;158.138.978-70;  Larissa Gomes  ;Muriaé;larissagomes0887@example.org;10/05/25;Mouse;4;266.57
+V00888;084.938.889-91;André Carvalho;Além Paraíba;andrcarvalho0888@example.net;08/14/2025;Monitor;5;3869.01
+V00889;934.289.300-71;Lucas Mendes;Viçosa;lucasmendes0889@example.net;14/11/25;Roteador;3;1695.1
+V00890;767.767.409-77;;Viçosa;isabelasilva0890@example.net;04/12/25;Impressora;6;3167.77
+V00891;004.153.660-63;Pedro Silva;Viçosa;pedrosilva0891@example.com;2025-03-20;Impressora;4;3553.51
+V00892;976.761.925-96;Camila Rodrigues;Leopoldina;camilarodrigues0892@example.org;01-04-2026;Smartphone;8;26122.33
+V00893;789.695.483-44;Bruno Souza;;brunosouza0893@example.org;03/12/2025;Headset;5;1293.74
+V00894;;Rafael Araújo;Contagem;rafaelarajo0894@example.org;08/21/2025;Teclado;1;207.41
+V00895;667.915.807-99;Rafael Barbosa;Niterói;rafaelbarbosa0895@example.com;data não informada;Smartphone;8;21339.15
+V00896;601.330.356-80;Gabriela Lima;Santos Dumont;gabrielalima0896@example.org;27/01/26;Smartphone;5;R$ 5.916,22
+V00897;;Eduarda Almeida;Niterói;email_sem_arroba.com;01-05-2026;Smartphone;1;4600.37
+V00898;485.741.945-91;;Barbacena;carlaarajo0898@example.org;14/03/25;Teclado;3;1238.07
+V00899;338.745.528-38;Marcos Ribeiro;Santos Dumont;marcosribeiro0899@example.net;10/09/25;Headset;5;1240.56
+V00900;879.753.768-34;Beatriz Nascimento;Viçosa;beatriznascimento0900@example.net;22-05-2025;Notebook;7;36679.79
+V00901;;Henrique Carvalho;Contagem;henriquecarvalho0901@example.com;01/06/2026;Impressora;1,00;793.86
+V00902;519.680.789-68;Gabriela Carvalho;Contagem;;2026/08/09;Webcam;8;998.4
+V00903;558.908.309-54;Gabriela Costa;Cataguases;gabrielacosta0903@example.com;09/17/2025;Teclado;7;604.41
+V00904;371.445.321-04;  Sabrina Martins  ;Campinas;sabrinamartins0904@example.org;19/05/2026;Roteador;4;768.13
+V00905;730.531.623-78;Camila Mendes;Além Paraíba;camilamendes0905@example.net;2026/07/16;Monitor;5;5301.74
+V00906;049.802.207-21;Natália Rodrigues;Leopoldina;natliarodrigues0906@example.org;31/02/2026;Notebook;1;5517.25
+V00907;630.740.501-53;  João Carvalho  ;Barbacena;joocarvalho0907@example.org;12-03-2025;Memória RAM;4;2397.18
+V00908;903.254.189-78;Isabela Fernandes;Muriaé;isabelafernandes0908@example.org;2026/08/09;Notebook;3;R$ 12.285,22
+V00909;773.868.783-55;Eduarda Oliveira;Viçosa;eduardaoliveira0909@example.net;16/07/2026;Headset;2;1232.4
+V00910;304.567.057-17;Felipe Mendes;Viçosa;;2026-10-22;Smartphone;7;19955.22
+V00911;;Natália Gomes;Viçosa;natliagomes0911@example.com;14-06-2026;Headset;5;
+V00912;959.226.534-83;Bruno Gomes;Além Paraíba;brunogomes0912@example.net;2025-06-06;Memória RAM;8;1419.17
+V00913;267.257.074-41;Natália Martins;Rio de Janeiro;natliamartins0913@example.com;2025-11-10;Smartphone;4;17487.06
+V00914;383.943.650-87;Pedro Gomes;Belo Horizonte;pedrogomes0914@example.net;2025-04-26;Headset;2;1027.99
+V00915;478.330.244-82;Carla Almeida;São Paulo;;2026-11-19;Roteador;2;1082.81
+V00916;400.380.595-00;Camila Ribeiro;Matias Barbosa;camilaribeiro0916@example.org;05/29/2026;Roteador;1;262.24
+V00917;380.204.107-09;Beatriz Souza;Muriaé;beatrizsouza0917@example.com;09/30/2026;Teclado;6;2028.49
+V00918;792.972.173-63;Natália Almeida;Muriaé;natliaalmeida0918@example.org;02/24/2026;Teclado;2;313.96
+V00919;592.036.577-39;Natália Martins;Rio de Janeiro;natliamartins0919@example.org;09/01/2025;Smartphone;5;5012.56
+V00920;064.880.977-34;Paula Barbosa; São Paulo ;paulabarbosa0920@example.org;10/05/2025;Memória RAM;3;439.04
+V00921;829.171.720-62;Mariana Souza; Cataguases ;marianasouza0921@example.net;2026-11-18;Teclado;3,00;1187.36
+V00922;596.066.088-17;Daniel Rocha;Leopoldina;danielrocha0922@example.org;06/04/2026;SSD;6;2095.46
+V00923;962.491.863-53;Rafael Santos;Miraí;rafaelsantos0923@example.com;11/02/25;Webcam;3;1058.72
+V00924;723.103.860-31;Rafael Gomes;Leopoldina;rafaelgomes0924@example.net;2026-05-21;Impressora;6;5242.13
+V00925;;Pedro Rocha;Além Paraíba;pedrorocha0925@example.net;09/04/26;Memória RAM;3;1091.44
+V00926;363.437.658-92;Gabriela Costa;Barbacena;;2025-12-28;Memória RAM;8;4660.08
+V00927;186.510.310-18;Pedro Nascimento; Miraí ;pedronascimento0927@example.org;27-04-2026;Notebook;1;4884.77
+V00928;238.477.008-05;Lucas Almeida;Miraí;lucasalmeida0928@example.net;19-11-2026;Roteador;1;594.22
+V00929;632.695.037-69;  Thiago Barbosa  ;Santos Dumont;thiagobarbosa0929@example.net;2025/12/03;SSD;6;4447.86
+V00930;077.941.446-21;Mariana Lima;Viçosa;marianalima0930@example.net;2026/01/27;Memória RAM;2;1334.69
+V00931;741.109.140-52;Camila Costa;Leopoldina;camilacosta0931@example.net;;Monitor;8;5257.83
+V00932;123.071.456-14;Vitória Pereira; Niterói ;vitriapereira0932@example.com;18/01/2025;Teclado;7;2927.27
+V00933;798.609.318-88;Pedro Santos;Matias Barbosa;pedrosantos0933@example.net;2025-01-08;Webcam;5;2413.48
+V00934;377.373.870-65;Henrique Pereira;Contagem;henriquepereira0934@example.com;11/30/2025;Smartphone;1;1759.3
+V00935;280.113.644-14;Daniel Oliveira;Petrópolis;danieloliveira0935@example.org;10/27/2025;SSD;1;376.73
+V00936;736.473.431-71;  Bruno Rodrigues  ;Rio de Janeiro;brunorodrigues0936@example.com;2026/02/01;Monitor;;4135.67
+V00937;749.263.934-18;Beatriz Nascimento;Belo Horizonte;beatriznascimento0937@example.org;09/05/2026;SSD;3;2116.28
+V00938;875.359.835-03;João Costa;Viçosa;joocosta0938@example.net;09/27/2025;Memória RAM;6;1433.22
+V00939;046.928.292-40;Carla Santos;Petrópolis;carlasantos0939@example.net;2025-11-12;Notebook;6;26220.37
+V00940;274.106.171-88;Larissa Rocha;São Paulo;larissarocha0940@example.org;2025-09-21;Webcam;7;1356.21
+V00941;294.470.588-18;Mariana Nascimento;Niterói;mariananascimento0941@example.com;09/21/2026;Impressora;8;7499,95
+V00942;499.548.511-28;André Oliveira;Contagem;nome sobrenome@example.com;2026-08-12;Roteador;7;3568.97
+V00943;933.123.991-23;Paula Lima;Volta Redonda;paulalima0943@example.com;2026-02-16;Headset;7,00;1871.07
+V00944;367.703.898-79;Marcos Souza;Niterói;marcossouza0944@example.com;10/01/2025;Notebook;1;
+V00945;833.793.876-58;Natália Rocha;Miraí;natliarocha0945@example.org;2026-11-20;Smartphone;1;3889.64
+V00946;039.568.547-81;Natália Oliveira;Ubá;natliaoliveira0946@example.net;2025-11-26;Webcam;6;3006.01
+V00947;312.208.148-23;Pedro Gomes;Belo Horizonte;pedrogomes0947@example.org;22/05/2026;Impressora;4;4518,52
+V00948;861.995.432-63;Camila Nascimento;Matias Barbosa;camilanascimento0948@example.com;2025/02/11;Monitor;2;1571.93
+V00949;230.169.958-76;André Araújo;Petrópolis;andrarajo0949@example.org;09/28/2025;Teclado;8;1232.51
+V00950;912.087.110-41;Marcos Nascimento;Leopoldina;marcosnascimento0950@example.org;2025-10-22;Impressora;1;594.89
+V00951;687.081.313-26;Camila Martins;Leopoldina;camilamartins0951@example.org;2026/11/12;Headset;5;680.0
+V00952;636.441.102-99;Bruno Barbosa;São Paulo;brunobarbosa0952@example.com;2026-11-21;Cadeira;;2963.32
+V00953;421.612.907-21;Ana Silva;;anasilva0953@example.com;2026/05/08;Mouse;6;1502.5
+V00954;664.326.597-53;Lucas Carvalho;Juiz de Fora;lucascarvalho0954@example.com;10/13/2025;Monitor;8;8845.84
+V00955;055.242.759-42;Isabela Lima;Muriaé;isabelalima0955@example.org;26/02/2025;Memória RAM;1;143.17
+V00956;406.022.928-84;;Barbacena;felipealmeida0956 @example.org;27/08/2026;SSD;2;R$ 1.386,72
+V00957;767.724.287-15;João Rocha;Matias Barbosa;joorocha0957@example.net;2025-06-14;Smartphone;2;4383.67
+V00958;164.995.966-48;Natália Araújo;Juiz de Fora;natliaarajo0958@example.com;08/07/2026;Webcam;3;848.35
+V00959;012.130.449-37;Rafael Oliveira; Volta Redonda ;rafaeloliveira0959@example.com;04/08/25;Cadeira;6;7510.63
+V00960;243.815.839-58;Camila Martins;Leopoldina;camilamartins0960@example.com;12/21/2025;Notebook;3;17420.7
+V00961;942.491.149-11;Paula Rocha;Leopoldina;paularocha0961@example.org;17/05/2026;Roteador;7;1889.76
+V00962;377.458.603-94;  Camila Pereira  ;Contagem;camilapereira0962@example.org;22-09-2026;Memória RAM;1;726.23
+V00963;447.245.687-72;Rafael Mendes;Ubá;rafaelmendes0963@example.com;15/09/2025;Mouse;4;929.59
+V00964;052.617.064-68;Vitória Martins;Juiz de Fora;vitriamartins0964@example.com;02-05-2026;Webcam;5;2619.74
+V00965;568.792.940-15;Bruno Dias;Campinas;brunodias0965@example.com;27/06/2026;Memória RAM;6;787.68
+V00966;050.162.305-11;Natália Silva;Juiz de Fora;natliasilva0966@example.org;2025-07-09;Mouse;1;R$ 250,17
+V00967;719.848.310-04;Lucas Rodrigues;;lucasrodrigues0967@example.com;20-11-2026;Smartphone;1;
+V00968;355.943.168-93;Rafael Lima;Viçosa;rafaellima0968@example.com;01/11/2026;Mouse;4;879.29
+V00969;330.449.812-56;Paula Martins;Cataguases;paulamartins0969@example.org;20-01-2025;Headset;6;3037,99
+V00970;911.665.439-01;Natália Almeida;Miraí;natliaalmeida0970@example.org;10/10/2026;Roteador;1;408.67
+V00971;123.456.789-00;Otávio Araújo;Matias Barbosa;otvioarajo0971@example.net;21/05/26;Memória RAM;5;1245.28
+V00972;333.357.190-01;Henrique Fernandes;Cataguases;henriquefernandes0972 @example.com;08/15/2026;Mouse;;174.68
+V00973;877.701.066-31;Henrique Gomes;Niterói;henriquegomes0973@example.com;2026-09-26;Notebook;7;37949.04
+V00974;;  Gabriela Gomes  ;Cataguases;gabrielagomes0974 @example.com;05/08/26;Memória RAM;;2660.19
+V00975;365.653.328-87;Otávio Dias;Contagem;otviodias0975@example.net;2025/01/21;Smartphone;5;11308.41
+V00976;473.436.589-06;Vitória Lima;Miraí;vitrialima0976@example.com;2025/03/24;Smartphone;5;8559.61
+V00977;329.405.838-12;André Souza;Muriaé;andrsouza0977@example.net;2026-01-16;Cadeira;3,00;1906.03
+V00978;909.423.041-02;João Costa;Miraí;;2026/04/14;Headset;5;599.0
+V00979;155.748.136-97;Sabrina Pereira;São Paulo;sabrinapereira0979 @example.net;2025/05/26;SSD;2;1731.45
+V00980;693.675.322-11;Marcos Santos;Belo Horizonte;marcossantos0980@example.com;2025/06/25;SSD;5;2364.02
+V00981;559.393.263-83;Eduarda Oliveira;Muriaé;eduardaoliveira0981@example.net;08/20/2026;Monitor;3;4163.95
+V00982;800.772.424-92;  Rafael Martins  ;Petrópolis;rafaelmartins0982@example.com;06/18/2025;Mouse;7;1731.06
+V00983;108.901.463-58;Carla Pereira;Niterói;carlapereira0983@example.net;08-02-2025;Cadeira;7;7360.07
+V00984;450.203.635-89;Larissa Gomes; Barbacena ;larissagomes0984@example.org;03/01/26;Webcam;3;418.74
+V00985;;Paula Souza;Belo Horizonte;paulasouza0985@example.net;16/05/26;Roteador;2;1101.86
+V00986;505.555.113-50;Gabriela Araújo;Santos Dumont;gabrielaarajo0986@example.net;25/07/2026;Monitor;1;1169.72
+V00987;060.585.353-37;Vitória Lima;Betim;nome sobrenome@example.com;07/10/2025;Cadeira;8;3693.4
+V00988;401.667.205-86;Carla Fernandes;Viçosa;carlafernandes0988@example.com;11/04/2025;Webcam;4;1604.81
+V00989;180.478.242-45;Thiago Almeida; Betim ;email..duplicado@example.com;03/07/25;Notebook;4,00;22031.86
+V00990;623.510.229-13;Felipe Gomes; Campinas ;felipegomes0990@example.net;29/04/2026;Teclado;7;2689.77
+V00991;613.205.441-35;Camila Dias;Niterói;camiladias0991@example.com;01/02/2026;Webcam;3;637.08
+V00992;733.792.462-30;Eduarda Oliveira; Volta Redonda ;eduardaoliveira0992@example.com;;Smartphone;3;13169.44
+V00993;266.726.705-22;  Lucas Mendes  ;São Paulo;lucasmendes0993 @example.com;08/11/26;SSD;5;1202.12
+V00994;986.744.343-81;Daniel Silva;Viçosa;danielsilva0994@example.com;11/03/2025;Smartphone;1;2806.07
+V00995;114.261.975-36;Otávio Dias;Santos Dumont;@example.com;2025/06/09;Impressora;5;2887.85
+V00996;136.729.253-07;Paula Barbosa;Ubá;paulabarbosa0996@example.net;30/10/2025;Webcam;7;1681.75
+V00997;030.638.726-37;Camila Barbosa;Rio de Janeiro;camilabarbosa0997@example.net;01/01/2026;Cadeira;6;8940.52
+V00998;072.789.946-50;Otávio Fernandes;Contagem;otviofernandes0998 @example.net;2026-08-14;Monitor;6;R$ 8.338,99
+V00999;437.538.608-84;Pedro Rocha;Betim;pedrorocha0999@example.org;2025-02-06;Monitor;1;1357.71
+V01000;672.972.221-52;Felipe Rodrigues;Barbacena;feliperodrigues1000@example.net;06/02/2026;Cadeira;7;10763.28
+V01001;454.753.494-29;Sabrina Lima;Juiz de Fora;sabrinalima1001@example.org;01/11/25;Smartphone;5;23356.28
+V01002;957.691.935-58;Henrique Ribeiro;Santos Dumont;henriqueribeiro1002@example.net;2026-02-21;SSD;5;1629.98
+V01003;474.030.360-43;Sabrina Gomes;Além Paraíba;sabrinagomes1003@example.org;27/02/2026;SSD;7;1765.78
+V01004;606.962.354-13;Isabela Almeida;Além Paraíba;isabelaalmeida1004@example.org;27/10/26;Headset;8;1210.28
+V01005;835.186.514-13;Beatriz Gomes;Viçosa;beatrizgomes1005@example.com;27-10-2025;Teclado;5;2240.01
+V01006;765.530.357-69;Otávio Almeida;Miraí;otvioalmeida1006@example.org;22/09/25;Webcam;;1949.6
+V01007;306.544.126-86;Natália Martins;Belo Horizonte;;13-02-2025;SSD;1;851.55
+V01008;557.861.333-04;Felipe Nascimento;Barbacena;felipenascimento1008@example.com;16/08/26;Mouse;2;460.49
+V01009;257.477.923-19;Pedro Araújo;Volta Redonda;pedroarajo1009@example.org;30/04/26;Webcam;2;1070.79
+V01010;425.443.054-02;João Fernandes;Petrópolis;@example.com;2025/11/20;Teclado;4;1565.33
+V01011;079.146.148-32;Beatriz Almeida;Leopoldina;beatrizalmeida1011@example.com;2025-11-11;Impressora;1;776.92
+V01012;095.160.407-49;Thiago Dias;Petrópolis;thiagodias1012@example.net;15/01/2026;Teclado;2;877.23
+V01013;429.714.587-18;Eduarda Souza;Volta Redonda;eduardasouza1013@example.com;2026-01-23;Smartphone;8;8933,49
+V01014;332.483.210-17;Beatriz Rocha;Petrópolis;beatrizrocha1014@example.com;2025-03-31;Monitor;1;1079.7
+V01015;423.840.834-91;Otávio Santos;Belo Horizonte;otviosantos1015@example.com;11/14/2025;Teclado;4;809.04
+V01016;592.706.932-02;Mariana Silva;Niterói;marianasilva1016@example.net;2026/03/19;Smartphone;3;R$ 9.930,76
+V01017;896.645.351-18;João Martins;Betim;joomartins1017@example.net;08/06/2025;Monitor;3;4842.86
+V01018;656.324.197-21;Paula Martins;Matias Barbosa;paulamartins1018@example.com;20/08/2026;Headset;2;1291.7
+V01019;667.012.272-11;Felipe Rodrigues;Ubá;feliperodrigues1019@example.org;2025-03-30;Notebook;3;16354.06
+V01020;450.184.729-88;Isabela Rocha;Belo Horizonte;cliente@;2025/01/16;Memória RAM;5;899.88
+V01021;891.853.368-32;  Vitória Nascimento  ;Muriaé;vitrianascimento1021@example.org;2026-07-08;Memória RAM;1;289.0
+V01022;835.330.911-48;Natália Barbosa;Betim;natliabarbosa1022@example.org;21/10/25;Impressora;8;14301.18
+V01023;597.295.465-69;Thiago Souza;Matias Barbosa;thiagosouza1023@example.com;07-06-2026;Monitor;7;12436.98
+V01024;831.667.355-01;Daniel Lima;Barbacena;daniellima1024@example.com;11/08/26;Roteador;5;R$ 3.352,98
+V01025;413.333.380-24;Mariana Costa;Juiz de Fora;marianacosta1025@example.net;10/24/2026;Cadeira;7;7375.69
+V01026;185.602.978-64;Eduarda Lima;Cataguases;eduardalima1026@example.net;11/16/2025;Webcam;5;2641.27
+V01027;538.708.875-41;Natália Souza; Belo Horizonte ;natliasouza1027@example.net;2025-03-06;Roteador;7;3183.35
+V01028;105.422.200-25;Carla Souza;Miraí;carlasouza1028@example.net;12-06-2025;Monitor;4;4912.49
+V01029;716.117.345-00;Bruno Carvalho;Contagem;brunocarvalho1029@example.net;11-04-2026;Cadeira;2;2197.58
+V01030;849.042.843-31;Eduarda Santos;Volta Redonda;eduardasantos1030@example.net;25/05/2025;Memória RAM;8;1536.47
+V01031;659.899.064-56;Camila Fernandes;Muriaé;camilafernandes1031@example.net;2026-02-19;Roteador;8;5465.82
+V01032;751.159.000-42;Larissa Santos;Niterói;larissasantos1032@example.net;28/04/2026;Impressora;5;2720.57
+V01033;224.767.666-91;Daniel Mendes;Barbacena;danielmendes1033@example.org;30-04-2026;Notebook;8;28931.82
+V01034;502.026.120-32;Pedro Gomes;Petrópolis;pedrogomes1034@example.org;21/03/25;SSD;1;466.41
+V01035;692.695.543-34;Beatriz Gomes;Santos Dumont;beatrizgomes1035@example.net;16-12-2025;Teclado;7;1974.28
+V01036;793.938.827-47;Larissa Fernandes;Matias Barbosa;larissafernandes1036@example.com;22/03/25;Smartphone;5;R$ 7.981,80
+V01037;571.523.511-13;Eduarda Almeida; São Paulo ;eduardaalmeida1037 @example.com;21/11/25;Teclado;7;2881.03
+V01038;279.331.548-68;  Otávio Oliveira  ;Matias Barbosa;otviooliveira1038@example.org;2025/08/07;Cadeira;5;5316.79
+V01039;302.090.511-76;;Petrópolis;gabrielaalmeida1039 @example.com;30/10/2026;Notebook;2;10077,74
+V01040;221.170.269-41;Ana Lima;Ubá;analima1040@example.net;04-09-2025;Headset;6;R$ 2.002,26
+V01041;761.547.465-56;Vitória Ribeiro;Contagem;vitriaribeiro1041@example.com;03/21/2026;Notebook;;12707.76
+V01042;463.732.258-88;Thiago Mendes;Contagem;thiagomendes1042@example.net;25/02/26;;3;1430.91
+V01043;969.978.182-35;Henrique Costa;Barbacena;henriquecosta1043@example.net;2026-05-02;Smartphone;4;19688.16
+V01044;201.046.449-41;Marcos Santos;Muriaé;marcossantos1044@example.com;04-03-2025;Monitor;6;R$ 9.977,14
+V01045;467.540.978-42;Carla Dias;Leopoldina;carladias1045@example.com;09-12-2025;Webcam;4;632.27
+V01046;476.390.106-09;Thiago Souza;Campinas;thiagosouza1046@example.com;10/11/2025;Roteador;8;4181.37
+V01047;081.636.530-01;Pedro Rodrigues;Betim;pedrorodrigues1047@example.com;12/02/26;Cadeira;6;6378.67
+V01048;109.441.282-12;Isabela Souza;Barbacena;isabelasouza1048@example.net;2025-04-24;Monitor;2;1878.14
+V01049;497.843.413-02;Pedro Carvalho;Volta Redonda;pedrocarvalho1049@example.org;2026-05-29;Notebook;6;19980.62
+V01050;737.157.351-05;Ana Dias;Leopoldina;anadias1050@example.org;03-02-2026;Memória RAM;3;1355.86
+V01051;370.035.479-71;Daniel Lima;Muriaé;daniellima1051 @example.org;2026-08-31;;;9158.11
+V01052;580.114.241-07;Rafael Mendes;Ubá;rafaelmendes1052 @example.com;2026-09-23;Monitor;6;7021.27
+V01053;217.375.735-05;Natália Ribeiro;Viçosa;natliaribeiro1053@example.org;15-09-2026;Mouse;2,00;455.64
+V01054;707.995.783-48;Rafael Silva;Cataguases;rafaelsilva1054@example.com;14-01-2025;SSD;2;1057.59
+V01055;115.644.598-11;João Araújo;Viçosa;jooarajo1055@example.com;17-09-2026;Cadeira;4;5189.33
+V01056;094.767.185-45;Sabrina Rocha;Petrópolis;sabrinarocha1056@example.com;2025/08/13;Notebook;5;30635.92
+V01057;763.513.002-16;Thiago Martins;Betim;thiagomartins1057@example.com;26/09/2025;Webcam;5;
+V01058;692.930.402-64;Paula Martins;Cataguases;paulamartins1058@example.com;;Roteador;5;1747.44
+V01059;347.009.375-06;Otávio Carvalho;Barbacena;otviocarvalho1059@example.com;10/09/2026;Smartphone;1;3516.46
+V01060;449.496.885-46;Beatriz Oliveira;Rio de Janeiro;cliente@;04-09-2026;Teclado;6;R$ 1.897,61
+V01061;226.783.964-45;Pedro Ribeiro;Campinas;nome sobrenome@example.com;31-10-2025;Teclado;5;1406.37
+V01062;994.640.033-25;Carla Barbosa;Viçosa;carlabarbosa1062@example.com;10/06/26;Mouse;3;555.18
+V01063;838.163.494-64;Paula Ribeiro;Rio de Janeiro;paularibeiro1063@example.com;07-01-2025;Mouse;4;692,39
+V01064;875.241.862-67;;Miraí;beatrizsantos1064@example.org;31/03/2026;Smartphone;1;4656.39
+V01065;414.790.211-14;Ana Almeida;Além Paraíba;anaalmeida1065@example.com;06/08/2025;Mouse;4;838,29
+V01066;626.802.866-01;  Gabriela Silva  ;Muriaé;gabrielasilva1066@example.net;29/06/2025;Impressora;5;6526.08
+V01067;084.747.319-85;Larissa Rodrigues;Campinas;larissarodrigues1067@example.org;06/09/26;Webcam;8;4012,87
+V01068;329.007.417-01;Larissa Almeida;Matias Barbosa;larissaalmeida1068@example.com;2025/10/27;Notebook;5;29019.08
+V01069;524.879.777-29;Rafael Barbosa;Leopoldina;rafaelbarbosa1069@example.org;2026-04-08;Cadeira;3;2116.0
+V01070;491.551.162-65;Vitória Rodrigues;Barbacena;vitriarodrigues1070@example.net;08/23/2026;Impressora;8;9457.33
+V01071;247.836.510-36;Lucas Araújo;Juiz de Fora;lucasarajo1071@example.com;2025-05-26;Roteador;8;2457.01
+V01072;453.478.508-93;Larissa Santos;Muriaé;larissasantos1072@example.org;2026/03/13;Webcam;7;1545.65
+V01073;;Bruno Barbosa;Juiz de Fora;brunobarbosa1073@example.net;02/10/2026;SSD;4;1854.59
+V01074;369.603.783-47;Pedro Rodrigues;Cataguases;pedrorodrigues1074@example.net;2025/11/24;Monitor;5;R$ 5.018,08
+V01075;586.384.213-04;Natália Rocha;Niterói;natliarocha1075@example.com;09-07-2025;Cadeira;3;1455,46
+V01076;403.938.466-02;Rafael Nascimento;Contagem;rafaelnascimento1076 @example.org;;Teclado;2;502.96
+V01077;025.526.469-06;Thiago Gomes;Cataguases;;23/11/2025;Notebook;2;5774.84
+V01078;166.466.865-90;Vitória Rocha;Além Paraíba;vitriarocha1078@example.org;;Teclado;7;3039.57
+V01079;190.368.973-28;Eduarda Carvalho;Viçosa;eduardacarvalho1079@example.com;;Notebook;4;18481.45
+V01080;639.098.568-11;Beatriz Fernandes;Viçosa;beatrizfernandes1080@example.net;06/09/2025;SSD;4;3040.86
+V01081;054.093.303-16;  Beatriz Araújo  ;Leopoldina;beatrizarajo1081@example.com;18/06/2025;Teclado;4;1329.94
+V01082;532.582.342-65;Beatriz Lima;Miraí;beatrizlima1082@example.net;19/11/2025;Cadeira;2;2373.32
+V01083;273.481.717-97;Vitória Almeida;Além Paraíba;vitriaalmeida1083@example.net;16/02/2026;Teclado;3;979.36
+V01084;023.139.670-86;Paula Almeida;Além Paraíba;paulaalmeida1084@example.com;03/19/2026;Teclado;1;86.4
+V01085;432.378.993-90;  Mariana Gomes  ;Ubá;marianagomes1085@example.org;31-07-2025;Monitor;7;9725.1
+V01086;;Marcos Mendes;Niterói;marcosmendes1086@example.org;2026/01/26;Teclado;2;285.89
+V01087;843.484.541-50;Camila Carvalho;Muriaé;camilacarvalho1087@example.com;2025/04/16;Mouse;5,00;244.16
+V01088;544.143.970-07;Thiago Silva;Barbacena;thiagosilva1088@example.net;10/03/2026;Mouse;4;1086.3
+V01089;640.514.952-81;Isabela Barbosa;Santos Dumont;isabelabarbosa1089@example.net;01/09/26;Impressora;1,00;
+V01090;692.703.958-99;Felipe Almeida;Niterói;felipealmeida1090@example.com;05/07/2026;Impressora;2;
+V01091;692.474.760-47;Pedro Silva;Niterói;;14/06/2025;Mouse;8;2135.77
+V01092;112.630.277-51;Rafael Almeida;Além Paraíba;rafaelalmeida1092@example.net;25/11/2025;Memória RAM;1;633.53
+V01093;336.457.664-57;  Daniel Rodrigues  ;Viçosa;danielrodrigues1093@example.net;04/02/25;Monitor;6;5275.62
+V01094;892.456.472-27;Carla Silva;Betim;carlasilva1094@example.net;2026/11/05;Monitor;2;R$ 1.202,60
+V01095;275.318.898-04;Felipe Lima;Leopoldina;felipelima1095@example.org;06/10/2026;Notebook;4;22859.34
+V01096;522.947.161-17;André Dias;Juiz de Fora;andrdias1096@example.net;;Notebook;3;14917.02
+V01097;863.740.954-73;Lucas Pereira;Leopoldina;lucaspereira1097@example.org;19/04/2025;Memória RAM;1;545.68
+V01098;562.009.784-69;Ana Silva;Volta Redonda;anasilva1098@example.org;25-07-2025;Headset;7;1856.27
+V01099;243.409.759-67;Gabriela Santos;Viçosa;gabrielasantos1099@example.com;31-01-2026;Roteador;1;430.61
+V01100;341.500.550-00;Lucas Ribeiro;Campinas;lucasribeiro1100@example.com;23-03-2025;Roteador;8;5148.62
+V01101;175.913.180-64;Larissa Rocha;Betim;larissarocha1101@example.com;2026-08-22;Memória RAM;5;
+V01102;579.633.941-91;Daniel Fernandes;Viçosa;danielfernandes1102@example.net;06/13/2025;Smartphone;8;20708.92
+V01103;152.740.476-54;  Sabrina Barbosa  ;Além Paraíba;sabrinabarbosa1103@example.org;30/08/2026;Cadeira;1;699.28
+V01104;327.802.941-09;Thiago Costa;Rio de Janeiro;thiagocosta1104@example.net;;SSD;;978.8
+V01105;527.329.747-82;Felipe Almeida;Além Paraíba;felipealmeida1105@example.org;2025/03/13;Impressora;3;2839.81
+V01106;397.964.546-03;André Araújo;Santos Dumont;andrarajo1106@example.org;03/16/2025;Roteador;1;301.24
+V01107;333.888.092-84;Carla Carvalho;Volta Redonda;carlacarvalho1107@example.com;2026-03-20;Cadeira;4,00;
+V01108;145.247.032-42;Daniel Gomes;Belo Horizonte;danielgomes1108@example.com;05/24/2025;Notebook;2;7377.65
+V01109;619.696.375-96;André Almeida;Volta Redonda;andralmeida1109@example.net;14/01/25;Mouse;5,00;943.47
+V01110;138.526.784-48;Carla Santos;Viçosa;carlasantos1110@example.org;23/06/25;Webcam;8;3452.39
+V01111;324.882.413-19;Bruno Gomes;Viçosa;brunogomes1111@example.net;2025/01/05;Webcam;7;
+V01112;662.113.488-61;Larissa Rocha;Além Paraíba;larissarocha1112 @example.net;08/01/25;Mouse;2;285.42
+V01113;107.660.622-96;Mariana Souza;Matias Barbosa;marianasouza1113@example.net;2025/05/30;Webcam;8;1746.26
+V01114;753.081.886-46;Vitória Almeida;Matias Barbosa;vitriaalmeida1114@example.com;07/05/2025;Roteador;2;R$ 1.360,91
+V01115;658.829.346-14;Sabrina Nascimento;Ubá;email_sem_arroba.com;28/06/26;Cadeira;7;5810,38
+V01116;802.468.591-49;Carla Dias;Matias Barbosa;carladias1116@example.com;25-10-2025;Roteador;4;797.59
+V01117;270.588.168-92;João Araújo;Niterói;jooarajo1117@example.com;10/03/2025;Monitor;4;5379.81
+V01118;876.374.753-70;Isabela Mendes;Santos Dumont;isabelamendes1118@example.net;2025-01-23;Smartphone;8;26031.97
+V01119;732.518.566-94;Mariana Rocha;Petrópolis;;06-01-2026;Impressora;5;5822.95
+V01120;445.127.577-68;João Almeida; Além Paraíba ;jooalmeida1120@example.net;14-10-2025;Cadeira;1;1047.14
+V01121;946.059.687-85;Ana Dias;Matias Barbosa;anadias1121@example.com;2025/01/26;Impressora;6;5790.94
+V01122;;Paula Ribeiro;Leopoldina;paularibeiro1122@example.net;25/02/2026;Headset;4;1803.94
+V01123;561.592.554-02;  Thiago Pereira  ;São Paulo;thiagopereira1123@example.com;07/11/25;Cadeira;1;877.53
+V01124;912.065.092-29;  Felipe Nascimento  ;Leopoldina;felipenascimento1124@example.net;27/05/26;Memória RAM;4;2651.77
+V01125;303.189.817-60;Lucas Almeida;Além Paraíba;lucasalmeida1125@example.com;15/01/25;Impressora;2;2053.0
+V01126;983.705.555-36;Beatriz Rocha;Contagem;beatrizrocha1126@example.com;12-06-2025;Teclado;1;87.29
+V01127;500.285.830-95;Isabela Araújo;Matias Barbosa;isabelaarajo1127@example.org;2025-06-02;Webcam;2;1010.19
+V01128;101.008.250-70;Larissa Rodrigues;Muriaé;larissarodrigues1128@example.org;2025-03-23;Smartphone;;8342.7
+V01129;547.293.840-68;Marcos Ribeiro;Belo Horizonte;marcosribeiro1129@example.com;2025/05/18;Impressora;2;1720.11
+V01130;182.890.444-97;Carla Fernandes; Leopoldina ;carlafernandes1130@example.org;2026-08-18;Teclado;1;406.95
+V01131;024.393.868-30;Daniel Oliveira;São Paulo;danieloliveira1131@example.net;03/21/2025;Memória RAM;6;2794.92
+V01132;598.132.166-04;Mariana Dias;Cataguases;marianadias1132@example.org;30/11/2025;Impressora;7;3936.52
+V01133;471.665.014-65;Otávio Pereira;Ubá;otviopereira1133@example.net;20-09-2026;Headset;1;254.77
+V01134;511.647.327-91;Carla Ribeiro;Petrópolis;carlaribeiro1134@example.org;;Webcam;8;2635.11
+V01135;073.375.272-18;Beatriz Rodrigues;Campinas;beatrizrodrigues1135@example.org;2025/09/26;Roteador;8;5096,61
+V01136;982.289.903-33;  Vitória Pereira  ;Betim;vitriapereira1136@example.net;;Mouse;8;1284.94
+V01137;062.098.485-68;Pedro Souza;Betim;pedrosouza1137@example.net;16-08-2026;Webcam;4;2037.01
+V01138;807.021.196-29;Eduarda Santos;Santos Dumont;eduardasantos1138 @example.net;18-09-2025;Cadeira;7;7573.01
+V01139;581.421.942-45;Marcos Gomes;Campinas;marcosgomes1139@example.net;10-05-2026;SSD;7;3646.64
+V01140;774.855.670-99;Beatriz Rocha;Barbacena;;10/14/2025;Monitor;7;4323.97
+V01141;818.675.417-27;Natália Pereira;Muriaé;natliapereira1141@example.com;30/09/25;Teclado;5;1684.66
+V01142;966.319.027-21;Sabrina Barbosa;Barbacena;sabrinabarbosa1142@example.net;31/10/26;Headset;7;1876.45
+V01143;552.100.950-71;Eduarda Nascimento;Muriaé;eduardanascimento1143@example.net;2025/10/30;Headset;3;591.76
+V01144;757.956.449-10;Vitória Fernandes;Belo Horizonte;vitriafernandes1144 @example.net;08/05/25;Webcam;4;898.34
+V01145;324.033.932-32;Carla Mendes;Matias Barbosa;carlamendes1145@example.org;18/08/2026;Cadeira;7;5108.46
+V01146;394.150.760-55;Henrique Martins;Cataguases;henriquemartins1146@example.com;2026-10-28;SSD;8;6852.3
+V01147;764.117.358-68;Gabriela Oliveira;Volta Redonda;gabrielaoliveira1147@example.net;10/09/2025;Webcam;5;1411.54
+V01148;103.313.591-71;André Rocha;São Paulo;andrrocha1148@example.net;27/03/2026;Roteador;5;3109.69
+V01149;635.562.423-63;Thiago Gomes;Campinas;thiagogomes1149@example.org;12-01-2026;Cadeira;8;11131.52
+V01150;636.889.652-31;João Ribeiro;São Paulo;;2026/05/09;Roteador;8;2107.09
+V01151;245.199.587-42;Thiago Mendes;Barbacena;thiagomendes1151 @example.com;01/03/2025;Roteador;6;1773.99
+V01152;050.322.684-03;Henrique Araújo;Leopoldina;henriquearajo1152@example.com;2026-07-19;Mouse;5;908.27
+V01153;233.479.577-18;Mariana Pereira;Miraí;marianapereira1153@example.org;2025-07-16;SSD;6;5007.81
+V01154;369.021.261-87;;São Paulo;anadias1154@example.org;;Roteador;4;1375.15
+V01155;;Beatriz Fernandes;Leopoldina;beatrizfernandes1155@example.com;2026-11-02;Smartphone;6;8376.2
+V01156;102.802.775-30;Isabela Fernandes;Ubá;isabelafernandes1156@example.org;07/08/2025;Memória RAM;5;1567.33
+V01157;559.378.956-82;Marcos Rodrigues;Contagem;marcosrodrigues1157@example.org;2026/10/13;Impressora;1;674.78
+V01158;817.819.786-39;Felipe Ribeiro;Viçosa;feliperibeiro1158@example.org;2026-08-27;Notebook;2;6182.19
+V01159;755.326.250-19;Paula Carvalho;Contagem;paulacarvalho1159@example.org;12/05/2025;Impressora;3;2237.17
+V01160;418.788.381-90;Henrique Santos;Miraí;henriquesantos1160@example.org;2025-03-05;Teclado;7;R$ 1.413,91
+V01161;861.519.101-85;Henrique Dias;Matias Barbosa;henriquedias1161@example.org;2025-02-15;Mouse;4;168.83
+V01162;321.590.918-99;Thiago Barbosa;Além Paraíba;;2025-02-27;Headset;7;2854.08
+V01163;415.145.832-84;Larissa Barbosa; São Paulo ;larissabarbosa1163@example.net;02-07-2025;Memória RAM;4;3098.16
+V01164;437.887.787-26;André Oliveira;Belo Horizonte;androliveira1164@example.org;2025/09/23;Memória RAM;6;2278.67
+V01165;747.935.748-67;Ana Pereira;Viçosa;anapereira1165@example.org;06/06/2025;Mouse;5;752.93
+V01166;095.644.652-31;Lucas Lima;Niterói;lucaslima1166@example.com;2025-03-04;Webcam;8;4065.31
+V01167;397.099.819-01;Otávio Souza;Juiz de Fora;otviosouza1167@example.net;08/02/25;Cadeira;5;4766.07
+V01168;603.576.538-67;Marcos Mendes;Muriaé;marcosmendes1168@example.org;31/10/25;Webcam;7;1707.33
+V01169;049.252.770-91;Ana Lima;Miraí;analima1169@example.org;08/03/2026;Notebook;1;5553.88
+V01170;885.943.903-52;Larissa Almeida;Volta Redonda;larissaalmeida1170@example.com;16-06-2026;Cadeira;5;6220.13
+V01171;859.935.928-27;João Dias;Miraí;joodias1171@example.net;2025/10/21;Mouse;2;179.1
+V01172;160.393.842-72;Thiago Martins;Viçosa;thiagomartins1172@example.net;09-05-2025;Headset;;1209.91
+V01173;322.973.078-03;Bruno Costa;São Paulo;brunocosta1173@example.com;2025/06/05;Cadeira;8;7776.79
+V01174;522.350.875-08;  Pedro Lima  ;Leopoldina;pedrolima1174@example.com;06/04/2025;Webcam;1;R$ 306,56
+V01175;446.347.107-91;Paula Ribeiro;Barbacena;paularibeiro1175@example.com;2026/03/17;Impressora;8;3847,53
+V01176;;  Felipe Rocha  ;Viçosa;feliperocha1176@example.com;12-05-2025;Mouse;5;775.23
+V01177;123.456.789-00;Beatriz Rodrigues;Petrópolis;beatrizrodrigues1177@example.com;2025-05-26;Webcam;5;853,73
+V01178;441.466.703-82;Ana Lima;Juiz de Fora;analima1178@example.org;11/04/2026;Teclado;4;1349.89
+V01179;104.258.376-54;Rafael Mendes;Barbacena;rafaelmendes1179@example.org;07/22/2025;Headset;6;2433.8
+V01180;378.138.992-89;Rafael Santos;Muriaé;rafaelsantos1180@example.org;11-01-2025;Roteador;3;R$ 463,99
+V01181;;Henrique Souza; Petrópolis ;henriquesouza1181@example.net;15-01-2026;Memória RAM;5;3746.39
+V01182;022.516.534-15;Thiago Silva;Cataguases;thiagosilva1182@example.net;11/09/2026;Memória RAM;4;1320.58
+V01183;967.291.197-14;Otávio Souza;Rio de Janeiro;otviosouza1183@example.net;30-04-2025;Teclado;2;188.5
+V01184;290.232.094-95;Bruno Oliveira;Ubá;brunooliveira1184@example.org;27/07/2025;Impressora;8;R$ 6.514,55
+V01185;332.820.754-65;Carla Mendes;Ubá;carlamendes1185@example.com;25-04-2025;SSD;4;2213.97
+V01186;741.983.673-62;Thiago Santos;Belo Horizonte;cliente@;2026/07/31;Headset;5;1886.21
+V01187;252.212.171-56;Henrique Fernandes;Viçosa;henriquefernandes1187@example.com;07/14/2026;Impressora;8;6826.8
+V01188;751.868.384-98;Marcos Nascimento;Rio de Janeiro;marcosnascimento1188@example.com;19/08/2025;Roteador;8;2190.26
+V01189;476.730.011-88;Gabriela Martins;Santos Dumont;gabrielamartins1189@example.org;02/12/2026;Notebook;1;3634.64
+V01190;316.066.757-03;Daniel Lima;Cataguases;daniellima1190@example.com;2026-01-22;Smartphone;5;R$ 15.287,61
+V01191;576.111.850-56;André Martins;Rio de Janeiro;andrmartins1191@example.net;2026-09-16;Mouse;2;481.59
+V01192;;Daniel Fernandes;Belo Horizonte;danielfernandes1192@example.com;14-04-2026;Smartphone;2;5913.79
+V01193;030.211.658-35;Thiago Mendes;Ubá;thiagomendes1193@example.com;03-02-2026;Webcam;7;1812.15
+V01194;226.889.005-88;Mariana Costa;Contagem;marianacosta1194@example.org;14-01-2025;Teclado;5;1753.8
+V01195;628.575.697-01;Mariana Nascimento;Belo Horizonte;mariananascimento1195@example.org;2025-06-27;Monitor;2;1736.83
+V01196;136.726.991-11;Sabrina Mendes;Campinas;sabrinamendes1196@example.net;28/04/26;Webcam;8;4035.05
+V01197;341.049.740-49;Thiago Almeida;São Paulo;thiagoalmeida1197@example.net;05/01/2025;Monitor;2;1574.2
+V01198;376.312.427-64;Marcos Oliveira;Belo Horizonte;marcosoliveira1198 @example.org;26/08/26;Roteador;1;129.22
+V01199;393.985.282-16;Daniel Mendes;Cataguases;danielmendes1199@example.net;25-07-2026;Smartphone;4;14036.28
+V01200;779.408.482-25;Daniel Dias;Rio de Janeiro;danieldias1200@example.net;09/23/2026;SSD;2;R$ 437,32
+V01201;980.007.223-31;Larissa Silva;Betim;larissasilva1201@example.com;16/05/26;Impressora;3;2613.37
+V01202;426.291.501-87;Beatriz Dias;Petrópolis;beatrizdias1202@example.net;29/01/25;Mouse;3;421.04
+V01203;157.834.178-75;Otávio Martins;Contagem;otviomartins1203@example.com;23/11/25;Impressora;6;4364.73
+V01204;;Felipe Ribeiro;Leopoldina;feliperibeiro1204@example.com;24-09-2026;Roteador;7;4297.23
+V01205;249.222.428-73;Rafael Almeida;Belo Horizonte;rafaelalmeida1205@example.org;28-09-2026;Monitor;6;4025.73
+V01206;200.717.609-21;Rafael Mendes;São Paulo;rafaelmendes1206@example.org;10/20/2025;Smartphone;6;9561.17
+V01207;122.546.510-90;Beatriz Souza;Além Paraíba;beatrizsouza1207@example.com;24/06/2025;Webcam;1;407.27
+V01208;294.369.530-04;Eduarda Rodrigues; Volta Redonda ;eduardarodrigues1208@example.com;17/07/26;Teclado;5;R$ 1.324,24
+V01209;063.761.700-22;  Ana Costa  ;Matias Barbosa;anacosta1209@example.com;26/04/26;Cadeira;3;2633.97
+V01210;243.144.097-47;Felipe Araújo;Niterói;felipearajo1210@example.net;17/01/2025;Notebook;6;25129.66
+V01211;695.019.595-80;Eduarda Oliveira;Betim;eduardaoliveira1211@example.net;2025-01-18;Monitor;2;2860.29
+V01212;715.550.194-81;Felipe Carvalho;Miraí;felipecarvalho1212 @example.net;12/03/2025;Teclado;6;2509.45
+V01213;751.914.818-11;  Ana Fernandes  ; Rio de Janeiro ;email_sem_arroba.com;15/01/2026;Memória RAM;2;312.69
+V01214;429.332.879-36;Larissa Almeida;;larissaalmeida1214@example.net;15-03-2026;Teclado;;442.47
+V01215;319.352.706-81;Henrique Carvalho;Campinas;henriquecarvalho1215@example.net;2026/04/15;Impressora;3;1925.57
+V01216;149.477.398-87;Natália Oliveira;Santos Dumont;natliaoliveira1216@example.net;31/10/25;Monitor;1;657.02
+V01217;936.516.431-16;Camila Araújo;Cataguases;;05/09/2025;Mouse;3;342.78
+V01218;609.011.652-13;Eduarda Silva;São Paulo;eduardasilva1218@example.org;2026/05/29;Monitor;7;10383.11
+V01219;;Bruno Santos;Miraí;brunosantos1219 @example.com;20/07/2026;Smartphone;2;6192.43
+V01220;504.800.988-68;Ana Gomes;Viçosa;anagomes1220@example.net;04/18/2025;Headset;7;2210.4
+V01221;853.298.299-93;Bruno Oliveira;;brunooliveira1221@example.org;02-07-2026;Cadeira;6;4103.76
+V01222;123.456.789-00;Beatriz Santos;Volta Redonda;beatrizsantos1222@example.com;2026-06-02;SSD;5;1892.96
+V01223;701.337.646-90;Isabela Almeida;Muriaé;isabelaalmeida1223@example.net;;Notebook;2,00;9904.31
+V01224;123.543.547-47;Natália Mendes;Viçosa;natliamendes1224@example.org;02/10/2026;Memória RAM;1;505.93
+V01225;220.486.888-46;André Ribeiro;Matias Barbosa;andrribeiro1225@example.net;2025/03/19;Teclado;3;1017.8
+V01226;761.473.606-05;Thiago Dias;Santos Dumont;thiagodias1226@example.com;2025-01-20;SSD;8;2654.31
+V01227;944.712.685-55;  Rafael Lima  ;Viçosa;rafaellima1227@example.org;2026/06/03;Notebook;3;
+V01228;737.977.873-09;Felipe Pereira;Viçosa;email..duplicado@example.com;09/25/2025;Memória RAM;8;2086.24
+V01229;261.789.514-94;Pedro Fernandes;Campinas;pedrofernandes1229@example.net;2026/04/13;Monitor;2;1595.31
+V01230;097.234.213-31;Ana Carvalho;Muriaé;anacarvalho1230@example.com;26/08/2026;Smartphone;2;9009.77
+V01231;675.367.890-51;Larissa Pereira;Miraí;larissapereira1231@example.com;2025-06-25;Mouse;3;160.24
+V01232;061.852.973-03;Carla Mendes;Além Paraíba;carlamendes1232@example.org;2025/01/12;Headset;4;1856.42
+V01233;161.047.076-11;Daniel Fernandes;Niterói;danielfernandes1233@example.com;07/03/2025;Monitor;7,00;4022.52
+V01234;393.094.955-54;Vitória Gomes;Niterói;vitriagomes1234@example.net;2026/04/09;Webcam;5;2630.89
+V01235;551.588.134-60;Felipe Santos;Leopoldina;felipesantos1235@example.net;19/07/26;Webcam;8;2575.85
+V01236;601.807.915-17;Thiago Santos;Contagem;thiagosantos1236@example.com;05/28/2025;Webcam;3;595.41
+V01237;539.764.617-26;Camila Barbosa;Leopoldina;camilabarbosa1237@example.net;05-04-2025;Monitor;7;12113.71
+V01238;050.957.063-19;Otávio Mendes;Cataguases;otviomendes1238@example.com;09-02-2026;Smartphone;3;11246.21
+V01239;308.119.212-99;Marcos Mendes;Belo Horizonte;marcosmendes1239@example.com;03/24/2025;SSD;5;1246.52
+V01240;098.496.809-12;Lucas Silva;Campinas;lucassilva1240@example.org;07/26/2025;Monitor;1;R$ 1.278,40
+V01241;;  Carla Dias  ;Belo Horizonte;carladias1241@example.com;2025-12-04;Mouse;6;1655.43
+V01242;722.305.133-71;João Almeida;Rio de Janeiro;jooalmeida1242@example.net;08/08/2025;Roteador;8;2333.04
+V01243;228.721.616-28;André Rodrigues;Muriaé;andrrodrigues1243@example.com;01-02-2026;Monitor;1;1592.99
+V01244;189.925.528-16;Pedro Santos; Ubá ;pedrosantos1244@example.net;27/05/2025;Impressora;3;4751.64
+V01245;790.199.191-73;Marcos Rodrigues;Juiz de Fora;marcosrodrigues1245@example.org;20-02-2025;Cadeira;6;3171.97
+V01246;293.188.918-07;Rafael Pereira;Contagem;rafaelpereira1246@example.org;;Headset;8;4472.31
+V01247;047.478.751-67;João Lima;Campinas;joolima1247@example.net;2025-09-08;Memória RAM;;443.58
+V01248;298.168.611-95;Rafael Fernandes;São Paulo;rafaelfernandes1248@example.com;2025/05/10;Notebook;3;18904.26
+V01249;122.347.976-50;Bruno Araújo;Cataguases;brunoarajo1249@example.com;2025/09/09;Monitor;7;6917.67
+V01250;928.243.767-17;Marcos Araújo;Leopoldina;marcosarajo1250@example.org;10/10/26;Cadeira;1;1077.82
+V01251;490.027.659-68;Gabriela Silva;Campinas;gabrielasilva1251@example.net;08-10-2026;Memória RAM;6;2793.57
+V01252;908.218.741-88;Vitória Barbosa;São Paulo;vitriabarbosa1252@example.net;2025-10-20;Headset;7;1530.31
+V01253;994.231.167-02;Ana Fernandes;Volta Redonda;anafernandes1253@example.net;12/29/2025;Notebook;2;9074.89
+V01254;273.201.634-98;Bruno Ribeiro;;brunoribeiro1254@example.net;23-02-2025;Monitor;5;5699.88
+V01255;775.564.019-11;Carla Silva;Petrópolis;carlasilva1255@example.net;10/09/2026;Monitor;6;3666.05
+V01256;179.633.313-18;Pedro Rocha;São Paulo;pedrorocha1256@example.net;2026-07-05;Headset;3;832.34
+V01257;176.363.177-03;Camila Barbosa;Rio de Janeiro;camilabarbosa1257@example.com;2026/02/09;Notebook;4;21140.15
+V01258;537.083.179-30;Daniel Almeida;Ubá;danielalmeida1258@example.com;2026-01-16;Mouse;5;1043.0
+V01259;972.563.689-93;Sabrina Almeida;Cataguases;sabrinaalmeida1259@example.com;2025/08/29;Roteador;6;3419.11
+V01260;573.050.388-15;Larissa Costa;Contagem;larissacosta1260@example.org;2025-05-27;Smartphone;5;12638.85
+V01261;407.344.584-70;  Camila Nascimento  ;Matias Barbosa;camilanascimento1261@example.org;03/17/2025;Smartphone;3;7945.61
+V01262;431.926.358-87;Otávio Araújo;Barbacena;otvioarajo1262@example.net;2026/08/28;Cadeira;8;12575.69
+V01263;580.558.746-71;  Otávio Fernandes  ;Barbacena;otviofernandes1263@example.org;2026-08-16;Smartphone;1,00;1078,00
+V01264;542.262.120-46;Isabela Costa;Cataguases;isabelacosta1264@example.org;2025/08/16;Teclado;5;430.56
+V01265;286.876.427-42;Daniel Barbosa;Ubá;danielbarbosa1265@example.net;13-05-2025;Mouse;3;673.81
+V01266;867.557.373-14;Isabela Santos;Matias Barbosa;isabelasantos1266@example.net;2025/08/31;Headset;7;1273.41
+V01267;335.486.269-64;Marcos Santos;Barbacena;marcossantos1267@example.net;21/06/26;Smartphone;1;3105.21
+V01268;918.260.426-61;João Costa; Contagem ;joocosta1268@example.com;26-09-2026;Memória RAM;7;1409.01
+V01269;412.992.520-29;;Juiz de Fora;camilamartins1269@example.com;2025-01-29;Headset;5;1150.24
+V01270;576.772.225-02;André Barbosa; Viçosa ;andrbarbosa1270@example.net;04/21/2026;Cadeira;7;10806.16
+V01271;089.199.307-09;Isabela Pereira;Santos Dumont;isabelapereira1271@example.com;22/11/26;Webcam;5;2406.15
+V01272;981.762.093-00;Bruno Nascimento;Belo Horizonte;brunonascimento1272@example.net;29/07/25;SSD;4;977.25
+V01273;967.370.389-22;Vitória Ribeiro;Belo Horizonte;vitriaribeiro1273@example.org;29/01/26;Smartphone;3;2936.6
+V01274;753.384.107-71;Paula Costa;Leopoldina;paulacosta1274@example.org;07/26/2026;Impressora;5;6914.76
+V01275;138.635.026-56;Henrique Pereira;São Paulo;henriquepereira1275@example.net;31/02/2026;Cadeira;7;7757.03
+V01276;784.802.843-75;Isabela Mendes;Petrópolis;isabelamendes1276@example.com;11/08/26;Monitor;8;9691.91
+V01277;310.402.912-11;Camila Araújo;Santos Dumont;camilaarajo1277@example.com;02/07/26;Webcam;5;1145.4
+V01278;598.692.919-54;  Sabrina Almeida  ;Santos Dumont;sabrinaalmeida1278@example.org;2026-09-12;Memória RAM;5;1358.57
+V01279;848.824.669-20;Henrique Nascimento;Juiz de Fora;henriquenascimento1279@example.org;2026/01/12;Headset;8,00;4001.94
+V01280;364.079.973-90;;Miraí;isabelacosta1280@example.net;20/03/25;Monitor;1;991.55
+V01281;708.915.725-39;Paula Ribeiro;Juiz de Fora;paularibeiro1281@example.org;2026-02-24;Cadeira;8;5548.73
+V01282;386.329.687-78;Larissa Rodrigues;Niterói;email_sem_arroba.com;26/11/25;Webcam;3;903.22
+V01283;222.183.422-44;Carla Souza;Niterói;carlasouza1283 @example.net;14/05/2026;Smartphone;3;7393.36
+V01284;015.448.047-93;Daniel Santos;Juiz de Fora;danielsantos1284@example.org;;Smartphone;7;R$ 26.870,65
+V01285;521.994.989-65;Marcos Pereira;São Paulo;marcospereira1285@example.net;29-01-2025;Cadeira;8;8886.24
+V01286;440.959.247-57;Felipe Nascimento;Matias Barbosa;felipenascimento1286@example.org;2026/04/30;Monitor;1;732.72
+V01287;131.319.835-83;Sabrina Souza;Contagem;sabrinasouza1287 @example.org;24-07-2026;Cadeira;6,00;7084.83
+V01288;677.817.858-28;Thiago Nascimento;Santos Dumont;thiagonascimento1288@example.com;07/08/2026;Cadeira;5;6166.16
+V01289;511.550.467-74;João Santos;Leopoldina;joosantos1289@example.com;2026/06/16;Smartphone;3,00;4978.89
+V01290;864.202.436-46;Beatriz Souza;São Paulo;beatrizsouza1290@example.com;;Monitor;5;7647.34
+V01291;415.096.582-04;Marcos Rodrigues;Ubá;marcosrodrigues1291@example.com;01/10/25;Mouse;4;929.95
+V01292;052.542.729-54;Otávio Almeida;Matias Barbosa;;2025-06-27;Roteador;4;R$ 1.303,43
+V01293;328.536.464-50;Natália Nascimento;Muriaé;natlianascimento1293@example.org;2026/08/15;Memória RAM;3,00;2293.17
+V01294;892.323.472-97;André Ribeiro;Campinas;andrribeiro1294@example.com;2025/09/09;Notebook;2;12981.52
+V01295;047.904.356-61;Beatriz Rocha;Contagem;beatrizrocha1295@example.net;08/27/2025;Notebook;4;13520.36
+V01296;;  Eduarda Pereira  ;Betim;eduardapereira1296 @example.net;06-05-2025;Impressora;8;6770.34
+V01297;947.925.236-81;Felipe Almeida;Campinas;felipealmeida1297@example.com;18/08/2025;Mouse;3;466.84
+V01298;667.519.949-83;Henrique Oliveira;Viçosa;henriqueoliveira1298@example.net;06-05-2026;Teclado;8;1425.32
+V01299;017.497.785-90;Carla Ribeiro; Cataguases ;carlaribeiro1299@example.org;03/09/2025;Notebook;;17853,65
+V01300;524.212.655-85;Eduarda Martins;Contagem;eduardamartins1300@example.net;17/05/25;Mouse;2;554.23
+V01301;970.714.975-25;Eduarda Rodrigues;Miraí;eduardarodrigues1301@example.net;2025-09-17;Monitor;1;1418.56
+V01302;783.299.846-65;Vitória Costa; Rio de Janeiro ;vitriacosta1302 @example.com;19/04/26;Mouse;1;159.75
+V01303;203.204.581-81;Pedro Silva;Viçosa;pedrosilva1303@example.com;2025/06/12;Mouse;7;
+V01304;866.816.506-28;Marcos Ribeiro;Além Paraíba;marcosribeiro1304@example.org;11/02/25;Webcam;5;1083.83
+V01305;487.761.050-25;Bruno Barbosa;Muriaé;brunobarbosa1305@example.org;09/11/2026;Smartphone;4;17599.32
+V01306;774.892.467-85;Pedro Gomes;Contagem;pedrogomes1306@example.org;29/08/26;Smartphone;5;18526.78
+V01307;103.515.591-50;Mariana Rocha;Miraí;marianarocha1307@example.com;2025-01-09;Notebook;8,00;
+V01308;640.297.879-50;Thiago Fernandes;Ubá;thiagofernandes1308@example.com;24-01-2026;Cadeira;8;4394.15
+V01309;099.503.365-04;  Lucas Pereira  ;Petrópolis;lucaspereira1309@example.net;2025-03-28;Notebook;7;28308.32
+V01310;897.519.393-49;Vitória Martins;Belo Horizonte;vitriamartins1310@example.com;23/08/2026;Notebook;6;20383.02
+V01311;375.317.935-30;Thiago Lima;Belo Horizonte;thiagolima1311@example.com;31/03/2025;SSD;5;2389.14
+V01312;661.182.325-56;Otávio Almeida;Campinas;otvioalmeida1312@example.org;2026-13-05;Roteador;3;1130.92
+V01313;271.194.714-91;  Marcos Mendes  ;Campinas;marcosmendes1313@example.org;2026-06-20;Cadeira;5;4850.36
+V01314;735.425.258-13;;Leopoldina;pedrofernandes1314@example.org;28/08/2025;Smartphone;4;14096.22
+V01315;832.313.302-63;Larissa Almeida;Miraí;larissaalmeida1315@example.net;03/08/2026;Roteador;6;1114.42
+V01316;798.832.284-23;Lucas Nascimento;Ubá;lucasnascimento1316@example.net;13-08-2025;Teclado;6;2537.42
+V01317;276.388.441-58;Vitória Almeida;Cataguases;vitriaalmeida1317@example.org;2026/11/05;Roteador;8;1529,05
+V01318;701.068.567-32;  Sabrina Silva  ;Viçosa;sabrinasilva1318@example.net;12/10/2025;Roteador;3;702.3
+V01319;502.814.384-64;Camila Santos;Miraí;camilasantos1319@example.net;2025-11-19;Headset;;1251.88
+V01320;370.575.501-39;Carla Costa;Cataguases;carlacosta1320@example.org;25/02/2026;Headset;5;726.63
+V01321;061.570.256-21;André Mendes;Volta Redonda;andrmendes1321@example.net;27/04/2026;Webcam;4;1358.27
+V01322;789.167.787-52;Lucas Dias;Miraí;lucasdias1322@example.com;;Cadeira;2;2157.32
+V01323;179.595.087-05;Isabela Ribeiro;Santos Dumont;isabelaribeiro1323@example.org;24-07-2026;Headset;6;1605.98
+V01324;607.786.387-41;Natália Carvalho;Rio de Janeiro;natliacarvalho1324@example.org;19-07-2025;Notebook;5;27442.04
+V01325;386.122.731-20;  João Ribeiro  ;Rio de Janeiro;jooribeiro1325@example.com;2025/05/23;Webcam;2;898.58
+V01326;467.032.548-51;  Felipe Martins  ;Campinas;felipemartins1326@example.org;30/09/2026;Webcam;2;334.54
+V01327;300.307.245-55;Gabriela Santos;Petrópolis;gabrielasantos1327@example.net;03/26/2026;Webcam;4;1412.91
+V01328;482.317.704-54;Ana Nascimento;Campinas;ananascimento1328@example.org;15/02/25;Mouse;4;767.05
+V01329;782.385.127-01;João Rodrigues;Muriaé;joorodrigues1329@example.com;05/05/2026;Notebook;5;30820.45
+V01330;501.615.581-01;Eduarda Costa;Contagem;eduardacosta1330@example.net;15/06/2025;Roteador;5;1168.77
+V01331;424.329.511-59;Vitória Lima;Muriaé;vitrialima1331@example.org;2026/10/07;Notebook;6;38318,71
+V01332;609.061.882-97;Isabela Rocha;São Paulo;isabelarocha1332@example.com;16/07/25;Impressora;5;3496.22
+V01333;000.000.000-01;Felipe Nascimento;Barbacena;felipenascimento1333@example.net;23/04/2025;Headset;5;2999.62
+V01334;783.051.888-26;Camila Lima;Rio de Janeiro;camilalima1334@example.com;18/03/25;Memória RAM;5;3595.04
+V01335;156.371.709-33;Felipe Barbosa;Juiz de Fora;felipebarbosa1335@example.org;2025/03/08;Mouse;6;853,45
+V01336;844.499.641-61;Lucas Barbosa;Juiz de Fora;lucasbarbosa1336@example.com;2026/09/04;Teclado;7;R$ 1.865,49
+V01337;731.250.676-35;Vitória Carvalho;Santos Dumont;vitriacarvalho1337@example.org;31/02/2026;Webcam;4;1106,49
+V01338;247.560.644-43;Vitória Fernandes;Santos Dumont;vitriafernandes1338@example.org;04/25/2026;Teclado;8;2292.38
+V01339;370.448.840-25;;Muriaé;marcosrocha1339@example.net;18/06/2026;Cadeira;7;8504.0
+V01340;298.671.044-13;Carla Silva;Viçosa;carlasilva1340@example.org;09-03-2025;Notebook;3;R$ 10.559,39
+V01341;201.849.648-40;João Mendes;Rio de Janeiro;joomendes1341@example.org;04/09/2026;Webcam;4;743.55
+V01342;231.474.518-37;Sabrina Dias;Volta Redonda;sabrinadias1342@example.com;2026/04/02;Webcam;5;2304.65
+V01343;906.829.519-52;Daniel Lima; Barbacena ;daniellima1343@example.com;12-05-2026;Teclado;1;221.88
+V01344;712.707.490-90;Henrique Lima;Petrópolis;henriquelima1344@example.net;2026/08/12;Roteador;5;2605.39
+V01345;822.893.716-46;Paula Pereira;Ubá;paulapereira1345@example.net;10-02-2026;Cadeira;8;3862.57
+V01346;412.276.970-16;Marcos Gomes;Cataguases;;01/17/2026;Cadeira;3;2548.54
+V01347;415.583.708-04;Carla Carvalho;Barbacena;carlacarvalho1347@example.org;2025-04-03;Smartphone;3;13997.77
+V01348;597.288.869-60;Eduarda Gomes;Volta Redonda;eduardagomes1348@example.net;09-07-2026;Mouse;5;856.91
+V01349;682.429.408-01;  Rafael Oliveira  ;Petrópolis;rafaeloliveira1349@example.net;2025/07/12;Webcam;6;1160.2
+V01350;;João Mendes;Matias Barbosa;joomendes1350@example.com;13/11/2025;Cadeira;6;R$ 9.377,06
+V01351;438.448.626-00;Pedro Fernandes;Petrópolis;pedrofernandes1351@example.net;18/11/2025;Memória RAM;3;436.73
+V01352;;  Carla Santos  ;Petrópolis;carlasantos1352@example.org;27/10/2026;;7;5236.43
+V01353;705.713.943-89;;Campinas;larissapereira1353@example.org;02/09/2025;Headset;2;472.06
+V01354;112.028.589-54;  Gabriela Almeida  ;Campinas;gabrielaalmeida1354@example.org;2025-02-24;Teclado;7;2700.63
+V01355;316.458.683-39;Sabrina Araújo; Juiz de Fora ;sabrinaarajo1355@example.org;2026/01/31;Cadeira;7;6009.66
+V01356;752.975.072-01;Paula Mendes;São Paulo;paulamendes1356@example.com;2026-06-29;Memória RAM;2;1518.64
+V01357;139.436.127-09;Mariana Santos;Betim;marianasantos1357@example.com;2025-03-07;Headset;7;4429.47
+V01358;111.777.690-51;  Bruno Silva  ;Contagem;brunosilva1358 @example.net;05/02/2026;Monitor;2;3513.62
+V01359;312.960.591-63;Isabela Nascimento; Santos Dumont ;isabelanascimento1359@example.com;2025/05/16;Monitor;4;4422.48
+V01360;432.015.965-91;Vitória Pereira;Santos Dumont;vitriapereira1360@example.com;07/11/26;Teclado;2;562.05
+V01361;865.760.751-47;André Carvalho;Matias Barbosa;andrcarvalho1361@example.com;12/10/25;Smartphone;2;4114.96
+V01362;157.096.956-62;;Juiz de Fora;carlasouza1362@example.org;17/05/2026;Webcam;7;2042.86
+V01363;050.111.785-70;Otávio Araújo;Volta Redonda;otvioarajo1363@example.net;2026-07-12;SSD;1;867.17
+V01364;317.078.413-74;Sabrina Mendes;Leopoldina;sabrinamendes1364@example.com;2026-10-03;Monitor;3;R$ 4.857,68
+V01365;774.651.146-50;Sabrina Lima;Petrópolis;sabrinalima1365@example.com;26-10-2026;Monitor;8;11341.6
+V01366;766.060.038-91;Pedro Pereira;Juiz de Fora;pedropereira1366@example.net;08/10/25;Impressora;2;1120.95
+V01367;765.605.215-17;Thiago Oliveira;São Paulo;thiagooliveira1367@example.org;;Memória RAM;4;1347.61
+V01368;977.634.605-72;Sabrina Ribeiro;Juiz de Fora;sabrinaribeiro1368@example.org;05/01/2026;Webcam;8;4284.78
+V01369;712.185.924-61;Eduarda Oliveira;Niterói;eduardaoliveira1369@example.com;04-05-2026;SSD;4;2551.15
+V01370;173.107.054-33;Ana Martins;Barbacena;anamartins1370@example.org;;Roteador;4;R$ 1.934,19
+V01371;875.196.955-66;;São Paulo;natliaribeiro1371@example.com;2025/07/19;Mouse;7;1393,78
+V01372;521.277.945-68;  Isabela Almeida  ;Ubá;;18-09-2025;Roteador;6;3201.78
+V01373;615.480.251-01;Gabriela Santos;Betim;gabrielasantos1373@example.org;21/04/2026;Cadeira;4;4217.09
+V01374;200.588.754-42;André Ribeiro;Leopoldina;andrribeiro1374@example.com;17/03/26;Webcam;3;1368.17
+V01375;396.052.707-15;André Rodrigues;Volta Redonda;andrrodrigues1375@example.com;2026-03-19;Notebook;8;29523.68
+V01376;439.258.643-01;Bruno Oliveira;Volta Redonda;brunooliveira1376@example.net;07/10/26;Impressora;1;1074.18
+V01377;191.590.185-51;André Nascimento;Leopoldina;andrnascimento1377@example.org;2025/04/20;Headset;2;657.76
+V01378;192.373.125-48;Carla Santos;Contagem;carlasantos1378@example.org;07/10/2026;SSD;8;1498.05
+V01379;880.784.221-14;Sabrina Fernandes;Volta Redonda;sabrinafernandes1379@example.org;2026/10/16;Teclado;5;1001.85
+V01380;582.611.553-08;Otávio Lima;Além Paraíba;otviolima1380@example.net;10-09-2026;Headset;5;1805.59
+V01381;461.842.619-50;Larissa Dias;Matias Barbosa;larissadias1381@example.net;2025-08-19;SSD;1;560.97
+V01382;118.339.920-09;Vitória Ribeiro;Ubá;;2025/03/10;Roteador;4;1707.59
+V01383;961.802.871-21;Mariana Pereira;Leopoldina;@example.com;2025-05-10;Headset;4;2122,20
+V01384;557.110.472-49;Vitória Martins;Campinas;vitriamartins1384 @example.net;07/18/2025;Cadeira;8;11494.75
+V01385;630.273.522-03;Natália Rocha;Cataguases;natliarocha1385@example.org;18-09-2025;Notebook;8;34674.79
+V01386;076.833.034-38;Paula Fernandes;Rio de Janeiro;paulafernandes1386@example.net;2026/01/31;Notebook;4;24825.12
+V01387;122.151.094-09;  João Mendes  ;Rio de Janeiro;joomendes1387@example.org;2026/09/17;Notebook;3;8426.42
+V01388;067.918.190-31;Sabrina Fernandes;Campinas;sabrinafernandes1388@example.com;12/25/2025;Notebook;8;40403.5
+V01389;303.806.273-11;Daniel Pereira;Volta Redonda;danielpereira1389@example.org;2026-03-12;Webcam;7;2877.2
+V01390;365.934.393-56;Henrique Fernandes;Ubá;henriquefernandes1390@example.com;30/03/25;Mouse;2;495.18
+V01391;408.298.674-07;;Niterói;pedrogomes1391@example.org;08/31/2026;Teclado;6;1404,62
+V01392;515.548.465-02;Mariana Souza;Viçosa;marianasouza1392@example.net;01/04/2026;Notebook;2;R$ 9.043,00
+V01393;820.984.561-67;Pedro Rocha; Contagem ;pedrorocha1393@example.org;2026-02-23;Notebook;1;4142.01
+V01394;080.142.515-81;Gabriela Almeida;Leopoldina;gabrielaalmeida1394@example.org;2025/04/16;Webcam;5;2586.7
+V01395;720.191.075-21;Marcos Dias;Matias Barbosa;marcosdias1395@example.net;2026-03-20;Smartphone;1,00;1671.18
+V01396;;Henrique Ribeiro;Matias Barbosa;henriqueribeiro1396@example.net;21/01/2026;Roteador;3;1637.89
+V01397;298.341.201-69;Lucas Mendes;Cataguases;lucasmendes1397@example.com;06/08/25;SSD;3;1124.94
+V01398;651.671.490-89;  Felipe Rocha  ;Campinas;feliperocha1398@example.com;19/06/2025;Cadeira;6;R$ 7.185,03
+V01399;414.785.540-71;Lucas Oliveira;Viçosa;lucasoliveira1399 @example.net;2025-12-13;Impressora;5;5919.85
+V01400;924.037.438-88;Carla Gomes; Leopoldina ;carlagomes1400@example.com;05/02/2025;Impressora;1;1493.25
+V01401;017.540.538-75;Bruno Dias;Viçosa;brunodias1401@example.net;2026/07/03;Impressora;5;
+V01402;820.219.842-91;Beatriz Carvalho;Betim;beatrizcarvalho1402@example.org;2025/03/28;SSD;7;5151.75
+V01403;052.057.597-05;Ana Rocha; Além Paraíba ;anarocha1403 @example.net;2026-03-30;Teclado;7;2571.7
+V01404;741.915.810-08;Bruno Ribeiro;Betim;brunoribeiro1404@example.com;18/02/2025;Notebook;7;23986.69
+V01405;837.552.778-50;Thiago Lima;Miraí;thiagolima1405@example.com;08-01-2025;SSD;7,00;1659.72
+V01406;412.918.214-58;Felipe Oliveira;Belo Horizonte;;2025/07/29;;5;2750.63
+V01407;802.209.106-51;Gabriela Pereira;Santos Dumont;gabrielapereira1407@example.net;2025/10/25;Teclado;3,00;990.54
+V01408;482.805.076-05;Marcos Almeida;Campinas;marcosalmeida1408@example.com;11/19/2026;Notebook;3;8702.75
+V01409;563.848.167-26;Lucas Costa;Betim;lucascosta1409@example.org;04/11/2025;Memória RAM;1;532.98
+V01410;308.626.937-57;Beatriz Silva;Santos Dumont;beatrizsilva1410@example.org;17/04/26;Monitor;6;6597.51
+V01411;881.861.763-07;Rafael Costa;;rafaelcosta1411@example.com;27/06/26;Webcam;4;1021.06
+V01412;450.474.290-09;João Lima;Niterói;joolima1412@example.com;02/23/2025;Memória RAM;7;3608.02
+V01413;332.498.102-67;Larissa Martins;Santos Dumont;larissamartins1413@example.com;28-05-2025;Teclado;3;885.3
+V01414;703.553.877-10;Rafael Rocha;Belo Horizonte;rafaelrocha1414@example.com;14-06-2025;Monitor;4;3307.57
+V01415;780.163.924-32;Rafael Ribeiro;Cataguases;rafaelribeiro1415@example.com;06/16/2026;Notebook;4;14236,24
+V01416;549.439.581-26;Rafael Barbosa;São Paulo;rafaelbarbosa1416@example.org;10-11-2025;Cadeira;7;10942.1
+V01417;987.239.606-05;Bruno Almeida;Muriaé;brunoalmeida1417 @example.net;2025/05/28;Smartphone;7;14126.44
+V01418;742.622.464-35;Lucas Souza;Muriaé;lucassouza1418@example.com;19/05/2025;Impressora;5;6492.76
+V01419;933.824.508-02;Beatriz Lima;Betim;beatrizlima1419@example.net;22-09-2025;Notebook;2;10264.76
+V01420;570.689.691-79;Natália Silva;Cataguases;natliasilva1420@example.net;2026/06/20;Webcam;1;218.37
+V01421;000.000.000-01;Camila Gomes;Cataguases;camilagomes1421@example.org;09/02/2025;Cadeira;5;7219.94
+V01422;157.558.540-51;  Carla Almeida  ;Belo Horizonte;carlaalmeida1422@example.org;2025-09-01;Mouse;6;357.75
+V01423;121.938.052-03;Paula Almeida;Barbacena;paulaalmeida1423@example.org;03/04/2025;Notebook;2;11349.07
+V01424;197.582.743-00;Paula Rodrigues;Barbacena;paularodrigues1424@example.org;11/10/2025;Smartphone;4;19998.8
+V01425;058.111.506-61;Thiago Gomes;Belo Horizonte;thiagogomes1425@example.com;2026/06/22;Teclado;5;1688.19
+V01426;929.896.249-54;Camila Fernandes;Além Paraíba;camilafernandes1426@example.org;19/04/26;Cadeira;8;3910.28
+V01427;842.719.789-66;Isabela Martins;Miraí;@example.com;01/03/2026;Headset;4;557.48
+V01428;204.500.980-70;Ana Barbosa;Belo Horizonte;anabarbosa1428@example.org;2025/09/27;Memória RAM;4;885.53
+V01429;667.318.498-13;  Eduarda Costa  ;Viçosa;eduardacosta1429@example.net;15/05/2026;Headset;5;3147.69
+V01430;851.283.791-84;Mariana Pereira;Muriaé;marianapereira1430@example.com;2026/02/26;Smartphone;7;19827.96
+V01431;502.503.575-94;Camila Lima;Cataguases;camilalima1431@example.net;2025/05/24;Impressora;2;941.72
+V01432;151.464.705-20;Vitória Nascimento;Muriaé;vitrianascimento1432@example.net;11/05/2026;Cadeira;3;1627.55
+V01433;859.180.351-51;André Carvalho;Rio de Janeiro;andrcarvalho1433@example.net;2026/09/08;Notebook;5;32052.63
+V01434;356.108.561-09;Felipe Silva;Muriaé;felipesilva1434@example.com;2025-07-10;Smartphone;6;27520.72
+V01435;926.995.332-71;  Beatriz Mendes  ;Ubá;beatrizmendes1435@example.org;15/04/26;Cadeira;1;514,64
+V01436;449.367.331-14;Henrique Oliveira;Muriaé;henriqueoliveira1436@example.org;29/09/2026;Roteador;5;1307.56
+V01437;813.701.803-40;Otávio Gomes;;otviogomes1437@example.org;14-04-2025;Impressora;4;3549.59
+V01438;875.783.772-49;Mariana Ribeiro;São Paulo;marianaribeiro1438@example.net;08/01/26;Memória RAM;7;3577.09
+V01439;483.614.108-73;Thiago Nascimento;São Paulo;thiagonascimento1439@example.com;01/11/2025;Cadeira;2;1637.81
+V01440;;Otávio Souza;Viçosa;otviosouza1440@example.com;17/09/26;Notebook;4;21803.83
+V01441;638.850.496-52;Paula Gomes;Contagem;paulagomes1441@example.net;2025/06/26;Teclado;4;497.76
+V01442;507.711.882-51;Lucas Souza;Muriaé;lucassouza1442@example.org;2025-03-21;Teclado;2;
+V01443;344.189.771-48;Bruno Mendes;Petrópolis;brunomendes1443@example.com;19/12/25;Roteador;2;467.14
+V01444;012.350.943-25;Felipe Souza;Santos Dumont;felipesouza1444@example.com;04-12-2025;Teclado;4;1276.77
+V01445;553.128.580-90;Daniel Dias;São Paulo;danieldias1445@example.org;24/02/2025;Monitor;1,00;617,62
+V01446;941.868.351-29;Eduarda Mendes;Cataguases;eduardamendes1446@example.com;22/02/2025;Notebook;1;3038.5
+V01447;777.009.558-17;João Carvalho;Contagem;joocarvalho1447@example.com;2025/01/21;Memória RAM;1;593.87
+V01448;153.362.124-16;Lucas Lima;Niterói;lucaslima1448@example.org;13/12/25;Monitor;7;7462.55
+V01449;903.149.135-73;Mariana Fernandes;Betim;marianafernandes1449@example.com;02/27/2026;Monitor;2;2992.23
+V01450;224.093.128-03;Henrique Barbosa;Muriaé;henriquebarbosa1450@example.org;06/19/2025;;6;4630.59
+V01451;441.466.703-82;ANA LIMA;Juiz de Fora;analima1178@example.org;11/04/2026;Teclado;4;1349.89
+V01452;427.739.092-76;Otávio Costa;Cataguases;otviocosta0148@example.org;06/20/2025;Memória RAM;4;3100.4
+V01453;482.317.704-54;ANA NASCIMENTO;Campinas;ananascimento1328@example.org;15/02/25;Mouse;4;767.05
+V01454;690.034.603-03;Larissa Almeida;Campinas;larissaalmeida0817@example.net;2026-01-09;Smartphone;5;21214.5
+V01455;813.427.841-80;GABRIELA NASCIMENTO;Leopoldina;gabrielanascimento0243@example.com;2026-07-19;Cadeira;2;1476.18
+V01456;450.184.729-88;Isabela Rocha;Belo Horizonte;cliente@;2025/01/16;Memória RAM;5;899.88
+V01457;011.184.346-42;MARCOS MENDES;Matias Barbosa;marcosmendes0225@example.net;03-05-2026;Mouse;1;113.81
+V01458;325.301.435-53;Pedro Dias;Juiz de Fora;pedrodias0094@example.net;11/09/2026;Impressora;4;R$ 4.274,98
+V01459;793.206.221-76;NATÁLIA MENDES;Niterói;natliamendes0284@example.net;08/03/26;Cadeira;5;5936.06
+V01460;453.038.988-07;Eduarda Ribeiro;Além Paraíba;eduardaribeiro0500@example.org;2025/10/08;Notebook;1;5432.18
+V01461;679.115.271-06;DANIEL SOUZA;Cataguases;danielsouza0830@example.com;03-02-2026;Roteador;6;2060.96
+V01462;152.074.840-02;Felipe Nascimento;Rio de Janeiro;felipenascimento0596@example.com;23/11/2025;Teclado;7;1572.33
+V01463;973.128.773-63;GABRIELA MARTINS;Leopoldina;gabrielamartins0278@example.net;26/09/2026;Smartphone;6;8872.27
+V01464;635.562.423-63;Thiago Gomes;Campinas;thiagogomes1149@example.org;12-01-2026;Cadeira;8;11131.52
+V01465;879.753.768-34;BEATRIZ NASCIMENTO;Viçosa;beatriznascimento0900@example.net;22-05-2025;Notebook;7;36679.79
+V01466;483.407.004-22;Mariana Oliveira;Rio de Janeiro;marianaoliveira0519@example.net;24/02/25;Notebook;7;31740.91
+V01467;925.324.470-45;JOÃO SANTOS;Contagem;joosantos0057@example.net;10/10/2026;Webcam;5;1237.2
+V01468;001.194.938-46;Natália Rodrigues;Miraí;natliarodrigues0211@example.com;;Smartphone;3;13291,85
+V01469;795.159.850-06;HENRIQUE SILVA;Miraí;henriquesilva0452@example.org;2025/08/05;Webcam;4;1403.97
+V01470;737.157.351-05;Ana Dias;Leopoldina;anadias1050@example.org;03-02-2026;Memória RAM;3;1355.86
+V01471;358.466.665-16;BEATRIZ ALMEIDA;São Paulo;beatrizalmeida0668@example.net;04/22/2025;Headset;2;975.88
+V01472;200.277.796-97;;Juiz de Fora;larissasilva0073@example.org;2026-03-08;Webcam;7;933.8
+V01473;915.649.508-09;ANDRÉ SANTOS;Cataguases;andrsantos0823@example.net;2026-11-20;SSD;5;2206.17
+V01474;344.348.818-85;Gabriela Martins;Petrópolis;gabrielamartins0126@example.org;03/09/2026;Memória RAM;7;2209.44
+V01475;012.350.943-25;FELIPE SOUZA;Santos Dumont;felipesouza1444@example.com;04-12-2025;Teclado;4;1276.77
+V01476;425.443.054-02;João Fernandes;Petrópolis;@example.com;2025/11/20;Teclado;4;1565.33
+V01477;498.453.825-26;FELIPE PEREIRA;Belo Horizonte;felipepereira0056@example.com;03/03/2026;Roteador;7;2634.81
+V01478;929.896.249-54;Camila Fernandes;Além Paraíba;camilafernandes1426@example.org;19/04/26;Cadeira;8;3910.28
+V01479;386.338.295-18;HENRIQUE DIAS;Rio de Janeiro;henriquedias0157@example.com;16/06/2026;Roteador;4;2092,13
+V01480;729.763.256-27;Mariana Pereira;Matias Barbosa;marianapereira0417@example.com;29/07/25;Notebook;7;42109.04
+V01481;453.577.944-90;Sabrina Martins;Contagem;sabrinamartins1481@example.com;2026/02/05;Cadeira;6;6590.39
+V01482;748.554.201-08;  Mariana Almeida  ;Volta Redonda;marianaalmeida1482@example.org;2025-02-19;Roteador;1;137.71
+V00914;383.943.650-87;Pedro Gomes;Belo Horizonte;pedrogomes0914@example.net;2025-04-26;Headset;2;1027.99
+V01154;369.021.261-87;;São Paulo;anadias1154@example.org;;Roteador;4;1375.15
+V00467;308.766.375-10;Rafael Gomes;Muriaé;rafaelgomes0467@example.net;16-05-2026;Headset;7;1575.72
+V00434;878.071.230-45;Bruno Rodrigues;Belo Horizonte;brunorodrigues0434@example.net;2026-09-29;Memória RAM;7;2789.73
+V01318;701.068.567-32;  Sabrina Silva  ;Viçosa;sabrinasilva1318@example.net;12/10/2025;Roteador;3;702.3
+V00414;257.203.795-51;André Rocha;Rio de Janeiro;andrrocha0414@example.com;09-08-2026;Webcam;5;2126.14
+V00543;546.308.425-44;Lucas Lima;Niterói;lucaslima0543@example.net;2025/01/04;Notebook;4;25367.68
+V00700;985.285.486-01;Otávio Silva;Ubá;otviosilva0700@example.com;19/08/2026;Memória RAM;7;1499.76
+V00785;203.967.817-49;Mariana Ribeiro;;marianaribeiro0785@example.org;03-12-2025;Teclado;5;2097.07
+V00680;410.643.467-91;Paula Araújo;Juiz de Fora;paulaarajo0680@example.net;09/06/2026;Notebook;1;4027.48
+V01347;415.583.708-04;Carla Carvalho;Barbacena;carlacarvalho1347@example.org;2025-04-03;Smartphone;3;13997.77
+V01226;761.473.606-05;Thiago Dias;Santos Dumont;thiagodias1226@example.com;2025-01-20;SSD;8;2654.31
+V00573;693.212.148-45;Thiago Costa;Muriaé;thiagocosta0573@example.net;2026-11-02;Webcam;5;2456.65
+V00138;477.253.571-31;  Ana Oliveira  ;Campinas;anaoliveira0138@example.net;2025-07-13;Mouse;8;R$ 586,13
+V01008;557.861.333-04;Felipe Nascimento;Barbacena;felipenascimento1008@example.com;16/08/26;Mouse;2;460.49
+V00674;853.056.029-99;Larissa Rocha;Campinas;larissarocha0674 @example.net;2026/02/06;Webcam;5;R$ 982,59
+V00523;123.057.826-92;Otávio Pereira;Petrópolis;otviopereira0523@example.com;2026/11/19;Monitor;4;4377.61
+V00501;188.762.936-05;Ana Almeida;Belo Horizonte;anaalmeida0501 @example.com;26-01-2026;Notebook;5;21162.21
